@@ -13,7 +13,7 @@ redirect_from:
 
 * I graduated with a Ph.D. degree from the Department of Electrical & Computer Engineering (ECE) at the [University of Washington (UW)](http://www.washington.edu/) in Jun. 2019. My advisor was [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/). I received my M.S. degree in Electrical Engineering also from UW in Mar. 2016. And my B.Sc. (Eng.) degree was received from the [Joint Programme](http://www.eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/) between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary, University of London (QMUL) with First Class Honours in Jun. 2014. 
 
-* The team from UW that I led was a two-time winner of the [AI City Challenge](https://www.aicitychallenge.org/) in 2017 and 2018. I am currently a member of the organizing committee of the upcoming 4th AI Challenge Workshop in CVPR 2020. 
+* The team from UW that I led was a two-time winner of the [AI City Challenges](https://www.aicitychallenge.org/) in 2017 and 2018. I am currently an organizing committee member of the upcoming 4th AI Challenge Workshop in CVPR 2020. 
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
@@ -44,4 +44,4 @@ redirect_from:
 </ul>
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=i6Cg2uwoVYtktTxLJzeGkQjg7ICgXupw_nf4-TfxTF4&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=a&t=n&d=i6Cg2uwoVYtktTxLJzeGkQjg7ICgXupw_nf4-TfxTF4&co=ffffff'></script>
