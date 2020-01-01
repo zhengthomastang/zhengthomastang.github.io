@@ -7,8 +7,6 @@ author_profile: true
 
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
-<br>
-
 <b>[PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data](http://zhengthomastang.github.io/publications/PAMTRI)</b> <br> 
 <b>Zheng Tang</b>, Milind Naphade, Stan Birchfield, Jonathan Tremblay, William Hodge, Ratnesh Kumar, Shuo Wang and Xiaodong Yang. 
 <i>2019 IEEE/CVF International Conference on Computer Vision</i>. <b>ICCV 2019</b>.
