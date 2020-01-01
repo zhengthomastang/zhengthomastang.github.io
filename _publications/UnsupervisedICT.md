@@ -9,7 +9,7 @@ paperurl: 'https://ieeexplore.ieee.org/document/8296754'
 citation: 'Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang.&quot;"Inter-Camera Tracking Based on Fully Unsupervised Online Learning".&quot;<i>Proceedings of 2017 IEEE International Conference on Image Processing (ICIP 2017)</i>.&quot;pp. 2607-2611.&quot;2017.'
 ---
 [[PDF]](https://ieeexplore.ieee.org/document/8296754)
-[[Poster]](http://zhengthomastang.github.io/files/UnsupervisedICT_poster.png)
+[[Poster]](http://zhengthomastang.github.io/files/UnsupervisedICT_poster.pdf)
 
 
 ## Abstract
@@ -18,10 +18,17 @@ In this paper, we present a novel fully automatic approach to track the same hum
 
 ## Citation
 @inproceedings{Lee17InterCamera,
+
 author={Young-Gun Lee and Zheng Tang and Jenq-Neng Hwang and Zhijun Fang},
+
 title = {Inter-camera tracking based on fully unsupervised online learning},
+
 booktitle = {Proc. ICIP},
+
 pages = {2607--2611}, 
+
 address = {Beijing, China},
+
 year = {2017}
+
 }

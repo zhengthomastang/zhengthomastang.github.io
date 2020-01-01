@@ -20,19 +20,26 @@ In a video surveillance system with a single static camera, tracking results of 
 * Finalist IBM Best Track 3 Student Paper Award in ICPR 2016
 * Finalist Intel Best Track 3 Student Paper Award in ICPR 2016
 <p align="center">
-  <img src="https://zhengthomastang.github.io/images/SelfCalHum_award1.jpg?raw=true" alt="Award_IBM" style="width: 450px;"/> 
+  <img src="http://zhengthomastang.github.io/images/SelfCalHum_award1.jpg?raw=true" alt="Award_IBM" style="width: 450px;"/> 
 </p>
 <p align="center">
-  <img src="https://zhengthomastang.github.io/images/SelfCalHum_award2.jpg?raw=true" alt="Award_Intel" style="width: 450px;"/> 
+  <img src="http://zhengthomastang.github.io/images/SelfCalHum_award2.jpg?raw=true" alt="Award_Intel" style="width: 450px;"/> 
 </p>
 
 
 ## Citation
 @inproceedings{Tang16SelfCalHum,
+
 author={Zheng Tang and Yen-Shuo Lin and Kuan-Hui Lee and Jenq-Neng Hwang and Jen-Hui Chuang and Zhijun Fang},
+
 title = {Camera self-calibration from tracking of moving persons},
+
 booktitle = {Proc. ICPR},
+
 pages = {260--265}, 
+
 address = {Canc\'{u}n, M\'{e}xico},
+
 year = {2016}
+
 }

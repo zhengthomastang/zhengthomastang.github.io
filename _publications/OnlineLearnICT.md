@@ -17,11 +17,19 @@ Due to the expanding scale of camera networks, Multiple Camera Tracking (MCT) of
 
 ## Citation
 @article{Lee18OnlineLearnICT,
+
 author={Young-Gun Lee and Zheng Tang and Jenq-Neng Hwang},
+
 title = {Online-learning-based human tracking across non-overlapping cameras},
+
 journal = {TCSVT},
+
 volume = {28},
+
 number = {10},
+
 pages = {2870--2883},
+
 year = {2018}
+
 }

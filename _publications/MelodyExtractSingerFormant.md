@@ -21,10 +21,17 @@ Current melody extraction approaches perform poorly on the genre of opera. The s
 
 ## Citation
 @inproceedings{Tang14Melody,
+
 author = {Zheng Tang and Dawn A. A. Black},
+
 title = {Melody extraction from polyphonic audio of western opera: {A} method based on detection of the singer's formant},
+
 booktitle = {Proc. ISMIR},
+
 pages = {161--166}, 
+
 address = {Taipei, Taiwan},
+
 year = {2014}
+
 }

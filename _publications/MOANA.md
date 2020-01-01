@@ -19,11 +19,19 @@ Multiple object tracking has been a challenging field, mainly due to noisy detec
 
 ## Citation
 @article{Tang19MOANA,
+
 author={Zheng Tang and Jenq-Neng Hwang},
+
 title = {{MOANA}: {A}n online learned adaptive appearance model for robust multiple object tracking in {3D}},
+
 journal = {IEEE Access},
+
 volume = {7},
+
 number = {1},
+
 pages = {31934--31945},
+
 year = {2019}
+
 }

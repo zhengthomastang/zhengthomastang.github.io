@@ -23,16 +23,23 @@ Tracking of vehicles across multiple cameras with non-overlapping views has been
 * Winner of Track 1 (Traffic Flow Analysis) at the 2nd AI City Challenge Workshop in CVPR 2018
 * Winner of Track 3 (Multi-camera Vehicle Detection & ReID) at the 2nd AI City Challenge Workshop in CVPR 2018
 <p align="center">
-  <img src="https://zhengthomastang.github.io/images/AIC18ICT_photo.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="http://zhengthomastang.github.io/images/AIC18ICT_photo.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
 ## Citation
 @inproceedings{Tang18AIC18ICT,
+
 author = {Zheng Tang and Gaoang Wang and Hao Xiao and Aotian Zheng and Jenq-Neng Hwang},
+
 title = {Single-camera and inter-camera vehicle tracking and {3D} speed estimation based on fusion of visual and semantic features},
+
 booktitle = {Proc. CVPR Workshops},
+
 pages = {108--115}, 
+
 address = {Salt Lake City, UT, USA},
+
 year = {2018}
+
 }

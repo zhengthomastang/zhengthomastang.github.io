@@ -20,17 +20,22 @@ Tracking of multiple objects is an important application in AI City geared towar
 ## Honor
 * Winner of Track 2 (AI City Applications) at the 1st AI City Challenge Workshop in SmartWorld 2017
 <p align="center">
-  <img src="https://zhengthomastang.github.io/images/AIC17MultiKernelTrack_award.png?raw=true" alt="Award" style="width: 450px;"/> 
+  <img src="http://zhengthomastang.github.io/images/AIC17MultiKernelTrack_award.png?raw=true" alt="Award" style="width: 450px;"/> 
 </p>
 <p align="center">
-  <img src="https://zhengthomastang.github.io/images/AIC17MultiKernelTrack_photo.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="http://zhengthomastang.github.io/images/AIC17MultiKernelTrack_photo.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
 ## Citation
 @misc{Tang17AIC17MultiKernelTrack,
+
 author = {Zheng Tang and Gaoang Wang and Tao Liu and Young-Gun Lee and Adwin Jahn and Xu Liu and Xiaodong He and Jenq-Neng Hwang},
+
 title = {Multiple-kernel based vehicle tracking using {3D} deformable model and camera self-calibration},
+
 howpublished = {arXiv:1708.06831},
+
 year = {2017}
+
 }

@@ -10,7 +10,7 @@ citation: '<b>Zheng Tang</b>, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan B
 ---
 [[PDF]](https://arxiv.org/abs/1903.09254)
 [[Video]](https://youtu.be/fzJe8M2y1s)
-[[Slides](http://zhengthomastang.github.io/CityFlow_slides.pdf)
+[[Slides](http://zhengthomastang.github.io/files/CityFlow_slides.pdf)
 [[Poster]](http://zhengthomastang.github.io/files/CityFlow_poster.pdf)
 [[Website]](https://www.aicitychallenge.org/2020-challenge/)
 
@@ -21,10 +21,17 @@ Urban traffic optimization using traffic cameras as sensors is driving the need 
 
 ## Citation
 @inproceedings{Tang19CityFlow,
+
 author = {Zheng Tang and Milind Naphade and Ming-Yu Liu and Xiaodong Yang and Stan Birchfield and Shuo Wang and Ratnesh Kumar and David Anastasiu and Jenq-Neng Hwang},
+
 title = {City{F}low: {A} city-scale benchmark for multi-target multi-camera vehicle tracking and re-identification},
+
 booktitle = {Proc. CVPR},
+
 pages = {8797--8806},
+
 address = {Long Beach, CA, USA},
+
 year = {2019}
+
 }

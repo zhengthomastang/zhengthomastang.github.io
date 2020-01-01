@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <br>
+
 <b>[PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data](http://zhengthomastang.github.io/publications/PAMTRI)</b> <br> 
 <b>Zheng Tang</b>, Milind Naphade, Stan Birchfield, Jonathan Tremblay, William Hodge, Ratnesh Kumar, Shuo Wang and Xiaodong Yang. 
 <i>2019 IEEE/CVF International Conference on Computer Vision</i>. <b>ICCV 2019</b>.
@@ -68,6 +69,6 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang.
 <i>2016 IEEE International Conference on Acoustics, Speech and Signal Processing</i>. <b>ICASSP 2016</b>.
 <span style="color:red">(Oral)</span>
 
-<b>[Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer’s Formant](http://zhengthomastang.github.io/MelodyExtractSingerFormant)</b> <br> 
+<b>[Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer’s Formant](http://zhengthomastang.github.io/publications/MelodyExtractSingerFormant)</b> <br> 
 <b>Zheng Tang</b> and Dawn AA Black. 
 <i>2014 International Society for Music Information Retrieval Conference</i>. <b>ISMIR 2014</b>.

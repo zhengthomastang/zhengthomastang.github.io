@@ -19,10 +19,17 @@ The goal of data analytics in surveillance videos is to fully understand and rec
 
 ## Citation
 @inproceedings{Tang18JointTrackHPE,
+
 author = {Zheng Tang and Renshu Gu and Jenq-Neng Hwang},
+
 title = {Joint multi-view people tracking and pose estimation for {3D} scene reconstruction},
+
 booktitle = {Proc. ICME},
+
 pages = {1--6},
+
 address = {San Diego, CA, USA},
+
 year = {2018}
+
 }
