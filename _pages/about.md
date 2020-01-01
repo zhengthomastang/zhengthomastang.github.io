@@ -19,29 +19,29 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Nov. 2019]</b> The proposal of the 4th AI City Challenge Workshop was accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).</li>
+  <li> <b>[Nov. 2019]</b> The proposal of the 4th AI City Challenge Workshop was accepted to <a href="http://cvpr2020.thecvf.com/">CVPR 2020</a>.</li>
 
-  <li> <b>[Jul. 2019]</b> My first-authored paper titled "PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data" was accepted to [ICCV 2019](http://iccv2019.thecvf.com/).</li>
+  <li> <b>[Jul. 2019]</b> My first-authored paper titled "PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data" was accepted to <a href="http://iccv2019.thecvf.com/">ICCV 2019</a>.</li>
 
-  <li> <b>[Jun. 2019]</b> I graduated with my Ph.D. degree from [UW](http://www.washington.edu/).</li>
+  <li> <b>[Jun. 2019]</b> I graduated with my Ph.D. degree from UW.</li>
 
-  <li> <b>[Feb. 2019]</b> My first-authored paper titled "CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification" was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/) ([Oral](https://youtu.be/fzJe8M2y1s0)).</li>
+  <li> <b>[Feb. 2019]</b> My first-authored paper titled "CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification" was accepted to <a href="http://cvpr2019.thecvf.com/">CVPR 2019</a> (<a href="https://youtu.be/fzJe8M2y1s0">Oral</a>).</li>
 
-  <li> <b>[Jun. 2018]</b> The team from UW that I led achieved rank #1 in both Track 1: Traffic Flow Analysis ([Demo](https://youtu.be/_i4numqiv7Y)) and Track 3: Multi-camera Vehicle Detection and Reidentification ([Demo](https://youtu.be/Jlvh_KxHl40)) at the [2nd AI City Challenge Workshop](https://www.aicitychallenge.org/2018-ai-city-challenge/) in [CVPR 2018](http://cvpr2018.thecvf.com/).</li> 
+  <li> <b>[Jun. 2018]</b> The team from UW that I led achieved rank #1 in both Track 1: Traffic Flow Analysis (<a href="https://youtu.be/_i4numqiv7Y">Demo</a>) and Track 3: Multi-camera Vehicle Detection and Reidentification (<a href="https://youtu.be/Jlvh_KxHl40">Demo</a>) at the <a href="https://www.aicitychallenge.org/2018-ai-city-challenge/">2nd AI City Challenge Workshop</a> in <a href="http://cvpr2018.thecvf.com/">CVPR 2018</a>.</li> 
 
-  <li> <b>[Jun. 2018]</b> My first-authored paper titled "Joint Multi-View People Tracking and Pose Estimation for 3D Scene Reconstruction" was accepted to [ICME 2018](http://www.icme2018.org/) (Oral).</li> 
+  <li> <b>[Jun. 2018]</b> My first-authored paper titled "Joint Multi-View People Tracking and Pose Estimation for 3D Scene Reconstruction" was accepted to <a href="http://www.icme2018.org/">ICME 2018</a> (Oral).</li> 
 
-  <li> <b>[Aug. 2017]</b> The team from UW that I led was the winner of Track 2 (AI City Applications) at the 1st AI City Challenge Workshop in [SmartWorld 2017](http://cse.stfx.ca/~smartworld/2017/smartworld/index.php) ([Demo](https://youtu.be/QA0Iek4tR0k)).</li> 
+  <li> <b>[Aug. 2017]</b> The team from UW that I led was the winner of Track 2: AI City Applications (<a href="https://youtu.be/QA0Iek4tR0k">Demo</a>) at the 1st AI City Challenge Workshop in <a href="http://cse.stfx.ca/~smartworld/2017/smartworld/index.php">SmartWorld 2017</a>.</li> 
 
 
-  <li> <b>[May 2017]</b> Our journal paper titled "Online-Learning-Based Human Tracking Across Non-Overlapping Cameras" was accepted to [TCSVT](http://tcsvt.polito.it/).</li> 
+  <li> <b>[May 2017]</b> Our journal paper titled "Online-Learning-Based Human Tracking Across Non-Overlapping Cameras" was accepted to <a href="http://tcsvt.polito.it/">TCSVT</a>.</li> 
 
-  <li> <b>[Dec. 2016]</b> My first-authored paper titled "Camera Self-Calibration from Tracking of Moving Persons" won two Finalist Best Student Paper Awards at [ICPR 2016](https://iapr.org/archives/icpr2016/site.1.html).</li>
+  <li> <b>[Dec. 2016]</b> My first-authored paper titled "Camera Self-Calibration from Tracking of Moving Persons" won two Finalist Best Student Paper Awards at <a href="https://iapr.org/archives/icpr2016/site.1.html">ICPR 2016</a>.</li>
 
-  <li> <b>[Mar. 2016]</b> I received my M.S. degree from [UW](http://www.washington.edu/).</li>
+  <li> <b>[Mar. 2016]</b> I received my M.S. degree from UW.</li>
 
-  <li> <b>[Jun. 2014]</b> My B.Sc. (Eng.) degree was received from the [Joint Programme](http://www.eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/) between BUPT and QMUL with First Class Honours.</li>
+  <li> <b>[Jun. 2014]</b> My B.Sc. (Eng.) degree was received from the Joint Programme between BUPT and QMUL with First Class Honours.</li>
 </ul>
 
 
-<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=i6Cg2uwoVYtktTxLJzeGkQjg7ICgXupw_nf4-TfxTF4"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=i6Cg2uwoVYtktTxLJzeGkQjg7ICgXupw_nf4-TfxTF4&cl=ffffff&w=a"></script>
