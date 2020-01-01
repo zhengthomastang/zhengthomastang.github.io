@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[Click here to view my up-to-date curriculum vitae (CV) [PDF]](http://zhengthomastang.github.io/files/CV_ZhengTang.pdf)
+[Click here to view my up-to-date curriculum vitae (CV) [PDF]](http://zhengthomastang.github.io/files/ZhengTang_CV.pdf)

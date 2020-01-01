@@ -3,14 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research"
-    url: /research/
-
   - title: "Publications"
     url: /publications/
-        
-  - title: "Extracurricular Life"
-    url: /extracurricular/
         
   - title: "Blog Posts"
     url: /year-archive/
