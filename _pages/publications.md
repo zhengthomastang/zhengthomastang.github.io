@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+# <i class="fa fa-fw fa-copy"></i> Publications #
 
 <br>
 
