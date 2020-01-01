@@ -7,6 +7,7 @@ author_profile: true
 
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
+
 <b>[PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data](http://zhengthomastang.github.io/publications/PAMTRI)</b> <br> 
 <b>Zheng Tang</b>, Milind Naphade, Stan Birchfield, Jonathan Tremblay, William Hodge, Ratnesh Kumar, Shuo Wang and Xiaodong Yang. 
 <i>2019 IEEE/CVF International Conference on Computer Vision</i>. <b>ICCV 2019</b>.
@@ -44,7 +45,8 @@ Na Wang, Haiqing Du, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang.
 
 <b>[Adaptive Ground Plane Estimation for Moving Camera-Based 3D Object Tracking](http://zhengthomastang.github.io/publications/AdaGPE)</b> <br> 
 Tao Liu, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang. 
-<i>2017 International Workshop on Multimedia Signal Processing</i>. <b>MMSP 2017</b>.
+<i>2017 International Workshop on Multimedia Signal Processing</i>. <b>MMSP 2017</b>. <br>
+[[PDF]](https://ieeexplore.ieee.org/document/8122256)
 
 <b>[Inter-Camera Tracking Based on Fully Unsupervised Online Learning](http://zhengthomastang.github.io/publications/UnsupervisedICT)</b> <br> 
 Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang. 
