@@ -11,4 +11,6 @@ redirect_from:
 
 # <i class="fa fa-fw fa-file "></i> Curriculum Vitae #
 
+<br>
+
 [Click here to view my up-to-date curriculum vitae (CV) [PDF]](http://zhengthomastang.github.io/files/ZhengTang_CV.pdf)
