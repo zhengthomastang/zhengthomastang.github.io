@@ -8,6 +8,16 @@ venue: "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2n
 paperurl: "http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.html"
 citation: '<b>Zheng Tang</b>, Gaoang Wang, Hao Xiao, Aotian Zheng and Jenq-Neng Hwang. "Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features". <i>Proceedings of 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2018)</i>. pp. 108-115. 2018.'
 ---
+# Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features
+
+[<a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.html">PDF</a>]
+[<a href="https://youtu.be/fzJe8M2y1s0">Video</a>]
+[<a href="https://github.com/zhengthomastang/2018AICity_TeamUW">Code</a>]
+[<a href="http://zhengthomastang.github.io/files/AIC18ICT_slides.pdf">Slides</a>]
+[<a href="http://zhengthomastang.github.io/files/AIC18ICT_poster.pdf">Poster</a>]
+[<a href="https://youtu.be/_i4numqiv7Y">Demo1</a>]
+[<a href="https://youtu.be/Jlvh_KxHl40">Demo2</a>]
+
 ## Abstract
 Tracking of vehicles across multiple cameras with non-overlapping views has been a challenging task for the intelligent transportation system (ITS). It is mainly because of high similarity among vehicle models, frequent occlusion, large variation in different viewing perspectives and low video resolution. In this work, we propose a fusion of visual and semantic features for both single-camera tracking (SCT) and inter-camera tracking (ICT). Specifically, a histogram-based adaptive appearance model is introduced to learn long-term history of visual features for each vehicle target. Besides, semantic features including trajectory smoothness, velocity change and temporal information are incorporated into a bottom-up clustering strategy for data association in each single camera view. Across different camera views, we also exploit other information, such as deep learning features, detected license plate features and detected car types, for vehicle re-identification. Additionally, evolutionary optimization is applied to camera calibration for reliable 3D speed estimation. Our algorithm achieves the top performance in both 3D speed estimation and vehicle re-identification at the NVIDIA AI City Challenge 2018.
 

@@ -8,6 +8,11 @@ venue: "Ph.D. dissertation. Department of Electrical & Computer Engineering, Uni
 paperurl: "http://hdl.handle.net/1773/43951"
 citation: '<b>Zheng Tang</b>. "Robust Video Object Tracking via Camera Self-Calibration". Ph.D. dissertation. University of Washington, Seattle, WA. 2019.'
 ---
+# Robust Video Object Tracking via Camera Self-Calibration
+
+[<a href="http://hdl.handle.net/1773/43951">PDF</a>]
+[<a href="http://zhengthomastang.github.io/files/Dissertation_slides.pdf">Slides</a>]
+
 ## Abstract
 In this dissertation, a framework for 3D scene reconstruction based on robust video object tracking assisted by camera self-calibration is proposed, which includes several algorithmic components. (1) An algorithm for joint camera self-calibration and automatic radial distortion correction based on tracking of walking persons is designed to convert multiple object tracking into 3D space. (2) An adaptive model that learns online a relatively long-term appearance change of each target is proposed for robust 3D tracking. (3) We also develop an iterative two-step evolutionary optimization scheme to estimate 3D pose of each human target, which can jointly compute the camera trajectory for a moving camera as well. (4) With 3D tracking results and human pose information from multiple views, we propose multi-view 3D scene reconstruction based on data association with visual and semantic attributes. 
 

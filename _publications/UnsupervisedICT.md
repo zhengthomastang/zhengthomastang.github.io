@@ -8,6 +8,11 @@ venue: "2017 IEEE International Conference on Image Processing"
 paperurl: "https://ieeexplore.ieee.org/document/8296754"
 citation: 'Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang. "Inter-Camera Tracking Based on Fully Unsupervised Online Learning". <i>Proceedings of 2017 IEEE International Conference on Image Processing (ICIP 2017)</i>. pp. 2607-2611. 2017.'
 ---
+# Inter-Camera Tracking Based on Fully Unsupervised Online Learning
+
+[<a href="https://ieeexplore.ieee.org/document/8296754">PDF</a>]
+[<a href="http://zhengthomastang.github.io/files/UnsupervisedICT_poster.pdf">Poster</a>]
+
 ## Abstract
 In this paper, we present a novel fully automatic approach to track the same human across multiple disjoint cameras. Our framework includes a two-phase feature extractor and an online-learning-based camera link model estimation. We introduce an effective and robust integration of appearance and context features. Couples are detected automatically, and the couple feature is also integrated with appearance features effectively. The proposed algorithm is scalable with the use of a fully unsupervised online learning framework. In the experiments, it outperforms all the state-of-the-art methods on the benchmark NLPR_MCT dataset.
 
