@@ -14,10 +14,10 @@ In a video surveillance system with a single static camera, tracking results of 
 
 ## Honor
 * Finalist IBM Best Track 3 Student Paper Award in ICPR 2016
-* Finalist Intel Best Track 3 Student Paper Award in ICPR 2016
 <p align="center">
   <img src="http://zhengthomastang.github.io/images/SelfCalHum_award1.jpg?raw=true" alt="Award_IBM" style="width: 450px;"/> 
 </p>
+* Finalist Intel Best Track 3 Student Paper Award in ICPR 2016
 <p align="center">
   <img src="http://zhengthomastang.github.io/images/SelfCalHum_award2.jpg?raw=true" alt="Award_Intel" style="width: 450px;"/> 
 </p>

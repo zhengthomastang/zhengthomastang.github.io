@@ -9,12 +9,15 @@ author_profile: true
 
 ## Journal Articles ##
 
-<b>[MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D](http://zhengthomastang.github.io/publications/MOANA)</b><br> 
-<b>Zheng Tang</b> and Jenq-Neng Hwang. 
-<i>IEEE Access</i>. 2019.<br>
-[[PDF](https://ieeexplore.ieee.org/document/8660675)]
-[[Demo1](https://motchallenge.net/vis/PETS09-S2L2/MOANA)]
-[[Demo2](https://motchallenge.net/vis/AVG-TownCentre/MOANA)]
+<p>
+  <img src="https://zhengthomastang.github.io/images/MOANA_figure.jpg?raw=true" alt="Figure" style="width: 200px;" align="left"/> 
+  <b>[MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D](http://zhengthomastang.github.io/publications/MOANA)</b><br> 
+  <b>Zheng Tang</b> and Jenq-Neng Hwang. 
+  <i>IEEE Access</i>. 2019.<br>
+  [[PDF](https://ieeexplore.ieee.org/document/8660675)]
+  [[Demo1](https://motchallenge.net/vis/PETS09-S2L2/MOANA)]
+  [[Demo2](https://motchallenge.net/vis/AVG-TownCentre/MOANA)]
+</p>
 
 <b>[ESTHER: Joint Camera Self-Calibration and Automatic Radial Distortion Correction from Tracking of Walking Humans](http://zhengthomastang.github.io/publications/ESTHER)</b><br> 
 <b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang and Jen-Hui Chuang. 
