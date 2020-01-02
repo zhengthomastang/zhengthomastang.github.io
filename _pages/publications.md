@@ -47,7 +47,7 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 </p>
 
 <p>
-<img src="https://zhengthomastang.github.io/images/CityFlow_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
+<img src="https://zhengthomastang.github.io/images/CityFlow_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
 <b><a href="http://zhengthomastang.github.io/publications/CityFlow">CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification</a></b><br> 
 <b>Zheng Tang</b>, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu and Jenq-Neng Hwang. <i>2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2019</b>. <span style="color:red">(Oral)</span><br>
 [<a href="https://arxiv.org/abs/1903.09254">PDF</a>]
@@ -86,7 +86,7 @@ Na Wang, Haiqing Du, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>2018 IE
 </p>
 
 <p>
-<img src="https://zhengthomastang.github.io/images/AIC18ICT_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
+<img src="https://zhengthomastang.github.io/images/AIC18ICT_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
 <b><a href="http://zhengthomastang.github.io/publications/AIC18ICT">Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features</a></b><br> 
 <b>Zheng Tang</b>, Gaoang Wang, Hao Xiao, Aotian Zheng and Jenq-Neng Hwang. <i>2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd AI City Challenge Workshop</i>. <b>CVPRW 2018</b>. <span style="color:red">(Winner of Track 1 & Track 3 at the 2nd AI City Challenge Workshop)</span><br>
 [<a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.html">PDF</a>]
@@ -103,8 +103,7 @@ Na Wang, Haiqing Du, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>2018 IE
 <img src="https://zhengthomastang.github.io/images/AdaGPE_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
 <b><a href="http://zhengthomastang.github.io/publications/AdaGPE">Adaptive Ground Plane Estimation for Moving Camera-Based 3D Object Tracking</a></b><br> 
 Tao Liu, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>2017 International Workshop on Multimedia Signal Processing</i>. <b>MMSP 2017</b>.<br>
-[<a href="https://ieeexplore.ieee.org/document/8296754">PDF</a>]
-[<a href="http://zhengthomastang.github.io/files/UnsupervisedICT_poster.pdf">Poster</a>]
+[<a href="https://ieeexplore.ieee.org/document/8122256">PDF</a>]
 <br clear="left">
 </p>
 
@@ -112,8 +111,8 @@ Tao Liu, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>2017 International 
 <img src="https://zhengthomastang.github.io/images/UnsupervisedICT_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
 <b><a href="http://zhengthomastang.github.io/publications/UnsupervisedICT">Inter-Camera Tracking Based on Fully Unsupervised Online Learning</a></b><br> 
 Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang. <i>2017 IEEE International Conference on Image Processing</i>. <b>ICIP 2017</b>.<br>
-[<a href="">PDF</a>]
-[<a href=""></a>]
+[<a href="https://ieeexplore.ieee.org/document/8296754">PDF</a>]
+[<a href="http://zhengthomastang.github.io/files/UnsupervisedICT_poster.pdf">Poster</a>]
 <br clear="left">
 </p>
 
