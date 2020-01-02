@@ -90,7 +90,6 @@ Na Wang, Haiqing Du, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>2018 IE
 <b><a href="http://zhengthomastang.github.io/publications/AIC18ICT">Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features</a></b><br> 
 <b>Zheng Tang</b>, Gaoang Wang, Hao Xiao, Aotian Zheng and Jenq-Neng Hwang. <i>2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd AI City Challenge Workshop</i>. <b>CVPRW 2018</b>. <span style="color:red">(Winner of Track 1 & Track 3 at the 2nd AI City Challenge Workshop)</span><br>
 [<a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.html">PDF</a>]
-[<a href="https://youtu.be/fzJe8M2y1s0">Video</a>]
 [<a href="https://github.com/zhengthomastang/2018AICity_TeamUW">Code</a>]
 [<a href="http://zhengthomastang.github.io/files/AIC18ICT_slides.pdf">Slides</a>]
 [<a href="http://zhengthomastang.github.io/files/AIC18ICT_poster.pdf">Poster</a>]
