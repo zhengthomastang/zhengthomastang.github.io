@@ -20,10 +20,10 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://zhengthomastang.github.io/images/ESTHER_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
-<b>[ESTHER: Joint Camera Self-Calibration and Automatic Radial Distortion Correction from Tracking of Walking Humans](http://zhengthomastang.github.io/publications/ESTHER)</b><br> 
+<img src="https://zhengthomastang.github.io/images/ESTHER_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
+<b><a href="http://zhengthomastang.github.io/publications/ESTHER">ESTHER: Joint Camera Self-Calibration and Automatic Radial Distortion Correction from Tracking of Walking Humans</a></b><br> 
 <b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang and Jen-Hui Chuang. <i>IEEE Access</i>. 2019.<br>
-[[PDF](https://ieeexplore.ieee.org/document/8605504)]
+[<a href="https://ieeexplore.ieee.org/document/8605504">PDF</a>]
 <br clear="left">
 </p>
 
