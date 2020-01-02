@@ -7,6 +7,21 @@ author_profile: true
 
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
+## Journal Articles ##
+
+<b>[MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D](http://zhengthomastang.github.io/publications/MOANA)</b> <br> 
+<b>Zheng Tang</b> and Jenq-Neng Hwang. 
+<i>IEEE Access</i>. 2019.
+
+<b>[ESTHER: Joint Camera Self-Calibration and Automatic Radial Distortion Correction from Tracking of Walking Humans](http://zhengthomastang.github.io/publications/ESTHER)</b> <br> 
+<b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang and Jen-Hui Chuang. 
+<i>IEEE Access</i>. 2019.
+
+<b>[Online-Learning-Based Human Tracking Across Non-Overlapping Cameras](http://zhengthomastang.github.io/publications/OnlineLearnICT)</b> <br> 
+Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. 
+<i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>TCSVT</b>.
+
+## Conference Papers ##
 
 <b>[PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data](http://zhengthomastang.github.io/publications/PAMTRI)</b> <br> 
 <b>Zheng Tang</b>, Milind Naphade, Stan Birchfield, Jonathan Tremblay, William Hodge, Ratnesh Kumar, Shuo Wang and Xiaodong Yang. 
@@ -20,14 +35,6 @@ author_profile: true
 <b>[The 2019 AI City Challenge](http://zhengthomastang.github.io/publications/AIC19)</b> <br> 
 Milind Naphade, <b>Zheng Tang</b>, Ming-Ching Chang, David C Anastasiu, Anuj Sharma, Rama Chellappa, Shuo Wang, Pranamesh Chakraborty, Tingting Huang, Jenq-Neng Hwang and Siwei Lyu. 
 <i>2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 3rd AI City Challenge Workshop</i>. <b>CVPRW 2019</b>.
-
-<b>[MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D](http://zhengthomastang.github.io/publications/MOANA)</b> <br> 
-<b>Zheng Tang</b> and Jenq-Neng Hwang. 
-<i>IEEE Access</i>. 2019.
-
-<b>[ESTHER: Joint Camera Self-Calibration and Automatic Radial Distortion Correction from Tracking of Walking Humans](http://zhengthomastang.github.io/publications/ESTHER)</b> <br> 
-<b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang and Jen-Hui Chuang. 
-<i>IEEE Access</i>. 2019.
 
 <b>[Self-Calibration of Traffic Surveillance Cameras Based on Moving Vehicle Appearance and 3-D Vehicle Modeling](http://zhengthomastang.github.io/publications/SelfCalVeh)</b> <br> 
 Na Wang, Haiqing Du, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang. 
@@ -56,10 +63,9 @@ Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang.
 <b>Zheng Tang</b>, Gaoang Wang, Tao Liu, Young-Gun Lee, Adwin Jahn, Xu Liu, Xiaodong He and Jenq-Neng Hwang. 
 <i>2017 IEEE Smart World Congress - 1st AI City Challenge Workshop</i>. 
 <span style="color:red">(Winner of Track 2 at the 1st AI City Challenge)</span>
-
-<b>[Online-Learning-Based Human Tracking Across Non-Overlapping Cameras](http://zhengthomastang.github.io/publications/OnlineLearnICT)</b> <br> 
-Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. 
-<i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>TCSVT</b>.
+[[PDF]](https://arxiv.org/abs/1708.06831)
+[[Website]](http://allison.ee.washington.edu/thomas/3dvt/)
+[[Code]](https://github.com/NVIDIAAICITYCHALLENGE/AICity_TeamUW)
 
 <b>[Camera Self-Calibration from Tracking of Moving Persons](http://zhengthomastang.github.io/publications/SelfCalHum)</b> <br> 
 <b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang, Jen-Hui Chuang and Zhijun Fang. 
