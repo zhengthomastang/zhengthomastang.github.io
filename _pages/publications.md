@@ -33,7 +33,7 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang.
 <i>2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2019</b>. 
 <span style="color:red">(Oral)</span><br>
 [[PDF](https://arxiv.org/abs/1903.09254)]
-[[Video](https://youtu.be/fzJe8M2y1s)]
+[[Video](https://youtu.be/fzJe8M2y1s0)]
 [[Slides](http://zhengthomastang.github.io/files/CityFlow_slides.pdf)]
 [[Poster](http://zhengthomastang.github.io/files/CityFlow_poster.pdf)]
 [[Website](https://www.aicitychallenge.org/2020-challenge/)]
