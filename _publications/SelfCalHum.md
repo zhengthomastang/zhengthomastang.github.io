@@ -25,7 +25,7 @@ In a video surveillance system with a single static camera, tracking results of 
 
 ## Citation
 @inproceedings{Tang16SelfCalHum,  
-author={Zheng Tang and Yen-Shuo Lin and Kuan-Hui Lee and Jenq-Neng Hwang and Jen-Hui Chuang and Zhijun Fang},  
+author = {Zheng Tang and Yen-Shuo Lin and Kuan-Hui Lee and Jenq-Neng Hwang and Jen-Hui Chuang and Zhijun Fang},  
 title = {Camera self-calibration from tracking of moving persons},  
 booktitle = {Proc. ICPR},  
 pages = {260--265},  
