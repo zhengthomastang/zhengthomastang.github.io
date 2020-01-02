@@ -116,38 +116,51 @@ Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang. <i>2017 IEEE 
 <br clear="left">
 </p>
 
-<b>[Multiple-Kernel Based Vehicle Tracking Using 3D Deformable Model and Camera Self-Calibration](http://zhengthomastang.github.io/publications/AIC17MultiKernelTrack)</b><br> 
-<b>Zheng Tang</b>, Gaoang Wang, Tao Liu, Young-Gun Lee, Adwin Jahn, Xu Liu, Xiaodong He and Jenq-Neng Hwang. 
-<i>2017 IEEE Smart World Congress - 1st AI City Challenge Workshop</i>. 
-<span style="color:red">(Winner of Track 2 at the 1st AI City Challenge)</span><br>
-[[PDF](https://arxiv.org/abs/1708.06831)]
-[[Slides](http://zhengthomastang.github.io/files/AIC17MultiKernelTrack_slides.pdf)]
-[[Demo](https://youtu.be/QA0Iek4tR0k)]
+<p>
+<img src="https://zhengthomastang.github.io/images/AIC17MultiKernelTrack_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
+<b><a href="http://zhengthomastang.github.io/publications/AIC17MultiKernelTrack">Multiple-Kernel Based Vehicle Tracking Using 3D Deformable Model and Camera Self-Calibration</a></b><br> 
+<b>Zheng Tang</b>, Gaoang Wang, Tao Liu, Young-Gun Lee, Adwin Jahn, Xu Liu, Xiaodong He and Jenq-Neng Hwang. <i>2017 IEEE Smart World Congress - 1st AI City Challenge Workshop</i>. <span style="color:red">(Winner of Track 2 at the 1st AI City Challenge)</span><br>
+[<a href="https://arxiv.org/abs/1708.06831">PDF</a>]
+[<a href="http://zhengthomastang.github.io/files/AIC17MultiKernelTrack_slides.pdf">Slides</a>]
+[<a href="https://youtu.be/QA0Iek4tR0k">Demo</a>]
+<br clear="left">
+</p>
 
-<b>[Camera Self-Calibration from Tracking of Moving Persons](http://zhengthomastang.github.io/publications/SelfCalHum)</b><br>
-<b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang, Jen-Hui Chuang and Zhijun Fang. 
-<i>2016 International Conference on Pattern Recognition</i>. <b>ICPR 2016</b>.
-<span style="color:red">(Finalist IBM Best Student Paper Award & Finalist Intel Best Student Paper Award)</span><br>
-[[PDF](https://ieeexplore.ieee.org/document/7899644)]
-[[Slides](http://zhengthomastang.github.io/files/SelfCalHum_slides.pdf)]
-[[Demo](https://youtu.be/Lqe8AgCxiRg)]
+<p>
+<img src="https://zhengthomastang.github.io/images/SelfCalHum_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
+<b><a href="http://zhengthomastang.github.io/publications/SelfCalHum">Camera Self-Calibration from Tracking of Moving Persons</a></b><br> 
+<b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang, Jen-Hui Chuang and Zhijun Fang. <i>2016 International Conference on Pattern Recognition</i>. <b>ICPR 2016</b>. <span style="color:red">(Finalist IBM Best Student Paper Award & Finalist Intel Best Student Paper Award)</span><br>
+[<a href="https://ieeexplore.ieee.org/document/7899644">PDF</a>]
+[<a href="http://zhengthomastang.github.io/files/SelfCalHum_slides.pdf">Slides</a>]
+[<a href="https://youtu.be/Lqe8AgCxiRg">Demo</a>]
+<br clear="left">
+</p>
 
-<b>[Multiple-Kernel Adaptive Segmentation and Tracking (MAST) for Robust Object Tracking](http://zhengthomastang.github.io/publications/MAST)</b><br> 
-<b>Zheng Tang</b>, Jenq-Neng Hwang, Yen-Shuo Lin and Jen-Hui Chuang. 
-<i>2016 IEEE International Conference on Acoustics, Speech and Signal Processing</i>. <b>ICASSP 2016</b>.
-<span style="color:red">(Oral)</span><br>
-[[PDF](http://ieeexplore.ieee.org/document/7471849)]
-[[Slides](http://zhengthomastang.github.io/files/MAST_slides.pdf)]
-[[Website](http://allison.ee.washington.edu/thomas/mast/)]
+<p>
+<img src="https://zhengthomastang.github.io/images/MAST_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
+<b><a href="http://zhengthomastang.github.io/publications/MAST">Multiple-Kernel Adaptive Segmentation and Tracking (MAST) for Robust Object Tracking</a></b><br> 
+<b>Zheng Tang</b>, Jenq-Neng Hwang, Yen-Shuo Lin and Jen-Hui Chuang. <i>2016 IEEE International Conference on Acoustics, Speech and Signal Processing</i>. <b>ICASSP 2016</b>. <span style="color:red">(Oral)</span><br>
+[<a href="https://ieeexplore.ieee.org/document/7471849">PDF</a>]
+[<a href="http://zhengthomastang.github.io/files/MAST_slides.pdf">Slides</a>]
+[<a href="http://allison.ee.washington.edu/thomas/mast/">Website</a>]
+<br clear="left">
+</p>
 
-<b>[Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer’s Formant](http://zhengthomastang.github.io/publications/MelodyExtractSingerFormant)</b><br> 
-<b>Zheng Tang</b> and Dawn AA Black. 
-<i>2014 International Society for Music Information Retrieval Conference</i>. <b>ISMIR 2014</b>.<br>
-[[PDF](http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf)]
+<p>
+<img src="https://zhengthomastang.github.io/images/MelodyExtractSingerFormant_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
+<b><a href="http://zhengthomastang.github.io/publications/MelodyExtractSingerFormant">Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer's Formant</a></b><br> 
+<b>Zheng Tang</b> and Dawn AA Black. <i>2014 International Society for Music Information Retrieval Conference</i>. <b>ISMIR 2014</b>.<br>
+[<a href="http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf">PDF</a>]
+<br clear="left">
+</p>
 
 ## Dissertation ##
 
-<b>[Robust Video Object Tracking via Camera Self-Calibration](http://zhengthomastang.github.io/publications/Dissertation)</b><br> 
-<b>Zheng Tang</b>. 
-Ph.D. dissertation. University of Washington, Seattle, WA. 2019.<br>
-[[PDF](http://hdl.handle.net/1773/43951)]
+<p>
+<img src="https://zhengthomastang.github.io/images/Dissertation_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
+<b><a href="http://zhengthomastang.github.io/publications/Dissertation">Robust Video Object Tracking via Camera Self-Calibration</a></b><br> 
+<b>Zheng Tang</b>. Ph.D. dissertation. University of Washington, Seattle, WA. 2019.<br>
+[<a href="http://hdl.handle.net/1773/43951">PDF</a>]
+[<a href="http://zhengthomastang.github.io/files/Dissertation_slides.pdf">Slides</a>]
+<br clear="left">
+</p>
