@@ -20,17 +20,20 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://zhengthomastang.github.io/images/ESTHER_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
+<img src="https://zhengthomastang.github.io/images/ESTHER_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
 <b><a href="http://zhengthomastang.github.io/publications/ESTHER">ESTHER: Joint Camera Self-Calibration and Automatic Radial Distortion Correction from Tracking of Walking Humans</a></b><br> 
 <b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang and Jen-Hui Chuang. <i>IEEE Access</i>. 2019.<br>
 [<a href="https://ieeexplore.ieee.org/document/8605504">PDF</a>]
 <br clear="left">
 </p>
 
-<b>[Online-Learning-Based Human Tracking Across Non-Overlapping Cameras](http://zhengthomastang.github.io/publications/OnlineLearnICT)</b><br> 
-Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. 
-<i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>TCSVT</b>.<br>
-[[PDF](http://ieeexplore.ieee.org/document/7932896)]
+<p>
+<img src="https://zhengthomastang.github.io/images/OnlineLearnICT_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/>
+<b><a href="http://zhengthomastang.github.io/publications/OnlineLearnICT">Online-Learning-Based Human Tracking Across Non-Overlapping Cameras</a></b><br> 
+Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>TCSVT</b>.<br>
+[<a href="https://ieeexplore.ieee.org/document/7932896">PDF</a>]
+<br clear="left">
+</p>
 
 ## Conference Papers ##
 
