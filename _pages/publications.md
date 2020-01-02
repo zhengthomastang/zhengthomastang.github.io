@@ -150,6 +150,8 @@ Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang. <i>2017 IEEE 
 <b><a href="http://zhengthomastang.github.io/publications/MelodyExtractSingerFormant">Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer's Formant</a></b><br> 
 <b>Zheng Tang</b> and Dawn AA Black. <i>2014 International Society for Music Information Retrieval Conference</i>. <b>ISMIR 2014</b>.<br>
 [<a href="http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf">PDF</a>]
+[<a href="http://zhengthomastang.github.io/files/MelodyExtractSingerFormant_craze.pdf">Craze</a>]
+[<a href="http://zhengthomastang.github.io/files/MelodyExtractSingerFormant_poster.pdf">Poster</a>]
 <br clear="left">
 </p>
 
