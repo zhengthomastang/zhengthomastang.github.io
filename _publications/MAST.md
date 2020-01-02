@@ -13,7 +13,7 @@ In a video surveillance system with static cameras, object segmentation often fa
 
 
 ## Citation
-@inproceedings{Tang16MultipleKernel,  
+@inproceedings{Tang16MAST,  
 author = {Zheng Tang and Jenq-Neng Hwang and Yen-Shuo Lin and Jen-Hui Chuang},  
 title = {Multiple-kernel adaptive segmentation and tracking ({MAST}) for robust object tracking},  
 booktitle = {Proc. ICASSP},  

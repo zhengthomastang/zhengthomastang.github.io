@@ -91,7 +91,7 @@ Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang.
 <span style="color:red">(Winner of Track 2 at the 1st AI City Challenge)</span><br>
 [[PDF](https://arxiv.org/abs/1708.06831)]
 [[Slides](http://zhengthomastang.github.io/files/AIC17MultiKernelTrack_slides.pdf)]
-[[Website](http://allison.ee.washington.edu/thomas/3dvt/)]
+[[Demo](https://youtu.be/QA0Iek4tR0k)]
 
 <b>[Camera Self-Calibration from Tracking of Moving Persons](http://zhengthomastang.github.io/publications/SelfCalHum)</b><br>
 <b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang, Jen-Hui Chuang and Zhijun Fang. 
