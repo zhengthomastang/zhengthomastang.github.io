@@ -11,7 +11,10 @@ author_profile: true
 
 <b>[MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D](http://zhengthomastang.github.io/publications/MOANA)</b><br> 
 <b>Zheng Tang</b> and Jenq-Neng Hwang. 
-<i>IEEE Access</i>. 2019.
+<i>IEEE Access</i>. 2019.<br>
+[[PDF](https://ieeexplore.ieee.org/document/8660675)]
+[[Demo1](https://motchallenge.net/vis/PETS09-S2L2/MOANA)]
+[[Demo2](https://motchallenge.net/vis/AVG-TownCentre/MOANA)]
 
 <b>[ESTHER: Joint Camera Self-Calibration and Automatic Radial Distortion Correction from Tracking of Walking Humans](http://zhengthomastang.github.io/publications/ESTHER)</b><br> 
 <b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang and Jen-Hui Chuang. 
@@ -20,13 +23,16 @@ author_profile: true
 
 <b>[Online-Learning-Based Human Tracking Across Non-Overlapping Cameras](http://zhengthomastang.github.io/publications/OnlineLearnICT)</b><br> 
 Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. 
-<i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>TCSVT</b>.
+<i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>TCSVT</b>.<br>
+[[PDF](http://ieeexplore.ieee.org/document/7932896)]
 
 ## Conference Papers ##
 
 <b>[PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data](http://zhengthomastang.github.io/publications/PAMTRI)</b><br> 
 <b>Zheng Tang</b>, Milind Naphade, Stan Birchfield, Jonathan Tremblay, William Hodge, Ratnesh Kumar, Shuo Wang and Xiaodong Yang. 
-<i>2019 IEEE/CVF International Conference on Computer Vision</i>. <b>ICCV 2019</b>.
+<i>2019 IEEE/CVF International Conference on Computer Vision</i>. <b>ICCV 2019</b>.<br>
+[[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.html)]
+[[Poster](http://zhengthomastang.github.io/files/PAMTRI_poster.png)]
 
 <b>[CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification](http://zhengthomastang.github.io/publications/CityFlow)</b><br> 
 <b>Zheng Tang</b>, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu and Jenq-Neng Hwang. 
@@ -46,7 +52,8 @@ Milind Naphade, <b>Zheng Tang</b>, Ming-Ching Chang, David C Anastasiu, Anuj Sha
 
 <b>[Self-Calibration of Traffic Surveillance Cameras Based on Moving Vehicle Appearance and 3-D Vehicle Modeling](http://zhengthomastang.github.io/publications/SelfCalVeh)</b><br> 
 Na Wang, Haiqing Du, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang. 
-<i>2018 IEEE International Conference on Image Processing</i>. <b>ICIP 2018</b>.
+<i>2018 IEEE International Conference on Image Processing</i>. <b>ICIP 2018</b>.<br>
+[[PDF](https://ieeexplore.ieee.org/document/8451478)]
 
 <b>[Joint Multi-View People Tracking and Pose Estimation for 3D Scene Reconstruction](http://zhengthomastang.github.io/publications/JointTrackHPE)</b><br> 
 <b>Zheng Tang</b>, Renshu Gu and Jenq-Neng Hwang. 
@@ -74,7 +81,9 @@ Tao Liu, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang.
 
 <b>[Inter-Camera Tracking Based on Fully Unsupervised Online Learning](http://zhengthomastang.github.io/publications/UnsupervisedICT)</b><br> 
 Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang. 
-<i>2017 IEEE International Conference on Image Processing</i>. <b>ICIP 2017</b>.
+<i>2017 IEEE International Conference on Image Processing</i>. <b>ICIP 2017</b>.<br>
+[[PDF](https://ieeexplore.ieee.org/document/8296754)]
+[[Poster](http://zhengthomastang.github.io/files/UnsupervisedICT_poster.pdf)]
 
 <b>[Multiple-Kernel Based Vehicle Tracking Using 3D Deformable Model and Camera Self-Calibration](http://zhengthomastang.github.io/publications/AIC17MultiKernelTrack)</b><br> 
 <b>Zheng Tang</b>, Gaoang Wang, Tao Liu, Young-Gun Lee, Adwin Jahn, Xu Liu, Xiaodong He and Jenq-Neng Hwang. 
@@ -84,16 +93,23 @@ Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang.
 [[Slides](http://zhengthomastang.github.io/files/AIC17MultiKernelTrack_slides.pdf)]
 [[Website](http://allison.ee.washington.edu/thomas/3dvt/)]
 
-<b>[Camera Self-Calibration from Tracking of Moving Persons](http://zhengthomastang.github.io/publications/SelfCalHum)</b><br> 
+<b>[Camera Self-Calibration from Tracking of Moving Persons](http://zhengthomastang.github.io/publications/SelfCalHum)</b><br>
 <b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang, Jen-Hui Chuang and Zhijun Fang. 
 <i>2016 International Conference on Pattern Recognition</i>. <b>ICPR 2016</b>.
-<span style="color:red">(Finalist IBM Best Student Paper Award & Finalist Intel Best Student Paper Award)</span>
+<span style="color:red">(Finalist IBM Best Student Paper Award & Finalist Intel Best Student Paper Award)</span><br>
+[[PDF](https://ieeexplore.ieee.org/document/7899644)]
+[[Slides](http://zhengthomastang.github.io/files/SelfCalHum_slides.pdf)]
+[[Demo](https://youtu.be/Lqe8AgCxiRg)]
 
 <b>[Multiple-Kernel Adaptive Segmentation and Tracking (MAST) for Robust Object Tracking](http://zhengthomastang.github.io/publications/MAST)</b><br> 
 <b>Zheng Tang</b>, Jenq-Neng Hwang, Yen-Shuo Lin and Jen-Hui Chuang. 
 <i>2016 IEEE International Conference on Acoustics, Speech and Signal Processing</i>. <b>ICASSP 2016</b>.
-<span style="color:red">(Oral)</span>
+<span style="color:red">(Oral)</span><br>
+[[PDF](http://ieeexplore.ieee.org/document/7471849)]
+[[Slides](http://zhengthomastang.github.io/files/MAST_slides.pdf)]
+[[Website](http://allison.ee.washington.edu/thomas/mast/)]
 
 <b>[Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer’s Formant](http://zhengthomastang.github.io/publications/MelodyExtractSingerFormant)</b><br> 
 <b>Zheng Tang</b> and Dawn AA Black. 
-<i>2014 International Society for Music Information Retrieval Conference</i>. <b>ISMIR 2014</b>.
+<i>2014 International Society for Music Information Retrieval Conference</i>. <b>ISMIR 2014</b>.<br>
+[[PDF](http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf)]
