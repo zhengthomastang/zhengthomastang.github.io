@@ -113,3 +113,10 @@ Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang.
 <b>Zheng Tang</b> and Dawn AA Black. 
 <i>2014 International Society for Music Information Retrieval Conference</i>. <b>ISMIR 2014</b>.<br>
 [[PDF](http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf)]
+
+## Dissertation ##
+
+<b>[Robust Video Object Tracking via Camera Self-Calibration](http://zhengthomastang.github.io/publications/Dissertation)</b><br> 
+<b>Zheng Tang</b>. 
+Ph.D. dissertation. University of Washington, Seattle, WA. 2019.<br>
+[[PDF](http://hdl.handle.net/1773/43951)]
