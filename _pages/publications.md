@@ -10,9 +10,7 @@ author_profile: true
 ## Journal Articles ##
 
 <p>
-@media only screen and (min-width: 600px) {
 <a href="http://zhengthomastang.github.io/publications/MOANA"><img src="https://zhengthomastang.github.io/images/MOANA_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-}
 <b><a href="http://zhengthomastang.github.io/publications/MOANA">MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D</a></b><br> 
 <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Access</i>. 2019.<br>
 [<a href="https://ieeexplore.ieee.org/document/8660675">PDF</a>]
