@@ -54,7 +54,7 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 [<a href="https://youtu.be/fzJe8M2y1s0">Video</a>]
 [<a href="http://zhengthomastang.github.io/files/CityFlow_slides.pdf">Slides</a>]
 [<a href="http://zhengthomastang.github.io/files/CityFlow_poster.pdf">Poster</a>]
-[<a href="https://www.aicitychallenge.org/2020-challenge/">Website</a>]
+[<a href="https://www.aicitychallenge.org/2019-challenge/">Website</a>]
 <br clear="left">
 </p>
 
@@ -63,7 +63,7 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 <b><a href="http://zhengthomastang.github.io/publications/AIC19">The 2019 AI City Challenge</a></b><br> 
 Milind Naphade, <b>Zheng Tang</b>, Ming-Ching Chang, David C Anastasiu, Anuj Sharma, Rama Chellappa, Shuo Wang, Pranamesh Chakraborty, Tingting Huang, Jenq-Neng Hwang and Siwei Lyu. <i>2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 3rd AI City Challenge Workshop</i>. <b>CVPRW 2019</b>.<br>
 [<a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/AI_City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.html">PDF</a>]
-[<a href="https://www.aicitychallenge.org/2020-challenge/">Website</a>]
+[<a href="https://www.aicitychallenge.org/2019-challenge/">Website</a>]
 <br clear="left">
 </p>
 
