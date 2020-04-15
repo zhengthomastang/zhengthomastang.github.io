@@ -19,7 +19,7 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Nov. 2019]</b> As an organizing committee member, the proposal of the 4th AI City Challenge Workshop was accepted to <a href="http://cvpr2020.thecvf.com/">CVPR 2020</a>.</li>
+  <li> <b>[Nov. 2019]</b> As an organizing committee member, our proposal for the 4th AI City Challenge Workshop was accepted to <a href="http://cvpr2020.thecvf.com/">CVPR 2020</a>.</li>
 
   <li> <b>[Jul. 2019]</b> My first-authored paper titled "PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data" was accepted to <a href="http://iccv2019.thecvf.com/">ICCV 2019</a>.</li>
 
