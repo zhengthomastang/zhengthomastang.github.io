@@ -38,6 +38,15 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 ## Conference Papers ##
 
 <p>
+<a href="http://zhengthomastang.github.io/publications/AIC20"><img src="https://zhengthomastang.github.io/images/AIC20_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AIC20">The 4th AI City Challenge</a></b><br>
+Milind Naphade, Shuo Wang, David Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Xiaodong Yang, Liang Zheng, Anuj Sharma, Rama Chellappa and Pranamesh Chakraborty. <i>2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 4th AI City Challenge Workshop</i>. <b>CVPRW 2020</b>.<br>
+[<a href="https://www.aicitychallenge.org/">PDF</a>]
+[<a href="https://www.aicitychallenge.org/">Website</a>]
+<br clear="left">
+</p>
+
+<p>
 <a href="http://zhengthomastang.github.io/publications/PAMTRI"><img src="https://zhengthomastang.github.io/images/PAMTRI_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/PAMTRI">PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data</a></b><br> 
 <b>Zheng Tang</b>, Milind Naphade, Stan Birchfield, Jonathan Tremblay, William Hodge, Ratnesh Kumar, Shuo Wang and Xiaodong Yang. <i>2019 IEEE/CVF International Conference on Computer Vision</i>. <b>ICCV 2019</b>.<br>
