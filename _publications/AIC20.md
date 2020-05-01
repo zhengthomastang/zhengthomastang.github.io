@@ -21,6 +21,6 @@ The AI City Challenge was created to accelerate intelligent video analysis that 
 author = {Milind Naphade and Shuo Wang and David Anastasiu and Zheng Tang and Ming-Ching Chang and Xiaodong Yang and Liang Zheng and Anuj Sharma and Rama Chellappa and Pranamesh Chakraborty},  
 title = {The 4th {AI} {C}ity {C}hallenge},  
 booktitle = {Proc. CVPR Workshops}, 
-address = {Seattle, WA, USA},  
+address = {Seattle, WA, USA}, 
 year = {2020}  
 }
