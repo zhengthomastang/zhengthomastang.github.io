@@ -11,6 +11,7 @@ citation: '<b>Zheng Tang</b>, Milind Naphade, Stan Birchfield, Jonathan Tremblay
 # PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data
 
 [<a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.html">PDF</a>]
+[<a href="https://github.com/NVlabs/PAMTRI">Code</a>]
 [<a href="https://zhengthomastang.github.io/files/PAMTRI_poster.png">Poster</a>]
 
 ## Abstract
