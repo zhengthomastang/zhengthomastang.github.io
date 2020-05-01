@@ -22,5 +22,5 @@ author = {Milind Naphade and Shuo Wang and David Anastasiu and Zheng Tang and Mi
 title = {The 4th {AI} {C}ity {C}hallenge},  
 booktitle = {Proc. CVPR Workshops}, 
 address = {Seattle, WA, USA}, 
-year = {2020}  
+year = {2020} 
 }
