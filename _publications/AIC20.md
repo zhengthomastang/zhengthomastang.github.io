@@ -5,12 +5,12 @@ permalink: /publication/AIC20
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2020-06-15
 venue: "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 4th AI City Challenge Workshop"
-paperurl: "https://www.aicitychallenge.org/"
+paperurl: "https://arxiv.org/abs/2004.14619"
 citation: 'Milind Naphade, Shuo Wang, David Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Xiaodong Yang, Liang Zheng, Anuj Sharma, Rama Chellappa and Pranamesh Chakraborty. "The 4th AI City Challenge". <i>Proceedings of 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2020)</i>. 2020.'
 ---
 # The 4th AI City Challenge
 
-[<a href="https://www.aicitychallenge.org/">PDF</a>]
+[<a href="https://arxiv.org/abs/2004.14619">PDF</a>]
 [<a href="https://www.aicitychallenge.org/">Website</a>]
 
 ## Abstract
