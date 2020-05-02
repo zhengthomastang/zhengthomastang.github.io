@@ -2,15 +2,14 @@
 title: "MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D"
 collection: publications
 permalink: /publication/MOANA
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2019-03-01
+date: 2019-03-05
 venue: "IEEE Access"
 paperurl: "https://ieeexplore.ieee.org/document/8660675"
 citation: '<b>Zheng Tang</b> and Jenq-Neng Hwang. "MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D". <i>IEEE Access</i>. vol. 7, no. 1, pp. 31934-31945. 2019.'
 ---
 # MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D
 
-[<a href="https://ieeexplore.ieee.org/document/8660675">PDF</a>]
+[<a href="https://ieeexplore.ieee.org/document/8660675">Paper</a>]
 [<a href="https://motchallenge.net/vis/PETS09-S2L2/MOANA">Demo1</a>]
 [<a href="https://motchallenge.net/vis/AVG-TownCentre/MOANA">Demo2</a>]
 
