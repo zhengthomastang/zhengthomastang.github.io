@@ -2,7 +2,6 @@
 title: "The 4th AI City Challenge"
 collection: publications
 permalink: /publication/AIC20
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2020-06-15
 venue: "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 4th AI City Challenge Workshop"
 paperurl: "https://arxiv.org/abs/2004.14619"
@@ -10,7 +9,7 @@ citation: 'Milind Naphade, Shuo Wang, David Anastasiu, <b>Zheng Tang</b>, Ming-C
 ---
 # The 4th AI City Challenge
 
-[<a href="https://arxiv.org/abs/2004.14619">PDF</a>]
+[<a href="https://arxiv.org/abs/2004.14619">Paper</a>]
 [<a href="https://www.aicitychallenge.org/">Website</a>]
 
 ## Abstract
