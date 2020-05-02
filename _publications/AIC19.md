@@ -2,7 +2,6 @@
 title: "The 2019 AI City Challenge"
 collection: publications
 permalink: /publication/AIC19
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2019-06-14
 venue: "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 3rd AI City Challenge Workshop"
 paperurl: "http://openaccess.thecvf.com/content_CVPRW_2019/html/AI_City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.html"
@@ -10,7 +9,7 @@ citation: 'Milind Naphade, <b>Zheng Tang</b>, Ming-Ching Chang, David C Anastasi
 ---
 # The 2019 AI City Challenge
 
-[<a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/AI_City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.html">PDF</a>]
+[<a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/AI_City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.html">Paper</a>]
 [<a href="https://www.aicitychallenge.org/2019-challenge/">Website</a>]
 
 ## Abstract
