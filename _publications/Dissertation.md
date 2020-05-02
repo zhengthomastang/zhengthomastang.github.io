@@ -2,15 +2,14 @@
 title: "Robust Video Object Tracking via Camera Self-Calibration"
 collection: publications
 permalink: /publication/Dissertation
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2019-06-12
+date: 2019-06-04
 venue: "Ph.D. dissertation. Department of Electrical & Computer Engineering, University of Washington, Seattle, WA"
 paperurl: "http://hdl.handle.net/1773/43951"
 citation: '<b>Zheng Tang</b>. "Robust Video Object Tracking via Camera Self-Calibration". Ph.D. dissertation. University of Washington, Seattle, WA. 2019.'
 ---
 # Robust Video Object Tracking via Camera Self-Calibration
 
-[<a href="http://hdl.handle.net/1773/43951">PDF</a>]
+[<a href="http://hdl.handle.net/1773/43951">Paper</a>]
 [<a href="http://zhengthomastang.github.io/files/Dissertation_slides.pdf">Slides</a>]
 
 ## Abstract
