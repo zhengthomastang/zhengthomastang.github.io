@@ -2,7 +2,7 @@
 title: "Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features"
 collection: publications
 permalink: /publication/AIC18ICT
-date: 2018-06-11
+date: 2018-06-18
 venue: "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd AI City Challenge Workshop"
 paperurl: "http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.html"
 citation: '<b>Zheng Tang</b>, Gaoang Wang, Hao Xiao, Aotian Zheng and Jenq-Neng Hwang. "Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features". <i>Proceedings of 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2018)</i>. pp. 108-115. 2018.'
