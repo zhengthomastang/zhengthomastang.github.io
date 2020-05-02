@@ -2,7 +2,6 @@
 title: "Multiple-Kernel Based Vehicle Tracking Using 3D Deformable Model and Camera Self-Calibration"
 collection: publications
 permalink: /publication/AIC17MultiKernelTrack
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2017-08-22
 venue: "2017 IEEE Smart World Congress - 1st AI City Challenge Workshop"
 paperurl: "https://arxiv.org/abs/1708.06831"
