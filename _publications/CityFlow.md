@@ -2,16 +2,15 @@
 title: "CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification"
 collection: publications
 permalink: /publication/CityFlow
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2019-02-24
+date: 2019-06-16
 venue: "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition"
 paperurl: "https://arxiv.org/abs/1903.09254"
 citation: '<b>Zheng Tang</b>, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu and Jenq-Neng Hwang. "CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification". <i>Proceedings of 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2019)</i>. pp. 8797-8806. 2019.'
 ---
 # CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification
 
-[<a href="https://arxiv.org/abs/1903.09254">PDF</a>]
-[<a href="https://youtu.be/fzJe8M2y1s0">Video</a>]
+[<a href="https://arxiv.org/abs/1903.09254">Paper</a>]
+[<a href="https://youtu.be/fzJe8M2y1s0">Presentation</a>]
 [<a href="http://zhengthomastang.github.io/files/CityFlow_slides.pdf">Slides</a>]
 [<a href="http://zhengthomastang.github.io/files/CityFlow_poster.pdf">Poster</a>]
 [<a href="https://www.aicitychallenge.org/2019-challenge/">Website</a>]
