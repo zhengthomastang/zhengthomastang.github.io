@@ -2,15 +2,14 @@
 title: "Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer’s Formant"
 collection: publications
 permalink: /publication/MelodyExtractSingerFormant
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2014-06-27
+date: 2014-10-27
 venue: "2014 International Society for Music Information Retrieval Conference"
 paperurl: "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf"
 citation: '<b>Zheng Tang</b> and Dawn AA Black. "Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer's Formant". <i>2014 International Society for Music Information Retrieval Conference (ISMIR 2014)</i>. pp. 161-166. 2014.'
 ---
 # Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer's Formant
 
-[<a href="http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf">PDF</a>]
+[<a href="http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf">Paper</a>]
 [<a href="http://zhengthomastang.github.io/files/MelodyExtractSingerFormant_craze.pdf">Craze</a>]
 [<a href="http://zhengthomastang.github.io/files/MelodyExtractSingerFormant_poster.pdf">Poster</a>]
 
