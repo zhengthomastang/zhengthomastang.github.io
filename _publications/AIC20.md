@@ -2,6 +2,7 @@
 title: "The 4th AI City Challenge"
 collection: publications
 permalink: /publication/AIC20
+<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2020-06-14
 venue: "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 4th AI City Challenge Workshop"
 paperurl: "https://arxiv.org/abs/2004.14619"
