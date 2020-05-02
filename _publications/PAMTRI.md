@@ -2,15 +2,14 @@
 title: "PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data"
 collection: publications
 permalink: /publication/PAMTRI
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2019-07-22
+date: 2019-10-27
 venue: "2019 IEEE/CVF International Conference on Computer Vision"
 paperurl: "http://openaccess.thecvf.com/content_ICCV_2019/html/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.html"
 citation: '<b>Zheng Tang</b>, Milind Naphade, Stan Birchfield, Jonathan Tremblay, William Hodge, Ratnesh Kumar, Shuo Wang and Xiaodong Yang. "PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data". <i>Proceedings of 2019 IEEE/CVF International Conference on Computer Vision (ICCV 2019)</i>. pp. 211-220. 2019.'
 ---
 # PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data
 
-[<a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.html">PDF</a>]
+[<a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.html">Paper</a>]
 [<a href="https://github.com/NVlabs/PAMTRI">Code</a>]
 [<a href="https://zhengthomastang.github.io/files/PAMTRI_poster.png">Poster</a>]
 
