@@ -2,6 +2,7 @@
 title: "Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features"
 collection: publications
 permalink: /publication/AIC18ICT
+<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2018-06-18
 venue: "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd AI City Challenge Workshop"
 paperurl: "http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.html"
