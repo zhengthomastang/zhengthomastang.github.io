@@ -2,7 +2,7 @@
 title: "The 2019 AI City Challenge"
 collection: publications
 permalink: /publication/AIC19
-date: 2019-06-14
+date: 2019-06-16
 venue: "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 3rd AI City Challenge Workshop"
 paperurl: "http://openaccess.thecvf.com/content_CVPRW_2019/html/AI_City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.html"
 citation: 'Milind Naphade, <b>Zheng Tang</b>, Ming-Ching Chang, David C Anastasiu, Anuj Sharma, Rama Chellappa, Shuo Wang, Pranamesh Chakraborty, Tingting Huang, Jenq-Neng Hwang and Siwei Lyu. "The 2019 AI City Challenge". <i>Proceedings of 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2019)</i>. pp. 452-460. 2019.'
