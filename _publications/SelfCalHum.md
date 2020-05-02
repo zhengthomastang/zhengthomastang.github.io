@@ -2,15 +2,14 @@
 title: "Camera Self-Calibration from Tracking of Moving Persons"
 collection: publications
 permalink: /publication/SelfCalHum
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2016-07-12
+date: 2016-12-04
 venue: "2016 International Conference on Pattern Recognition"
 paperurl: "https://ieeexplore.ieee.org/document/7899644"
 citation: '<b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang, Jen-Hui Chuang and Zhijun Fang. "Camera Self-Calibration from Tracking of Moving Persons". <i>Proceedings of 2016 International Conference on Pattern Recognition (ICPR 2016)</i>. pp. 260-265. 2016.'
 ---
 # Camera Self-Calibration from Tracking of Moving Persons
 
-[<a href="https://ieeexplore.ieee.org/document/7899644">PDF</a>]
+[<a href="https://ieeexplore.ieee.org/document/7899644">Paper</a>]
 [<a href="http://zhengthomastang.github.io/files/SelfCalHum_slides.pdf">Slides</a>]
 [<a href="https://youtu.be/Lqe8AgCxiRg">Demo</a>]
 
