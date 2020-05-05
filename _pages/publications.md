@@ -50,7 +50,7 @@ Milind Naphade, Shuo Wang, David Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang,
 <a href="http://zhengthomastang.github.io/publications/PAMTRI"><img src="https://zhengthomastang.github.io/images/PAMTRI_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/PAMTRI">PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data</a></b><br> 
 <b>Zheng Tang</b>, Milind Naphade, Stan Birchfield, Jonathan Tremblay, William Hodge, Ratnesh Kumar, Shuo Wang and Xiaodong Yang. <i>2019 IEEE/CVF International Conference on Computer Vision</i>. <b>ICCV 2019</b>.<br>
-[<a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.html">Paper</a>]
+[<a href="http://arxiv.org/abs/2005.00673">Paper</a>]
 [<a href="https://github.com/NVlabs/PAMTRI">Code</a>]
 [<a href="https://zhengthomastang.github.io/files/PAMTRI_poster.png">Poster</a>]
 <br clear="left">
