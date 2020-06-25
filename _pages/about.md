@@ -11,9 +11,9 @@ redirect_from:
 
 * I have been a Research Scientist at [Amazon](https://www.amazon.com/) since Jul. 2019. I worked as an Intelligent Video Analytics Intern at [NVIDIA](https://www.nvidia.com/en-us/) from Jun. 2018 to Mar. 2019. My research interests lie in computer vision, machine (deep) learning, and multimedia. 
 
-* I graduated with a Ph.D. degree from the Department of Electrical & Computer Engineering (ECE) at the [University of Washington (UW)](http://www.washington.edu/) in Jun. 2019. My advisor was [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/). I received my M.S. degree in Electrical Engineering also from UW in Mar. 2016. And my B.Sc. (Eng.) degree was received from the [Joint Programme](http://www.eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/) between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary, University of London (QMUL) with First Class Honours in Jun. 2014. 
+* I graduated with a Ph.D. degree from the Department of Electrical & Computer Engineering (ECE) at the [University of Washington (UW)](http://www.washington.edu/) in Jun. 2019. My advisor was [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/). I received my M.S. degree in Electrical Engineering also from UW in Mar. 2016. And my B.Sc. (Eng.) degree was earned from the [Joint Programme](http://www.eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/) between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary, University of London (QMUL) with First Class Honours in Jun. 2014. 
 
-* The team from UW that I led was a two-time winner of the [AI City Challenges](https://www.aicitychallenge.org/) in 2017 and 2018. I am currently an organizing committee member of the upcoming 4th AI Challenge Workshop in CVPR 2020. 
+* The team from UW that I led was a two-time winner of the [AI City Challenges](https://www.aicitychallenge.org/) in 2017 and 2018. I was an organizing committee member of the 4th AI Challenge Workshop in CVPR 2020. 
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
@@ -42,7 +42,7 @@ redirect_from:
 
   <li> <b>[Mar. 2016]</b> I received my M.S. degree from UW.</li>
 
-  <li> <b>[Jun. 2014]</b> My B.Sc. (Eng.) degree was received from the Joint Programme between BUPT and QMUL with First Class Honours.</li>
+  <li> <b>[Jun. 2014]</b> My B.Sc. (Eng.) degree was earned from the Joint Programme between BUPT and QMUL with First Class Honours.</li>
 </ul>
 
 
