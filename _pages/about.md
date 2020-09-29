@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-* I have been a Research Scientist at [Amazon](https://www.amazon.com/) since Jul. 2019. I worked as an Intelligent Video Analytics Intern at [NVIDIA](https://www.nvidia.com/en-us/) from Jun. 2018 to Mar. 2019. My research interests lie in computer vision, machine (deep) learning, and multimedia. 
+* I have been a Research Scientist at [Amazon](https://www.amazon.com/) - [Amazon One](https://one.amazon.com/) since Jul. 2019. I worked as an Intelligent Video Analytics Intern at [NVIDIA](https://www.nvidia.com/en-us/) from Jun. 2018 to Mar. 2019. My research interests lie in computer vision, machine (deep) learning, and multimedia. 
 
 * I graduated with a Ph.D. degree from the Department of Electrical & Computer Engineering (ECE) at the [University of Washington (UW)](http://www.washington.edu/) in Jun. 2019. My advisor was [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/). I received my M.S. degree in Electrical Engineering also from UW in Mar. 2016. And my B.Sc. (Eng.) degree was earned from the [Joint Programme](http://www.eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/) between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary, University of London (QMUL) with First Class Honours in Jun. 2014. 
 
@@ -19,6 +19,8 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Sep. 2020]</b> It’s Day 1 for <a href="https://blog.aboutamazon.com/innovation/introducing-amazon-one-a-new-innovation-to-make-everyday-activities-effortless">Amazon One</a>. This is the first project I have worked on since joining Amazon.</li>
+  
   <li> <b>[May 2020]</b> The source code of our ICCV 2019 paper titled "PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data" was made publicly available on <a href="https://github.com/NVlabs/PAMTRI">GitHub</a>.</li>
 
   <li> <b>[Nov. 2019]</b> As an organizing committee member, our proposal for the 4th AI City Challenge Workshop was accepted to <a href="http://cvpr2020.thecvf.com/">CVPR 2020</a>.</li>
