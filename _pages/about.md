@@ -19,7 +19,7 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Sep. 2020]</b> It’s Day 1 for <a href="https://blog.aboutamazon.com/innovation/introducing-amazon-one-a-new-innovation-to-make-everyday-activities-effortless">Amazon One</a>. This is the first project I have worked on since joining Amazon.</li>
+  <li> <b>[Sep. 2020]</b> It’s Day 1 for <a href="https://blog.aboutamazon.com/innovation/introducing-amazon-one-a-new-innovation-to-make-everyday-activities-effortless">Amazon One</a>, a fast, convenient and contactless identity service using people's palm for payment, entry and more. This is the first project I have worked on since joining Amazon.</li>
   
   <li> <b>[May 2020]</b> The source code of our ICCV 2019 paper titled "PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data" was made publicly available on <a href="https://github.com/NVlabs/PAMTRI">GitHub</a>.</li>
 
