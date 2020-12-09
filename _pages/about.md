@@ -14,7 +14,7 @@ Dr. Zheng (Thomas) Tang is now a Research Scientist - [Amazon One](https://one.a
 His research interests include intelligent transportation system, intra-/inter-camera multi-target tracking, re-identification, pose estimation, camera calibration, synthetic data analysis, biometric identification, and other topics in computer vision and machine learning. He has 2 pending patents and 15 publications in peer-reviewed journals and conference proceedings in these areas. He is an Associate Editor (2021~) for [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), and a member of the Organizing Committee (2020~) for the [AI City Challenge Workshops](https://www.aicitychallenge.org/) in conjunction with the Conferences on Computer Vision and Pattern Recognition (CVPR). His paper was a finalist of 2 Best Student Paper Awards at the 23rd International Conference on Pattern Recognition (ICPR), Cancún, 2016. 
 
 
-## <i class="fa fa-fw fa-rss "></i> Recent News ##
+## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
   <li> <b>[Dec. 2020]</b> Joined the Editorial Board of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a> (4.133 Impact Factor) as an Associate Editor (AE)</li>
@@ -41,6 +41,8 @@ His research interests include intelligent transportation system, intra-/inter-c
   <li> <b>[May 2017]</b> "Online-Learning-Based Human Tracking Across Non-Overlapping Cameras" accepted to <a href="http://tcsvt.polito.it/">TCSVT</a></li> 
 
   <li> <b>[Dec. 2016]</b> "Camera Self-Calibration from Tracking of Moving Persons" selected as a finalist of 2 Best Student Paper Awards at <a href="https://iapr.org/archives/icpr2016/site.1.html">ICPR 2016</a></li>
+  
+  <li> <b>[Dec. 2015]</b> "Multiple-Kernel Adaptive Segmentation and Tracking (MAST) for Robust Object Tracking" accepted to <a href="http://www.icme2018.org/">ICASSP 2016</a> (Oral)</li>
 
   <li> <b>[Jun. 2014]</b> Graduated with B.Sc. (Eng.) degree from the Joint Programme between BUPT and QMUL with First Class Honours</li>
 </ul>
