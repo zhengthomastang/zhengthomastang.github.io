@@ -11,13 +11,13 @@ redirect_from:
 
 Dr. Zheng (Thomas) Tang is now a Research Scientist - [Amazon One](https://one.amazon.com/) at [Amazon](https://www.amazon.com/). He was an Intelligent Video Analytics Intern at [NVIDIA](https://www.nvidia.com/en-us/) from 2018 to 2019. He received his Ph.D. in [Electrical & Computer Engineering (ECE)](https://www.ece.uw.edu/) from the [University of Washington (UW)](http://www.washington.edu/), Seattle in 2019, and his B.S. from the [Joint Programme](http://www.eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/) between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary, University of London (QMUL) in 2014. 
 
-His research interests include intelligent transportation system, intra-/inter-camera multi-target tracking, re-identification, pose estimation, camera calibration, synthetic data analysis, biometric identification, and other topics in computer vision and machine learning. He has 2 pending patents and 15 publications in peer-reviewed journals and conference proceedings in these areas. He is an Associate Editor (2021~) for [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), and a member of the Organizing Committee (2020~) for the [AI City Challenge Workshops](https://www.aicitychallenge.org/) in conjunction with the Conferences on Computer Vision and Pattern Recognition (CVPR). His paper was a finalist of 2 Best Student Paper Awards at the 23rd International Conference on Pattern Recognition (ICPR), Canc\'{u}n, 2016. 
+His research interests include intelligent transportation system, intra-/inter-camera multi-target tracking, re-identification, pose estimation, camera calibration, synthetic data analysis, biometric identification, and other topics in computer vision and machine learning. He has 2 pending patents and 15 publications in peer-reviewed journals and conference proceedings in these areas. He is an Associate Editor (2021~) for [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), and a member of the Organizing Committee (2020~) for the [AI City Challenge Workshops](https://www.aicitychallenge.org/) in conjunction with the Conferences on Computer Vision and Pattern Recognition (CVPR). His paper was a finalist of 2 Best Student Paper Awards at the 23rd International Conference on Pattern Recognition (ICPR), Cancún, 2016. 
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Dec. 2020]</b> Joined the Editorial Board of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a> (4.133 Impact Factor · 0.01598 Eigenfactor · 1.256 Article Influence Score) as an Associate Editor (AE)</li>
+  <li> <b>[Dec. 2020]</b> Joined the Editorial Board of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a> (4.133 Impact Factor) as an Associate Editor (AE)</li>
   
   <li> <b>[Sep. 2020]</b> Launched <a href="https://blog.aboutamazon.com/innovation/introducing-amazon-one-a-new-innovation-to-make-everyday-activities-effortless">Amazon One</a>, a fast, convenient and contactless identity service using people's palm for payment, entry and more</li>
   
@@ -27,7 +27,7 @@ His research interests include intelligent transportation system, intra-/inter-c
 
   <li> <b>[Jul. 2019]</b> "PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data" accepted to <a href="http://iccv2019.thecvf.com/">ICCV 2019</a></li>
 
-  <li> <b>[Jun. 2019]</b> Graduated with Ph.D. degree from UW ECE</li>
+  <li> <b>[Jun. 2019]</b> Graduated with Ph.D. degree in ECE from UW</li>
 
   <li> <b>[Feb. 2019]</b> "CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification" accepted to <a href="http://cvpr2019.thecvf.com/">CVPR 2019</a> (<a href="https://youtu.be/fzJe8M2y1s0">Oral</a>)</li>
 
