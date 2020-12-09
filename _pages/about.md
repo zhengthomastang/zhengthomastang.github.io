@@ -19,6 +19,8 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Dec. 2020]</b> I was invited to join the Editorial Board of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</a> (4.133 Impact Factor · 0.01598 Eigenfactor · 1.256 Article Influence Score) as an Associate Editor (AE) from Jan. 1, 2021 to Dec. 31, 2022.</li>
+  
   <li> <b>[Sep. 2020]</b> It’s Day 1 for <a href="https://blog.aboutamazon.com/innovation/introducing-amazon-one-a-new-innovation-to-make-everyday-activities-effortless">Amazon One</a>, a fast, convenient and contactless identity service using people's palm for payment, entry and more. This is the first project I have worked on since joining Amazon.</li>
   
   <li> <b>[May 2020]</b> The source code of our ICCV 2019 paper titled "PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data" was made publicly available on <a href="https://github.com/NVlabs/PAMTRI">GitHub</a>.</li>
