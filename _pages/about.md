@@ -11,7 +11,7 @@ redirect_from:
 
 Dr. Zheng (Thomas) Tang is now a Research Scientist - [Amazon One](https://one.amazon.com/) at [Amazon](https://www.amazon.com/). He was an Intelligent Video Analytics Intern at [NVIDIA](https://www.nvidia.com/en-us/) from 2018 to 2019. He received his Ph.D. in [Electrical & Computer Engineering (ECE)](https://www.ece.uw.edu/) from the [University of Washington (UW)](http://www.washington.edu/), Seattle in 2019, and his B.S. from the [Joint Programme](http://www.eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/) between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary, University of London (QMUL) in 2014. 
 
-His research interests include intelligent transportation system, intra-/inter-camera multi-target tracking, re-identification, pose estimation, camera calibration, synthetic data analysis, biometric identification, and other topics in computer vision and machine learning. He has 2 pending patents and 15 publications in peer-reviewed journals and conference proceedings in these areas. He is an Associate Editor (2021~) for [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), and a member of the Organizing Committee (2020~) for the [AI City Challenge Workshops](https://www.aicitychallenge.org/) in conjunction with the Conferences on Computer Vision and Pattern Recognition (CVPR). He received two Finalist Best Student Paper Awards at the 23rd International Conference on Pattern Recognition (ICPR), Canc\'{u}n, 2016. 
+His research interests include intelligent transportation system, intra-/inter-camera multi-target tracking, re-identification, pose estimation, camera calibration, synthetic data analysis, biometric identification, and other topics in computer vision and machine learning. He has 2 pending patents and 15 publications in peer-reviewed journals and conference proceedings in these areas. He is an Associate Editor (2021~) for [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), and a member of the Organizing Committee (2020~) for the [AI City Challenge Workshops](https://www.aicitychallenge.org/) in conjunction with the Conferences on Computer Vision and Pattern Recognition (CVPR). His paper was a finalist of 2 Best Student Paper Awards at the 23rd International Conference on Pattern Recognition (ICPR), Canc\'{u}n, 2016. 
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
@@ -40,7 +40,7 @@ His research interests include intelligent transportation system, intra-/inter-c
 
   <li> <b>[May 2017]</b> "Online-Learning-Based Human Tracking Across Non-Overlapping Cameras" accepted to <a href="http://tcsvt.polito.it/">TCSVT</a></li> 
 
-  <li> <b>[Dec. 2016]</b> Received two Finalist Best Student Paper Awards for "Camera Self-Calibration from Tracking of Moving Persons" at <a href="https://iapr.org/archives/icpr2016/site.1.html">ICPR 2016</a></li>
+  <li> <b>[Dec. 2016]</b> "Camera Self-Calibration from Tracking of Moving Persons" selected as a finalist of 2 Best Student Paper Awards at <a href="https://iapr.org/archives/icpr2016/site.1.html">ICPR 2016</a></li>
 
   <li> <b>[Jun. 2014]</b> Graduated with B.Sc. (Eng.) degree from the Joint Programme between BUPT and QMUL with First Class Honours</li>
 </ul>
