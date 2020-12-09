@@ -15,6 +15,8 @@ redirect_from:
 
 * The team from UW that I led was a two-time winner of the [AI City Challenges](https://www.aicitychallenge.org/) in 2017 and 2018. I was an organizing committee member of the 4th AI Challenge Workshop in CVPR 2020. 
 
+* I am serving as an Associate Editor (AE) for [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (4.133 Impact Factor · 0.01598 Eigenfactor · 1.256 Article Influence Score). Feel free to contact me if you would like to review papers or propose special issue topics. 
+
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
