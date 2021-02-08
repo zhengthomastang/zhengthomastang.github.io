@@ -17,6 +17,8 @@ His research interests include intelligent transportation system, intra-/inter-c
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Jan. 2021]</b> Released the 5th AI City Challenge Workshop in conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></li> 
+  
   <li> <b>[Dec. 2020]</b> Joined the Editorial Board of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a> (4.133 Impact Factor) as an Associate Editor (AE)</li>
   
   <li> <b>[Sep. 2020]</b> Launched <a href="https://blog.aboutamazon.com/innovation/introducing-amazon-one-a-new-innovation-to-make-everyday-activities-effortless">Amazon One</a>, a fast, convenient and contactless identity service using people's palm for payment, entry and more</li>
