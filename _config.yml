@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "HenghengZhang"
 title_separator          : "-"
 name                     : &name "HenghengZhang"
-description              : &description "Research Scientist at Karlsruhe institute of technology"
-url                      : https://henghengzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Research Scientist at Karlsruhe institute of technology(KIT)"
+url                      : https://Henghengniceman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "henghengzhang.github.io"
+repository               : "Henghengniceman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Zheng (Thomas) Tang"
+  name             : "Hengheng Zhang"
   avatar           : "profile.jpg"
-  bio              : "Research Scientist at Amazon, expert in computer vision and machine learning"
-  location         : "Seattle, Washington"
+  bio              : "Research Scientist at Karlsruhe institute of technology(KIT)"
+  location         : "Karlsruhe, Germany"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=zXP1CZwAAAAJ&hl=en"
-  email            : "tangzhengthomas@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=59oV0OMAAAAJ&hl=en"
+  email            : "hengheng.zhang@kit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhengthomastang"
+  github           : "Henghengniceman"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # example: "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhengthomastang"
-  orcid            : "http://orcid.org/0000-0002-3744-2254"
+  linkedin         : "Hengheng Zhang"
+  orcid            : "https://orcid.org/0000-0001-5872-5985"
   pinterest        :
   soundcloud       :
   stackoverflow    : # example: "http://stackoverflow.com/users/123456/username"
