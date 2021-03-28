@@ -13,7 +13,7 @@ redirect_from:
 Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/index.php) since Oct. 2019. 
 
 * My research interesting is on aerosol and cloud remote sensing.Now I am doing this reserach work with the Financial support of [MOSES project](https://moses-data.gfz-potsdam.de/onestop/#/)  
-
+* I gradated with a Master from [School of aemospheric physics](https://sap.nuist.edu.cn/) at [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/) 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
