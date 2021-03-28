@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-Hengheng Zhang is a Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)] (https://www.imk-aaf.kit.edu/251.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.ed/english/). 
+Hengheng Zhang is a Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/251.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.ed/english/). 
 
 His research interests include aerosol and cloud remote sensing.
 
