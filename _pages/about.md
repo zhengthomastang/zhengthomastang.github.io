@@ -10,7 +10,7 @@ redirect_from:
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
 * I am a Ph.D student at [karlsruhe institute of technology(KIT)](https://www.kit.edu/english/) - [Institute of Meteorology and Climate Research
-Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/index.php) since . 2019. I worked as an Intelligent Video Analytics Intern at [NVIDIA](https://www.nvidia.com/en-us/) from Jun. 2018 to Mar. 2019. My research interests lie in computer vision, machine (deep) learning, and multimedia. 
+Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/index.php) since Oct. 2019. I focus on  [aerosol and cloud remote sensing](https://www.imk-aaf.kit.edu/People_826.php). 
 
 * I graduated with a Ph.D. degree from the Department of Electrical & Computer Engineering (ECE) at the [University of Washington (UW)](http://www.washington.edu/) in Jun. 2019. My advisor was [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/). I received my M.S. degree in Electrical Engineering also from UW in Mar. 2016. And my B.Sc. (Eng.) degree was earned from the [Joint Programme](http://www.eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/) between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary, University of London (QMUL) with First Class Honours in Jun. 2014. 
 
