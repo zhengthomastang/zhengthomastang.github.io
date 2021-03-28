@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-* I am a Ph.D student at [karlsruhe institute of technology(KIT)](https://www.kit.edu/english/) - [Institute of Meteorology and Climate Research
+* I am a Ph.D student in [karlsruhe institute of technology(KIT)](https://www.kit.edu/english/) at [Institute of Meteorology and Climate Research
 Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/index.php) since Oct. 2019. 
 
 * My research interesting is on aerosol and cloud remote sensing.Now I am doing this reserach work with the Financial support of [MOSES project](https://moses-data.gfz-potsdam.de/onestop/#/)  
@@ -17,7 +17,7 @@ Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/index.php) s
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Oct. 2019]</b> It’s Day 1 for <a href="https://blog.aboutamazon.com/innovation/introducing-amazon-one-a-new-innovation-to-make-everyday-activities-effortless">Amazon One</a>, a fast, convenient and contactless identity service using people's palm for payment, entry and more. This is the first project I have worked on since joining Amazon.</li>
+  <li> <b>[Oct. 2019]</b> I began my Ph.D student in [karlsruhe institute of technology(KIT)](https://www.kit.edu/english/) 
   
   <li> <b>[May 2020]</b> The source code of our ICCV 2019 paper titled "PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data" was made publicly available on <a href="https://github.com/NVlabs/PAMTRI">GitHub</a>.</li>
 
