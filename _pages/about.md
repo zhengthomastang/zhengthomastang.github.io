@@ -10,12 +10,9 @@ redirect_from:
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
 * I am a Ph.D student at [karlsruhe institute of technology(KIT)](https://www.kit.edu/english/) - [Institute of Meteorology and Climate Research
-Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/index.php) since Oct. 2019. I focus on  [aerosol and cloud remote sensing](https://www.imk-aaf.kit.edu/People_826.php). 
+Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/index.php) since Oct. 2019. 
 
-* I graduated with a Ph.D. degree from the Department of Electrical & Computer Engineering (ECE) at the [University of Washington (UW)](http://www.washington.edu/) in Jun. 2019. My advisor was [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/). I received my M.S. degree in Electrical Engineering also from UW in Mar. 2016. And my B.Sc. (Eng.) degree was earned from the [Joint Programme](http://www.eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/) between Beijing University of Posts and Telecommunications (BUPT) and Queen Mary, University of London (QMUL) with First Class Honours in Jun. 2014. 
-
-* The team from UW that I led was a two-time winner of the [AI City Challenges](https://www.aicitychallenge.org/) in 2017 and 2018. I was an organizing committee member of the 4th AI Challenge Workshop in CVPR 2020. 
-
+* My research interesting is on aerosol and cloud remote sensing.Now I am doing this reserach work with the Financial support of [MOSES project](https://moses-data.gfz-potsdam.de/onestop/#/)  
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
