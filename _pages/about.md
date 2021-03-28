@@ -17,7 +17,7 @@ Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/index.php) s
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Oct. 2019]</b> I began my Ph.D student in [karlsruhe institute of technology(KIT)](https://www.kit.edu/english/) 
+  <li> <b>[Oct. 2019]</b> I began my Ph.D student in <a href="https://www.kit.edu/english/">karlsruhe institute of technology(KIT)</a>.</li>
   
   <li> <b>[May 2020]</b> The source code of our ICCV 2019 paper titled "PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data" was made publicly available on <a href="https://github.com/NVlabs/PAMTRI">GitHub</a>.</li>
 
