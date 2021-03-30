@@ -15,6 +15,11 @@ author_profile: true
 </p>
 
 <p>
+<b><a href="https://link.springer.com/article/10.1007/s00703-019-00700-w">An approach for improving the NRLMSISE-00 model using a radiosonde at Golmud of the Tibetan Plateau</a></b><br> 
+Yaru Dai, Weilin Pan, Xiong Hu, Zhixuan Bai, Chao Ban, <b>Hengheng Zhang</b>, Yunfei Che. <i>Meteorology and Atmospheric Physics</i>. 2020.<br>
+</p>
+
+<p>
 <a href="http://zhengthomastang.github.io/publications/ESTHER"><img src="https://zhengthomastang.github.io/images/ESTHER_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/ESTHER">ESTHER: Joint Camera Self-Calibration and Automatic Radial Distortion Correction from Tracking of Walking Humans</a></b><br> 
 <b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang and Jen-Hui Chuang. <i>IEEE Access</i>. 2019.<br>
