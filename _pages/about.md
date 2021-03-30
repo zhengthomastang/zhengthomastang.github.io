@@ -9,12 +9,12 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/251.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.ed/english/). My research interests include aerosol and cloud remote sensing. Now i am doing reserach on aerosol distribution using 3-D Scanning LIDAR with Financial support of [MOSES Project](https://www.gfz-potsdam.de/en/home/).
+Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/251.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/). My research interests include aerosol and cloud remote sensing. Now i am doing reserach on aerosol distribution using 3-D Scanning LIDAR with Financial support of [MOSES Project](https://www.gfz-potsdam.de/en/home/).
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Oct. 2021]</b> I began my Ph.D study at <a href="https://www.kit.ed/english/">Karlsruhe Institute of Technology (KIT)</a></li> 
+  <li> <b>[Oct. 2021]</b> I began my Ph.D study at <a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)</a></li> 
   
   <li> <b>[Dec. 2020]</b> Joined the Editorial Board of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a> (4.133 Impact Factor) as an Associate Editor (AE)</li>
   
