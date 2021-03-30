@@ -14,7 +14,9 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Oct. 2021]</b> I began my Ph.D study at <a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)</a></li> 
+  <li> <b>[Nov. 2020]</b> I attended  <a href="https://granada-en.congresoseci.com/elc2020">Eroupen Lidar Conference (ELC2021)</a></li> and submited poster # Dust Event in Southwest Germany: LIDAR, Sun Photometer Observations, and Regional Dust Modeling
+  
+  <li> <b>[Oct. 2019]</b> I began my Ph.D study at <a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)</a></li> 
   
   <li> <b>[Dec. 2020]</b> Joined the Editorial Board of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a> (4.133 Impact Factor) as an Associate Editor (AE)</li>
   
