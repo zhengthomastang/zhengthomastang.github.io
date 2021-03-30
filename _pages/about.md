@@ -14,7 +14,6 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  and submited poster "Dust Event in Southwest Germany: LIDAR, Sun Photometer Observations, and Regional Dust Modeling"
   <li> <b>[Nov. 2020]</b> I attended  <a href="https://granada-en.congresoseci.com/elc2020">Eroupen Lidar Conference (ELC2021)</a> and submited poster "Dust Event in Southwest Germany: LIDAR, Sun Photometer Observations, and Regional Dust Modeling"</li> 
   
   <li> <b>[Oct. 2019]</b> I began my Ph.D study at <a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)</a></li> 
