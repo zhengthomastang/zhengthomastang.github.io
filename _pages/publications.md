@@ -31,5 +31,5 @@ Yaru Dai, Weilin Pan, <b>Hengheng Zhang</b> <i>AGU Fall Meeting Abstracts</i>. 2
 
 <p>
 <b><a href="https://ui.adsabs.harvard.edu/abs/2018AGUFM.A31P3165Z/abstract">Retrieval of Aerosol and Water Vapor Profiles Using Ground-based Lidar over Tibetan Plateau</a></b><br> 
-<b>Hengheng Zhang</b>, Yaru Dai, Chao Ban, Weilin Pan
+<b>Hengheng Zhang</b>, Yaru Dai, Chao Ban, Weilin Pan <i>AGU Fall Meeting Abstracts</i>. 2018.<br>
 </p>
