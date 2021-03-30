@@ -19,4 +19,8 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
   
   <li> <b>[Oct. 2019]</b> I began my Ph.D study at <a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)</a></li> 
 
+ <li> <b>[Jun. 2014]</b> Graduated with B.Sc. (Eng.) degree from the Joint Programme between BUPT and QMUL with First Class Honours</li>
+</ul>
+
+
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=a&t=n&d=i6Cg2uwoVYtktTxLJzeGkQjg7ICgXupw_nf4-TfxTF4&co=ffffff'></script>
