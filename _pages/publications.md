@@ -14,7 +14,7 @@ author_profile: true
 
 <p>
 <b><a href="https://www.osapublishing.org/copp/abstract.cfm?uri=copp-4-3-174">Detection of Water Cloud Microphysical Properties Using Multi-scattering Polarization Lidar</a></b><br> 
-Jiaming Xie, Xingyou Huang, Lingbing Bu,<b>Hengheng Zhang</b>, Farhan Mustafa, and Chenxi Chu <i>Meteorology and Atmospheric Physics</i>. 2020.<br>
+Jiaming Xie, Xingyou Huang, Lingbing Bu,<b>Hengheng Zhang</b>, Farhan Mustafa, and Chenxi Chu. <i>Meteorology and Atmospheric Physics</i>. 2020.<br>
 </p>
 
 <p>
@@ -25,11 +25,11 @@ Yaru Dai, Weilin Pan, Xiong Hu, Zhixuan Bai, Chao Ban, <b>Hengheng Zhang</b>, Yu
 
 <p>
 <b><a href="https://ui.adsabs.harvard.edu/abs/2018AGUFM.A51O2414D/abstract">A Neural Network Approach for Improving NRLMSISE-00 Model Using Radiosonde Observations over Golmud</a></b><br> 
-Yaru Dai, Weilin Pan, <b>Hengheng Zhang</b> <i>AGU Fall Meeting Abstracts</i>. 2018.<br>
+Yaru Dai, Weilin Pan, <b>Hengheng Zhang.</b> <i>AGU Fall Meeting Abstracts</i>. 2018.<br>
 </p>
 
 
 <p>
 <b><a href="https://ui.adsabs.harvard.edu/abs/2018AGUFM.A31P3165Z/abstract">Retrieval of Aerosol and Water Vapor Profiles Using Ground-based Lidar over Tibetan Plateau</a></b><br> 
-<b>Hengheng Zhang</b>, Yaru Dai, Chao Ban, Weilin Pan <i>AGU Fall Meeting Abstracts</i>. 2018.<br>
+<b>Hengheng Zhang</b>, Yaru Dai, Chao Ban, Weilin Pan. <i>AGU Fall Meeting Abstracts</i>. 2018.<br>
 </p>
