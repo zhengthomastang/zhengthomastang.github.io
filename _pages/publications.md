@@ -8,7 +8,7 @@ author_profile: true
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
 <p>
-<b><a href="https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-12/issue-4/046021/Retrieving-homogeneous-liquid-cloud-microphysical-properties-using-multiple-field-of/10.1117/1.JRS.12.046021.full?SSO=1">Retrieving homogeneous liquid cloud microphysical properties using multiple-field-of-view lidar</a></b><br> 
+<b><a href="https://github.com/Henghengniceman/Henghengniceman.github.io/blob/master/_publication/Retrieving%20homogeneous%20liquid%20cloud%20microphysical%20properties%20using%20multiple-field-of-view%20lidar.pdf">Retrieving homogeneous liquid cloud microphysical properties using multiple-field-of-view lidar</a></b><br> 
 <b>Hengheng Zhang</b>,Lingbing Bu, Haiyang Gao, Xingyou Huang, K. Raghavendra Kumar. <i>Journal of Applied Remote Sensing</i>. 2019.<br>
 </p>
 
