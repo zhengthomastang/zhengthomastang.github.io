@@ -21,7 +21,7 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
   <li> <b> Master of Science [2016-2019] </b></li>
   <a href="https://en.nuist.edu.cn/2019/0128/c4784a134654/page.html">School of Atmosphere Physics</a> in <a href="https://en.nuist.edu.cn/">NanJing University of Infoemation Science & Technology</a>
   
-  Majored in Atmosphere Remote Sensing and Sounding; supervised by Prof. Lingbing Bu (supervisor) and Prof. Weilin Pan (co-supervisor), focused on research in the Lidar retrieve methods as well as the construction and maintenance of the Lidar.
+  Majored in Atmosphere Remote Sensing and Sounding; supervised by Prof. Lingbing Bu (supervisor) and Prof. Weilin Pan (co-supervisor), focused on research in the Lidar retrieve methods as well as the construction and maintenance of the LIDAR.
   
   
    <li> <b> Bachelor of Engineering [2012-2016] </b></li>
