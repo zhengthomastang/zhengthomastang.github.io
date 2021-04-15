@@ -29,6 +29,9 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
   Majored in Optical Information Science and Technology
 </ul>
 
+## <i class="fa fa-fw fa-university "></i> Reearch experience ##
+<ul style="width: auto; height: 300px; overflow: auto">  
+</ul> 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   <li> <b>[Nov. 2020]</b> I attended  <a href="https://granada-en.congresoseci.com/elc2020">Eroupen Lidar Conference (ELC2021)</a> and submited poster "Dust Event in Southwest Germany: LIDAR, Sun Photometer Observations, and Regional Dust Modeling"</li> 
