@@ -13,13 +13,10 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
 
 ## <i class="fa fa-fw fa-rss "></i> Education ##
 <ul style="width: auto; height: 300px; overflow: auto">
-
-<li> <b> Ph.D [2019-] </b></li>
-<br> <a href="(https://www.imk-aaf.kit.edu/251.php)">Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)</a></br>
-<a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)
-
-
-<br>Supervised by Prof. Dr. Thomas Leisner / Dr. Harald Saathoff focused on research in the Lidar retrieve methods and data application.</br>
+  <li> <b> Ph.D [2019-] </b></li>
+  <br> <a href="https://www.imk-aaf.kit.edu/251.php">Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)</a></br>
+  <a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)
+  <br>Supervised by Prof. Dr. Thomas Leisner / Dr. Harald Saathoff focused on research in the Lidar retrieve methods and data application.</br>
 </ul>
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
