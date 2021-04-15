@@ -9,13 +9,13 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/251.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/). My research interests include aerosol and cloud remote sensing. Now i am doing reserach on aerosols distribution using 3-D Scanning LIDAR with Financial support of [MOSES Project](https://www.ufz.de/moses/).
+Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/251.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/). My research interests include aerosols and cloud remote sensing. Now i am doing reserach on aerosols distribution using 3-D Scanning LIDAR with Financial support of [MOSES Project](https://www.ufz.de/moses/).
 
 ## <i class="fa fa-fw fa-university "></i> Education ##
 <ul style="width: auto; height: 410px; overflow: auto">
   <li> <b> Ph.D [2019- ] </b></li>
   <a href="https://www.imk-aaf.kit.edu/251.php">Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)</a> in <a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)</a><br />
-  Majored in Atmosphere Remote Sensing and Sounding; Supervised by Prof. Dr. Thomas Leisner / Dr. Harald Saathoff, focused on research in the Lidar retrieve methods and data application.
+  Majored in Atmosphere Physics; Supervised by Prof. Dr. Thomas Leisner / Dr. Harald Saathoff, focused on research in the Lidar retrieval methods and data application.
   
   <li> <b> Master of Science [2016-2019] </b></li>
   <a href="https://en.nuist.edu.cn/2019/0128/c4784a134654/page.html">School of Atmosphere Physics</a> in <a href="https://en.nuist.edu.cn/">NanJing University of Information Science & Technology</a><br />
