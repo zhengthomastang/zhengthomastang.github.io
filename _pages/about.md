@@ -12,7 +12,7 @@ redirect_from:
 Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/251.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/). My research interests include aerosol and cloud remote sensing. Now i am doing reserach on aerosol distribution using 3-D Scanning LIDAR with Financial support of [MOSES Project](https://www.ufz.de/moses/).
 
 ## <i class="fa fa-fw fa-university "></i> Education ##
-<ul style="width: auto; height: 300px; overflow: auto">
+<ul style="width: auto; height: 400px; overflow: auto">
   <br><li> <b> Ph.D [2019- ] </b></li>
   <a href="https://www.imk-aaf.kit.edu/251.php">Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)</a> in <a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)</a>
   
@@ -27,9 +27,9 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
   Majored in Optical Information Science and Technology</br>
 </ul>
 
-## <i class="fa fa-fw fa-university "></i> Rearch experience ##
-<ul style="width: auto; height: 300px; overflow: auto">  
-</ul> 
+<!--## <i class="fa fa-fw fa-university "></i> Rearch experience ##
+<ul style="width: auto; height: 100px; overflow: auto">  
+</ul> <!
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 <ul style="width: auto; height: 300px; overflow: auto">
