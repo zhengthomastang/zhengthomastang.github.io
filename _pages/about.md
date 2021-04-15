@@ -14,7 +14,14 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
 ## <i class="fa fa-fw fa-rss "></i> Education ##
 <ul style="width: auto; height: 300px; overflow: auto">
   <li> <b> Ph.D [2019-] </b></li>
-  <a href="https://www.imk-aaf.kit.edu/251.php">Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)</a> in <a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)</a>
+  Majored in Atmosphere Remote Sensing and Sounding;<a href="https://www.imk-aaf.kit.edu/251.php">Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)</a> in <a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)</a>
+  Majored in Atmosphere Remote Sensing and Sounding;<a href="https://www.imk-aaf.kit.edu/251.php">Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)</a> in <a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology (KIT)</a>
+  Supervised by Prof. Dr. Thomas Leisner / Dr. Harald Saathoff focused on research in the Lidar retrieve methods and data application.
+  
+  <li> <b> Master of Science [2016-2019] </b></li>
+  <a href="https://en.nuist.edu.cn/2019/0128/c4784a134654/page.html">School of Atmosphere Physics</a> in <a href="https://en.nuist.edu.cn/">NanJing University of Infoemation Science & Technology</a>
+  Majored in Atmosphere Remote Sensing and Sounding; supervised by Prof. Lingbing Bu (supervisor) and Prof. Weilin Pan (co-supervisor), focused on research in the Lidar retrieve methods as well as the construction and maintenance of the Lidar 
+  
   Supervised by Prof. Dr. Thomas Leisner / Dr. Harald Saathoff focused on research in the Lidar retrieve methods and data application.
 </ul>
 
