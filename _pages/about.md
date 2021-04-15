@@ -11,10 +11,10 @@ redirect_from:
 
 Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/251.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/). My research interests include aerosol and cloud remote sensing. Now i am doing reserach on aerosol distribution using 3-D Scanning LIDAR with Financial support of [MOSES Project](https://www.ufz.de/moses/).
 ## <i class="fa fa-fw fa-rss "></i> Education ##
-<li> <b> Ph.D [2019-] </b> 
-  Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF) in KIT
+<li> <b> Ph.D [2019-] </b> </li> 
+Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF) in KIT
 Majored in Atmosphere physics; supervised by Prof. Dr. Thomas Leisner / Dr. Harald Saathoff focused on research in the Lidar retrieve methods and data application. 
-</li> 
+
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
