@@ -6,7 +6,7 @@ permalink: /publication/OnlineLearnICT
 date: 2017-05-23
 venue: "IEEE Transactions on Circuits and Systems for Video Technology"
 paperurl: "http://ieeexplore.ieee.org/document/7932896"
-citation: 'Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. "Online-Learning-Based Human Tracking Across Non-Overlapping Cameras". <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</i>. vol. 28, no. 10, pp. 2870-2883. 2018.'
+citation: 'Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. "Online-Learning-Based Human Tracking Across Non-Overlapping Cameras". <i>IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</i>. vol. 28, no. 10, pp. 2870-2883. 2018.'
 ---
 # Online-Learning-Based Human Tracking Across Non-Overlapping Cameras
 
@@ -21,7 +21,7 @@ Due to the expanding scale of camera networks, Multiple Camera Tracking (MCT) of
 @article{Lee18OnlineLearnICT,  
 author = {Young-Gun Lee and Zheng Tang and Jenq-Neng Hwang},  
 title = {Online-learning-based human tracking across non-overlapping cameras},  
-journal = {TCSVT},  
+journal = {T-CSVT},  
 volume = {28},  
 number = {10},  
 pages = {2870--2883},  
