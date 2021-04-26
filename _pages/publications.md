@@ -30,7 +30,7 @@ author_profile: true
 <p>
 <a href="http://zhengthomastang.github.io/publications/OnlineLearnICT"><img src="https://zhengthomastang.github.io/images/OnlineLearnICT_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/OnlineLearnICT">Online-Learning-Based Human Tracking Across Non-Overlapping Cameras</a></b><br> 
-Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>TCSVT</b>.<br>
+Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>T-CSVT</b>.<br>
 [<a href="https://ieeexplore.ieee.org/document/7932896">Paper</a>]
 <br clear="left">
 </p>
