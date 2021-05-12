@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Zheng (Thomas) Tang"
 title_separator          : "-"
 name                     : &name "Dr. Zheng (Thomas) Tang"
-description              : &description "Research Scientist at Amazon"
+description              : &description "Applied Scientist, Metropolis @ NVIDIA"
 url                      : https://zhengthomastang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhengthomastang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Zheng (Thomas) Tang"
   avatar           : "profile.jpg"
-  bio              : "Research Scientist at Amazon, expert in computer vision and machine learning"
+  bio              : "Applied Scientist, Metropolis @ NVIDIA, expert in computer vision and machine learning"
   location         : "Seattle, Washington"
   employer         :
   pubmed           : 
