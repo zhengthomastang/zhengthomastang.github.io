@@ -19,7 +19,7 @@ The team he led achieved rank #1 in Track 1 (Traffic Flow Analysis) and Track 3 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[May 2021]</b> Started new job at NVIDIA working in the <a href="https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/">Metropolis</a> team</li> 
+  <li> <b>[May 2021]</b> Started new job at NVIDIA joining the <a href="https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/">Metropolis</a> team</li> 
   
   <li> <b>[Jan. 2021]</b> Released the 5th AI City Challenge Workshop in conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></li> 
   
