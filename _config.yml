@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Zheng (Thomas) Tang"
 title_separator          : "-"
 name                     : &name "Dr. Zheng (Thomas) Tang"
-description              : &description "Applied Scientist, Metropolis @ NVIDIA"
+description              : &description "Applied Scientist, Metropolis at NVIDIA"
 url                      : https://zhengthomastang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhengthomastang.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Zheng (Thomas) Tang"
   avatar           : "profile.jpg"
-  bio              : "Applied Scientist, Metropolis @ NVIDIA, expert in computer vision and machine learning"
-  location         : "Seattle, Washington"
+  bio              : "Applied Scientist, Metropolis at NVIDIA, expert in computer vision and machine learning"
+  location         : "Redmond, Washington"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zXP1CZwAAAAJ&hl=en"
