@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HenghengZhang"
+title                    : "HenghengZhang1"
 title_separator          : "-"
-name                     : &name "HenghengZhang1"
+name                     : &name "HenghengZhang"
 description              : &description "Ph.D student at Karlsruhe institute of technology(KIT)"
 url                      : https://Henghengniceman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
