@@ -26,11 +26,6 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
   <a href="https://en.nuist.edu.cn/2019/0128/c4784a134650/page.htm">School of Physics and Optoelectronic Engineering </a> in <a href="https://en.nuist.edu.cn/">Nanjing University of Information Science & Technology</a><br />
   Majored in Optical Information Science and Technology.
   
-  <li> <b> Bachelor of Engineering [2012-2016] </b></li>
-  <a href="https://en.nuist.edu.cn/2019/0128/c4784a134650/page.htm">School of Physics and Optoelectronic Engineering </a> in <a href="https://en.nuist.edu.cn/">Nanjing University of Information Science & Technology</a><br />
-  Majored in Optical Information Science and Technology.
-  hhhiasiodsqa
-  hhhhhahahaha qwqrewq
 </ul>
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
