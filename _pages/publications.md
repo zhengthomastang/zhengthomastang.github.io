@@ -42,7 +42,7 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 <b><a href="http://zhengthomastang.github.io/publications/AIC20">The 4th AI City Challenge</a></b><br>
 Milind Naphade, Shuo Wang, David Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Xiaodong Yang, Liang Zheng, Anuj Sharma, Rama Chellappa and Pranamesh Chakraborty. <i>2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 4th AI City Challenge Workshop</i>. <b>CVPRW 2020</b>.<br>
 [<a href="https://arxiv.org/abs/2004.14619">Paper</a>]
-[<a href="https://www.aicitychallenge.org/">Website</a>]
+[<a href="https://www.aicitychallenge.org/2020-ai-city-challenge/">Website</a>]
 <br clear="left">
 </p>
 
