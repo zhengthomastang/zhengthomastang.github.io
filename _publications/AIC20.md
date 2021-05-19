@@ -11,7 +11,7 @@ citation: 'Milind Naphade, Shuo Wang, David Anastasiu, <b>Zheng Tang</b>, Ming-C
 # The 4th AI City Challenge
 
 [<a href="https://arxiv.org/abs/2004.14619">Paper</a>]
-[<a href="https://www.aicitychallenge.org/">Website</a>]
+[<a href="https://www.aicitychallenge.org/2020-ai-city-challenge/">Website</a>]
 
 
 ## Abstract
