@@ -31,7 +31,7 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
 ## <i class="fa fa-fw fa-rss "></i> News ##
 <ul style="width: auto; height: 300px; overflow: auto">
    
-  <li> <b>[June. 2021]</b> I participated in <a href="https://granada-en.congresoseci.com/elc2020">MOSES Swabian campagin</a> </li> 
+  <li> <b>[June. 2021]</b> I participated in <a href="https://granada-en.congresoseci.com/elc2020">MOSES Swabian </a> campagin </li> 
 
   <li> <b>[Apr. 2021]</b> First version of Scanning LIDAR Data Analysis Software was released</li> 
   
