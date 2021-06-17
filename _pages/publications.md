@@ -38,6 +38,15 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 ## Conference Papers ##
 
 <p>
+<a href="http://zhengthomastang.github.io/publications/AIC20"><img src="https://zhengthomastang.github.io/images/AIC21_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AIC21">The 5th AI City Challenge</a></b><br>
+Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Xiaodong Yang, Yue Yao, Liang Zheng, Pranamesh Chakraborty, Christian E. Lopez, Anuj Sharma, Qi Feng, Vitaly Ablavsky and Stan Sclaroff. <i>2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 5th AI City Challenge Workshop</i>. <b>CVPRW 2021</b>.<br>
+[<a href="https://arxiv.org/abs/2104.12233">Paper</a>]
+[<a href="https://www.aicitychallenge.org/">Website</a>]
+<br clear="left">
+</p>
+
+<p>
 <a href="http://zhengthomastang.github.io/publications/AIC20"><img src="https://zhengthomastang.github.io/images/AIC20_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/AIC20">The 4th AI City Challenge</a></b><br>
 Milind Naphade, Shuo Wang, David Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Xiaodong Yang, Liang Zheng, Anuj Sharma, Rama Chellappa and Pranamesh Chakraborty. <i>2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 4th AI City Challenge Workshop</i>. <b>CVPRW 2020</b>.<br>
