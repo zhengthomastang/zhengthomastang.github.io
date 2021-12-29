@@ -20,7 +20,7 @@ The team he led achieved rank #1 in Track 1 (Traffic Flow Analysis) and Track 3 
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Dec. 2021]</b> The 6th AI City Challenge Worshop accepted as a full-day workshop at <a href="https://cvpr2022.thecvf.com/">CVPR 2021</a></li> 
+  <li> <b>[Dec. 2021]</b> The 6th AI City Challenge Worshop accepted as a full-day workshop at <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a></li> 
   
   <li> <b>[Nov. 2021]</b> <a href="https://developer.nvidia.com/nvidia-mdx-early-access">NVIDIA MDX (Metropolis Data Analytics Toolkit)</a>, a complete data analytics SDK developed by the Metropolis team, made available for early access</li> 
   
