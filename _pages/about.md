@@ -30,9 +30,9 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 <ul style="width: auto; height: 300px; overflow: auto">
-    <li> <b>[Feb. 2022]</b> I visited University of Granada for two months.</li> 
+   <li> <b>[Feb. 2022]</b> I visited University of Granada for two months.</li> 
     
-    <li> <b>[Nov. 2021]</b> I attended  <a href="https://granada-en.congresoseci.com/elc2021">Eroupen Lidar Conference (ELC2021)</a> and submited poster "Comparison of vertical and horizontal aerosol distributions measured in situ and by scanning lidar".</li> 
+   <li> <b>[Nov. 2021]</b> I attended  <a href="https://granada-en.congresoseci.com/elc2021">Eroupen Lidar Conference (ELC2021)</a> and submited poster "Comparison of vertical and horizontal aerosol distributions measured in situ and by scanning lidar".</li> 
    
   <li> <b>[Jun. 2021]</b> I participated in <a href="https://www.ufz.de/moses/">MOSES Swabian </a> campagin. </li> 
 
