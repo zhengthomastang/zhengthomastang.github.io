@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/251.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/). My research interests include aerosols and cloud remote sensing. Now I am doing reserach on aerosols distribution using 3-D Scanning LIDAR with Financial support of [MOSES Project](https://www.ufz.de/moses/).
+Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/index.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/). My research interests include aerosols and cloud remote sensing. Now I am doing reserach on aerosols distribution using 3-D Scanning LIDAR with Financial support of [MOSES Project](https://www.ufz.de/moses/).
 
 ## <i class="fa fa-fw fa-university "></i> Education ##
 <ul style="width: auto; height: 410px; overflow: auto">
