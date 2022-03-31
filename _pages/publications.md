@@ -8,8 +8,8 @@ author_profile: true
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
 <p>
-<b><a href="https://amt.copernicus.org/preprints/amt-2021-193/">Investigation of a Saharan dust plume in Western Europe by remote sensing and transport modelling</a></b><br> 
-<b>Hengheng Zhang</b>,Frank Wagner, Harald Saathoff, Heike Vogel, Gholam Ali Hoshyaripour, Vanessa Bachmann, Jochen Förstner, and Thomas Leisner. <i>Atmospheric Measurement Techniques discussion.</i>. 2021.<br>
+<b><a href="https://www.mdpi.com/2072-4292/14/7/1693">Comparison of Scanning LiDAR with Other Remote Sensing Measurements and Transport Model Predictions for a Saharan Dust Case</a></b><br> 
+<b>Hengheng Zhang</b>,Frank Wagner, Harald Saathoff, Heike Vogel, Gholam Ali Hoshyaripour, Vanessa Bachmann, Jochen Förstner, and Thomas Leisner. <i>Atmospheric Measurement Techniques discussion.</i>. 2022.<br>
 </p>
 
 <p>
