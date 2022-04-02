@@ -30,7 +30,6 @@ Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aeros
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 <ul style="width: auto; height: 300px; overflow: auto">
-   <li> <b>[Feb. 2022]</b> I visited University of Granada for two months.</li> 
 
    <li> <b>[Feb. 2022]</b> I visited University of Granada for two months.</li> 
     
