@@ -12,4 +12,4 @@ redirect_from:
 # <i class="fa fa-fw fa-file "></i> Curriculum Vitae #
 
 
-[Click here to view my up-to-date curriculum vitae (CV) [PDF]](http://henghengniceman.github.io/files/ResumeHengHeng.pdf)
+[Click here to view my up-to-date curriculum vitae (CV) [PDF]](https://github.com/Henghengniceman/Henghengniceman.github.io/blob/master/files/ResumeHengHeng.pdf)
