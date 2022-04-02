@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 # <i class="fa fa-fw fa-file "></i> Curriculum Vitae #
-[Click here to view my up-to-date curriculum vitae (CV) [PDF]](https://henghengniceman.github.io/files/ResumeHengHeng.pdf)
+[Click here to view my up-to-date curriculum vitae (CV) [PDF]](https://Henghengniceman.github.io/files/CV-HengHengZhang.pdf )
 
