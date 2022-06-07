@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/index.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/). My research interests include aerosols and cloud remote sensing. Now I am doing reserach on aerosols distribution using 3-D Scanning LIDAR with Financial support of [MOSES Project](https://www.ufz.de/moses/). <b>During my Ph.D thesis, I proposed a method to retrieved lidar ratio based on scanning aerosol lidar firsrtly and the result has published in [Remote Sensing](https://www.mdpi.com/2072-4292/14/7/1693)</b>
+Ph.D student at [Institute of Meteorology and Climate Research Atmospheric Aerosol Research (IMK-AAF)](https://www.imk-aaf.kit.edu/index.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/). My research interests include aerosols and cloud remote sensing. Now I am doing reserach on aerosols distribution using 3-D Scanning LIDAR with Financial support of [MOSES Project](https://www.ufz.de/moses/). <b>During my Ph.D thesis, I proposed a method to retrieved lidar ratio based on scanning aerosol lidar firsrtly and the result has published in [Remote Sensing](https://www.mdpi.com/2072-4292/14/7/1693)</b>.
 
 ## <i class="fa fa-fw fa-university "></i> Education ##
 <ul style="width: auto; height: 410px; overflow: auto">
