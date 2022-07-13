@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> Bio #
 
-Dr. Zheng (Thomas) Tang is currently a Senior Data Science Engineer, [Metropolis](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/) at [NVIDIA](https://www.nvidia.com/en-us/) (2021~). Dr. Tang was previously a Research Scientist, [Amazon One](https://one.amazon.com/) at [Amazon](https://www.amazon.com/) (2019~2021). He received his Ph.D. degree in [Electrical & Computer Engineering (ECE)](https://www.ece.uw.edu/) from the [University of Washington (UW)](http://www.washington.edu/) in 2019. 
+Dr. Zheng (Thomas) Tang is currently a Senior Data Science Engineer, [Metropolis](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/) at [NVIDIA](https://www.nvidia.com/en-us/) (2021~). Dr. Tang was previously an Applied Scientist, [Amazon One](https://one.amazon.com/) at [Amazon](https://www.amazon.com/) (2019~2021). He received his Ph.D. degree in [Electrical & Computer Engineering (ECE)](https://www.ece.uw.edu/) from the [University of Washington (UW)](http://www.washington.edu/) in 2019. 
 
 His research interests include intelligent transportation systems, intra-/inter-camera multi-target tracking, re-identification, pose estimation, action recognition, camera calibration, synthetic data generation, biometric identification, and other topics in computer vision and machine learning. He has 3 filed U.S. patents and over 17 publications in peer-reviewed journals and conference proceedings in these areas. He has been an Associate Editor (AE) (2021~) for [<i>IEEE Transactions on Circuits and Systems for Video Technology</i> (T-CSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) and an Organizing Committee member (2020~) for the [AI City Challenge Workshops](https://www.aicitychallenge.org/) in conjunction with CVPR. He was also an Area Chair of <a href="https://2021.ieeemlsp.org/">MLSP 2021</a>. As a reviewer, he frequently serves for academic journals and international conferences, such as IJCV, T-PAMI, T-IP, T-MM, T-CSVT, T-ITS, T-AI, T-MC, RA-L, IEEE Access, NeurIPS, ICME, SMC, etc. Dr. Tang received the Best AE Award of T-CSVT for 2021. 
 
@@ -19,6 +19,8 @@ The team he led achieved rank #1 in Track 1 (Traffic Flow Analysis) and Track 3 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  
+  <li> <b>[Jun. 2022]</b> Released a new version of <a href="https://developer.nvidia.com/tao-toolkit">NVIDIA TAO Toolkit</a> where I developed an end-to-end pipeline for pose-based action recognition</li> 
   
   <li> <b>[Feb. 2022]</b> Received the Best AE Award of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">T-CSVT</a> for 2021</li> 
   
