@@ -30,7 +30,7 @@ The team he led achieved rank #1 in Track 1 (Traffic Flow Analysis) and Track 3 
   
   <li> <b>[Oct. 2021]</b> Served as an Area Chair of <a href="https://2021.ieeemlsp.org/">MLSP 2021</a></li> 
   
-  <li> <b>[May 2021]</b> Started new job at NVIDIA joining the <a href="https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/">Metropolis</a> team</li> 
+  <li> <b>[May 2021]</b> Started a new job at NVIDIA joining the <a href="https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/">Metropolis</a> team</li> 
   
   <li> <b>[Jan. 2021]</b> Released the 5th AI City Challenge Workshop in conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2022</a></li> 
   
