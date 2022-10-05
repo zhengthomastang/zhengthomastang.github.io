@@ -18,6 +18,11 @@ author_profile: true
 </p>
 
 <p>
+<b><a href="https://www.frontiersin.org/articles/10.3389/feart.2022.999593/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Earth_Science&id=999593">Swabian MOSES 2021: An interdisciplinary field campaign for investigating convective storms and their event chains</a></b><br> 
+Michael Kunz et.al <i>Frontiers</i>. 2022.<br>
+</p>
+
+<p>
 <b><a href="https://www.osapublishing.org/copp/abstract.cfm?uri=copp-4-3-174">Detection of Water Cloud Microphysical Properties Using Multi-scattering Polarization Lidar</a></b><br> 
 Jiaming Xie, Xingyou Huang, Lingbing Bu,<b>Hengheng Zhang</b>, Farhan Mustafa, and Chenxi Chu. <i>Meteorology and Atmospheric Physics</i>. 2020.<br>
 </p>
