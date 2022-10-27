@@ -6,12 +6,6 @@ author_profile: true
 ---
 
 # <i class="fa fa-fw fa-copy"></i> Publications #
-
-<p>
-<b><a href="https://www.frontiersin.org/articles/10.3389/feart.2022.999593/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Earth_Science&id=999593">Swabian MOSES 2021: An interdisciplinary field campaign for investigating convective storms and their event chains</a></b><br> 
-Michael Kunz et.al <i>Frontiers</i>. 2022.<br>
-</p>
-
 <p>
 <b><a href="https://www.mdpi.com/2072-4292/14/7/1693">Comparison of Scanning LiDAR with Other Remote Sensing Measurements and Transport Model Predictions for a Saharan Dust Case</a></b><br> 
 <b>Hengheng Zhang*</b>,Frank Wagner, Harald Saathoff, Heike Vogel, Gholam Ali Hoshyaripour, Vanessa Bachmann, Jochen Förstner, and Thomas Leisner. <i>Remote Sensing.</i>2022.<br>
@@ -22,6 +16,10 @@ Michael Kunz et.al <i>Frontiers</i>. 2022.<br>
 <b>Hengheng Zhang</b>,Lingbing Bu, Haiyang Gao, Xingyou Huang, K. Raghavendra Kumar. <i>Journal of Applied Remote Sensing</i>. 2019.<br>
 </p>
 
+<p>
+<b><a href="https://www.frontiersin.org/articles/10.3389/feart.2022.999593/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Earth_Science&id=999593">Swabian MOSES 2021: An interdisciplinary field campaign for investigating convective storms and their event chains</a></b><br> 
+Michael Kunz et.al <i>Frontiers</i>. 2022.<br>
+</p>
 
 <p>
 <b><a href="https://www.osapublishing.org/copp/abstract.cfm?uri=copp-4-3-174">Detection of Water Cloud Microphysical Properties Using Multi-scattering Polarization Lidar</a></b><br> 
