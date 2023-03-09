@@ -3,7 +3,7 @@ title: "The 5th AI City Challenge"
 collection: publications
 permalink: /publication/AIC21
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2020-06-25
+date: 2021-06-25
 venue: "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 5th AI City Challenge Workshop"
 paperurl: "https://arxiv.org/abs/2104.12233"
 citation: 'Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Xiaodong Yang, Yue Yao, Liang Zheng, Pranamesh Chakraborty, Christian E. Lopez, Anuj Sharma, Qi Feng, Vitaly Ablavsky and Stan Sclaroff. "The 5th AI City Challenge". <i>Proceedings of 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2021)</i>. 2021.'
