@@ -11,7 +11,7 @@ citation: 'Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Min
 # The 5th AI City Challenge
 
 [<a href="https://arxiv.org/abs/2104.12233">Paper</a>]
-[<a href="https://www.aicitychallenge.org/">Website</a>]
+[<a href="https://www.aicitychallenge.org/2021-ai-city/">Website</a>]
 
 
 ## Abstract
