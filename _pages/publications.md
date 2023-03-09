@@ -38,11 +38,20 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 ## Conference Papers ##
 
 <p>
+<a href="http://zhengthomastang.github.io/publications/AIC22"><img src="https://zhengthomastang.github.io/images/AIC22_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AIC22">The 6th AI City Challenge</a></b><br>
+Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Yue Yao, Liang Zheng, Mohammed Shaiqur Rahman, Archana Venkatachalapathy, Anuj Sharma, Qi Feng, Vitaly Ablavsky, Stan Sclaroff, Pranamesh Chakraborty, Alice Li, Shangru Li and Rama Chellappa. <i>2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 6th AI City Challenge Workshop</i>. <b>CVPRW 2022</b>.<br>
+[<a href="https://arxiv.org/abs/2204.10380">Paper</a>]
+[<a href="https://www.aicitychallenge.org/2022-ai-city/">Website</a>]
+<br clear="left">
+</p>
+
+<p>
 <a href="http://zhengthomastang.github.io/publications/AIC21"><img src="https://zhengthomastang.github.io/images/AIC21_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/AIC21">The 5th AI City Challenge</a></b><br>
 Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Xiaodong Yang, Yue Yao, Liang Zheng, Pranamesh Chakraborty, Christian E. Lopez, Anuj Sharma, Qi Feng, Vitaly Ablavsky and Stan Sclaroff. <i>2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 5th AI City Challenge Workshop</i>. <b>CVPRW 2021</b>.<br>
 [<a href="https://arxiv.org/abs/2104.12233">Paper</a>]
-[<a href="https://www.aicitychallenge.org/">Website</a>]
+[<a href="https://www.aicitychallenge.org/2021-ai-city/">Website</a>]
 <br clear="left">
 </p>
 
