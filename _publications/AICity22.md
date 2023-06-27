@@ -1,7 +1,7 @@
 ---
 title: "The 6th AI City Challenge"
 collection: publications
-permalink: /publication/AIC22
+permalink: /publication/AICity22
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2022-06-20
 venue: "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 6th AI City Challenge Workshop"
@@ -19,7 +19,7 @@ The 6th edition of the AI City Challenge specifically focuses on problems in two
 
 
 ## Citation
-@inproceedings{Naphade22AIC22,  
+@inproceedings{Naphade22AICity22,  
 author = {Milind Naphade and Shuo Wang and David C. Anastasiu and Zheng Tang and Ming-Ching Chang and Yue Yao and Liang Zheng and Mohammed Rahman and Archana Venkatachalapathy and Anuj Sharma and Qi Feng and Vitaly Ablavsky and Stan Sclaroff and Pranamesh Chakraborty and Alice Li and Shangru Li and Rama Chellappa},  
 title = {The 6th {AI} {C}ity {C}hallenge},  
 booktitle = {Proc. CVPR Workshops},
