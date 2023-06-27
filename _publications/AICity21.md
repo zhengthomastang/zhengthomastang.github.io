@@ -1,7 +1,7 @@
 ---
 title: "The 5th AI City Challenge"
 collection: publications
-permalink: /publication/AIC21
+permalink: /publication/AICity21
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2021-06-25
 venue: "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 5th AI City Challenge Workshop"
@@ -19,7 +19,7 @@ The AI City Challenge was created with two goals in mind: (1) pushing the bounda
 
 
 ## Citation
-@inproceedings{Naphade21AIC21,  
+@inproceedings{Naphade21AICity21,  
 author = {Milind Naphade and Shuo Wang and David C. Anastasiu and Zheng Tang and Ming-Ching Chang and Xiaodong Yang and Yue Yao and Liang Zheng and Pranamesh Chakraborty and Christian E. Lopez and Anuj Sharma and Qi Feng and Vitaly Ablavsky and Stan Sclaroff},  
 title = {The 5th {AI} {C}ity {C}hallenge},  
 booktitle = {Proc. CVPR Workshops}, 
