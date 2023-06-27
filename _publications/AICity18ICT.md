@@ -12,8 +12,8 @@ citation: '<b>Zheng Tang</b>, Gaoang Wang, Hao Xiao, Aotian Zheng and Jenq-Neng 
 
 [<a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.html">Paper</a>]
 [<a href="https://github.com/zhengthomastang/2018AICity_TeamUW">Code</a>]
-[<a href="http://zhengthomastang.github.io/files/AIC18ICT_slides.pdf">Slides</a>]
-[<a href="http://zhengthomastang.github.io/files/AIC18ICT_poster.pdf">Poster</a>]
+[<a href="http://zhengthomastang.github.io/files/AICity18ICT_slides.pdf">Slides</a>]
+[<a href="http://zhengthomastang.github.io/files/AICity18ICT_poster.pdf">Poster</a>]
 [<a href="https://youtu.be/_i4numqiv7Y">Demo1</a>]
 [<a href="https://youtu.be/Jlvh_KxHl40">Demo2</a>]
 
