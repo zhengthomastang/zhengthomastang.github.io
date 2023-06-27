@@ -1,7 +1,7 @@
 ---
 title: "The 2019 AI City Challenge"
 collection: publications
-permalink: /publication/AIC19
+permalink: /publication/AICity19
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2019-06-16
 venue: "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 3rd AI City Challenge Workshop"
@@ -19,7 +19,7 @@ The AI City Challenge has been created to accelerate intelligent video analysis 
 
 
 ## Citation
-@inproceedings{Naphade19AIC19,  
+@inproceedings{Naphade19AICity19,  
 author = {Milind Naphade and Zheng Tang and Ming-Ching Chang and David C. Anastasiu and Anuj Sharma and Rama Chellappa and Shuo Wang and Pranamesh Chakraborty and Tingting Huang and Jenq-Neng Hwang and Siwei Lyu},  
 title = {The 2019 {AI} {C}ity {C}hallenge},  
 booktitle = {Proc. CVPR Workshops},  
