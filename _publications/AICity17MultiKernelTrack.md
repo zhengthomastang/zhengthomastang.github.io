@@ -1,7 +1,7 @@
 ---
 title: "Multiple-Kernel Based Vehicle Tracking Using 3D Deformable Model and Camera Self-Calibration"
 collection: publications
-permalink: /publication/AIC17MultiKernelTrack
+permalink: /publication/AICity17MultiKernelTrack
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2017-08-05
 venue: "2017 IEEE Smart World Congress - 1st AI City Challenge Workshop"
@@ -30,7 +30,7 @@ Tracking of multiple objects is an important application in AI City geared towar
 
 
 ## Citation
-@misc{Tang17AIC17MultiKernelTrack,  
+@misc{Tang17AICity17MultiKernelTrack,  
 author = {Zheng Tang and Gaoang Wang and Tao Liu and Young-Gun Lee and Adwin Jahn and Xu Liu and Xiaodong He and Jenq-Neng Hwang},  
 title = {Multiple-kernel based vehicle tracking using {3D} deformable model and camera self-calibration},  
 howpublished = {arXiv:1708.06831},  
