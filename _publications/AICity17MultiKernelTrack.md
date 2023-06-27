@@ -22,10 +22,10 @@ Tracking of multiple objects is an important application in AI City geared towar
 ## Honor
 * Winner of Track 2 (AI City Applications) at the 1st AI City Challenge Workshop in SmartWorld 2017
 <p align="center">
-  <img src="http://zhengthomastang.github.io/images/AIC17MultiKernelTrack_award.png?raw=true" alt="Award" style="width: 450px;"/>
+  <img src="http://zhengthomastang.github.io/images/AICity17MultiKernelTrack_award.png?raw=true" alt="Award" style="width: 450px;"/>
 </p>
 <p align="center">
-  <img src="http://zhengthomastang.github.io/images/AIC17MultiKernelTrack_photo.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="http://zhengthomastang.github.io/images/AICity17MultiKernelTrack_photo.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
