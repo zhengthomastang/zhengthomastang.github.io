@@ -9,7 +9,7 @@ paperurl: "https://arxiv.org/abs/2304.07500"
 citation: 'Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Yue Yao, Liang Zheng, Mohammed Shaiqur Rahman, Meenakshi S. Arya, Anuj Sharma, Qi Feng, Vitaly Ablavsky, Stan Sclaroff, Pranamesh Chakraborty, Sanjita Prajapati, Alice Li, Shangru Li, Krishna Kunadharaju, Shenxin Jiang and Rama Chellappa. "The 7th AI City Challenge". <i>Proceedings of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)</i>. 2023.'
 
 ---
-# The 6th AI City Challenge
+# The 7th AI City Challenge
 
 [<a href="https://arxiv.org/abs/2304.07500">Paper</a>]
 [<a href="https://www.aicitychallenge.org/">Website</a>]
