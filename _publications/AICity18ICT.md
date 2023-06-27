@@ -26,7 +26,7 @@ Tracking of vehicles across multiple cameras with non-overlapping views has been
 * Winner of Track 1 (Traffic Flow Analysis) at the 2nd AI City Challenge Workshop in CVPR 2018
 * Winner of Track 3 (Multi-camera Vehicle Detection & ReID) at the 2nd AI City Challenge Workshop in CVPR 2018
 <p align="center">
-  <img src="http://zhengthomastang.github.io/images/AIC18ICT_photo.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="http://zhengthomastang.github.io/images/AICity18ICT_photo.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
