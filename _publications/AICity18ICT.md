@@ -1,7 +1,7 @@
 ---
 title: "Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features"
 collection: publications
-permalink: /publication/AIC18ICT
+permalink: /publication/AICity18ICT
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2018-06-18
 venue: "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd AI City Challenge Workshop"
@@ -31,7 +31,7 @@ Tracking of vehicles across multiple cameras with non-overlapping views has been
 
 
 ## Citation
-@inproceedings{Tang18AIC18ICT,  
+@inproceedings{Tang18AICity18ICT,  
 author = {Zheng Tang and Gaoang Wang and Hao Xiao and Aotian Zheng and Jenq-Neng Hwang},  
 title = {Single-camera and inter-camera vehicle tracking and {3D} speed estimation based on fusion of visual and semantic features},  
 booktitle = {Proc. CVPR Workshops},  
