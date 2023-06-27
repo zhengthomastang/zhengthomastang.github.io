@@ -11,7 +11,7 @@ citation: '<b>Zheng Tang</b>, Gaoang Wang, Tao Liu, Young-Gun Lee, Adwin Jahn, X
 # Multiple-Kernel Based Vehicle Tracking Using 3D Deformable Model and Camera Self-Calibration
 
 [<a href="https://arxiv.org/abs/1708.06831">Paper</a>]
-[<a href="http://zhengthomastang.github.io/files/AIC17MultiKernelTrack_slides.pdf">Slides</a>]
+[<a href="http://zhengthomastang.github.io/files/AICity17MultiKernelTrack_slides.pdf">Slides</a>]
 [<a href="https://youtu.be/QA0Iek4tR0k">Demo</a>]
 
 
