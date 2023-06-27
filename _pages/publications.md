@@ -38,8 +38,17 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 ## Conference Papers ##
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/AIC22"><img src="https://zhengthomastang.github.io/images/AIC22_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-<b><a href="http://zhengthomastang.github.io/publications/AIC22">The 6th AI City Challenge</a></b><br>
+<a href="http://zhengthomastang.github.io/publications/AICity23"><img src="https://zhengthomastang.github.io/images/AICity23_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AICity23">The 7th AI City Challenge</a></b><br>
+Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Yue Yao, Liang Zheng, Mohammed Shaiqur Rahman, Meenakshi S. Arya, Anuj Sharma, Qi Feng, Vitaly Ablavsky, Stan Sclaroff, Pranamesh Chakraborty, Sanjita Prajapati, Alice Li, Shangru Li, Krishna Kunadharaju, Shenxin Jiang and Rama Chellappa. <i>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 7th AI City Challenge Workshop</i>. <b>CVPRW 2023</b>.<br>
+[<a href="https://arxiv.org/abs/2304.07500">Paper</a>]
+[<a href="https://www.aicitychallenge.org/">Website</a>]
+<br clear="left">
+</p>
+
+<p>
+<a href="http://zhengthomastang.github.io/publications/AICity22"><img src="https://zhengthomastang.github.io/images/AICity22_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AICity22">The 6th AI City Challenge</a></b><br>
 Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Yue Yao, Liang Zheng, Mohammed Shaiqur Rahman, Archana Venkatachalapathy, Anuj Sharma, Qi Feng, Vitaly Ablavsky, Stan Sclaroff, Pranamesh Chakraborty, Alice Li, Shangru Li and Rama Chellappa. <i>2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 6th AI City Challenge Workshop</i>. <b>CVPRW 2022</b>.<br>
 [<a href="https://arxiv.org/abs/2204.10380">Paper</a>]
 [<a href="https://www.aicitychallenge.org/2022-ai-city/">Website</a>]
@@ -47,8 +56,8 @@ Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Cha
 </p>
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/AIC21"><img src="https://zhengthomastang.github.io/images/AIC21_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-<b><a href="http://zhengthomastang.github.io/publications/AIC21">The 5th AI City Challenge</a></b><br>
+<a href="http://zhengthomastang.github.io/publications/AICity21"><img src="https://zhengthomastang.github.io/images/AICity21_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AICity21">The 5th AI City Challenge</a></b><br>
 Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Xiaodong Yang, Yue Yao, Liang Zheng, Pranamesh Chakraborty, Christian E. Lopez, Anuj Sharma, Qi Feng, Vitaly Ablavsky and Stan Sclaroff. <i>2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 5th AI City Challenge Workshop</i>. <b>CVPRW 2021</b>.<br>
 [<a href="https://arxiv.org/abs/2104.12233">Paper</a>]
 [<a href="https://www.aicitychallenge.org/2021-ai-city/">Website</a>]
@@ -56,8 +65,8 @@ Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Cha
 </p>
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/AIC20"><img src="https://zhengthomastang.github.io/images/AIC20_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-<b><a href="http://zhengthomastang.github.io/publications/AIC20">The 4th AI City Challenge</a></b><br>
+<a href="http://zhengthomastang.github.io/publications/AICity20"><img src="https://zhengthomastang.github.io/images/AICity20_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AICity20">The 4th AI City Challenge</a></b><br>
 Milind Naphade, Shuo Wang, David Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Xiaodong Yang, Liang Zheng, Anuj Sharma, Rama Chellappa and Pranamesh Chakraborty. <i>2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 4th AI City Challenge Workshop</i>. <b>CVPRW 2020</b>.<br>
 [<a href="https://arxiv.org/abs/2004.14619">Paper</a>]
 [<a href="https://www.aicitychallenge.org/2020-ai-city-challenge/">Website</a>]
@@ -87,8 +96,8 @@ Milind Naphade, Shuo Wang, David Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang,
 </p>
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/AIC19"><img src="https://zhengthomastang.github.io/images/AIC19_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-<b><a href="http://zhengthomastang.github.io/publications/AIC19">The 2019 AI City Challenge</a></b><br> 
+<a href="http://zhengthomastang.github.io/publications/AICity19"><img src="https://zhengthomastang.github.io/images/AICity19_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AICity19">The 2019 AI City Challenge</a></b><br> 
 Milind Naphade, <b>Zheng Tang</b>, Ming-Ching Chang, David C Anastasiu, Anuj Sharma, Rama Chellappa, Shuo Wang, Pranamesh Chakraborty, Tingting Huang, Jenq-Neng Hwang and Siwei Lyu. <i>2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 3rd AI City Challenge Workshop</i>. <b>CVPRW 2019</b>.<br>
 [<a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/AI_City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.html">Paper</a>]
 [<a href="https://www.aicitychallenge.org/2019-challenge/">Website</a>]
@@ -113,13 +122,13 @@ Na Wang, Haiqing Du, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>2018 IE
 </p>
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/AIC18ICT"><img src="https://zhengthomastang.github.io/images/AIC18ICT_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-<b><a href="http://zhengthomastang.github.io/publications/AIC18ICT">Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features</a></b><br> 
+<a href="http://zhengthomastang.github.io/publications/AICity18ICT"><img src="https://zhengthomastang.github.io/images/AICity18ICT_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AICity18ICT">Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features</a></b><br> 
 <b>Zheng Tang</b>, Gaoang Wang, Hao Xiao, Aotian Zheng and Jenq-Neng Hwang. <i>2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd AI City Challenge Workshop</i>. <b>CVPRW 2018</b>. <span style="color:red">(Winner of Track 1 & Track 3 at the 2nd AI City Challenge)</span><br>
 [<a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.html">Paper</a>]
 [<a href="https://github.com/zhengthomastang/2018AICity_TeamUW">Code</a>]
-[<a href="http://zhengthomastang.github.io/files/AIC18ICT_slides.pdf">Slides</a>]
-[<a href="http://zhengthomastang.github.io/files/AIC18ICT_poster.pdf">Poster</a>]
+[<a href="http://zhengthomastang.github.io/files/AICity18ICT_slides.pdf">Slides</a>]
+[<a href="http://zhengthomastang.github.io/files/AICity18ICT_poster.pdf">Poster</a>]
 [<a href="https://youtu.be/_i4numqiv7Y">Demo1</a>]
 [<a href="https://youtu.be/Jlvh_KxHl40">Demo2</a>]
 <br clear="left">
@@ -143,11 +152,11 @@ Young-Gun Lee, <b>Zheng Tang</b>, Jenq-Neng Hwang and Zhijun Fang. <i>2017 IEEE 
 </p>
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/AIC17MultiKernelTrack"><img src="https://zhengthomastang.github.io/images/AIC17MultiKernelTrack_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-<b><a href="http://zhengthomastang.github.io/publications/AIC17MultiKernelTrack">Multiple-Kernel Based Vehicle Tracking Using 3D Deformable Model and Camera Self-Calibration</a></b><br> 
+<a href="http://zhengthomastang.github.io/publications/AICity17MultiKernelTrack"><img src="https://zhengthomastang.github.io/images/AICity17MultiKernelTrack_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AICity17MultiKernelTrack">Multiple-Kernel Based Vehicle Tracking Using 3D Deformable Model and Camera Self-Calibration</a></b><br> 
 <b>Zheng Tang</b>, Gaoang Wang, Tao Liu, Young-Gun Lee, Adwin Jahn, Xu Liu, Xiaodong He and Jenq-Neng Hwang. <i>2017 IEEE Smart World Congress - 1st AI City Challenge Workshop</i>. <span style="color:red">(Winner of Track 2 at the 1st AI City Challenge)</span><br>
 [<a href="https://arxiv.org/abs/1708.06831">Paper</a>]
-[<a href="http://zhengthomastang.github.io/files/AIC17MultiKernelTrack_slides.pdf">Slides</a>]
+[<a href="http://zhengthomastang.github.io/files/AICity17MultiKernelTrack_slides.pdf">Slides</a>]
 [<a href="https://youtu.be/QA0Iek4tR0k">Demo</a>]
 <br clear="left">
 </p>
