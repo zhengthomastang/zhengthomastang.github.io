@@ -10,6 +10,14 @@ author_profile: true
 ## Journal Articles ##
 
 <p>
+<a href="http://zhengthomastang.github.io/publications/SKD"><img src="https://zhengthomastang.github.io/images/SKD_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/SKD">The Staged Knowledge Distillation in Video Classification: Harmonizing Student Progress by a Complementary Weakly Supervised Framework</a></b><br> 
+Chao Wang and <b>Zheng Tang</b>. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>T-CSVT</b>.<br>
+[<a href="https://ieeexplore.ieee.org/document/10182291">Paper</a>]
+<br clear="left">
+</p>
+
+<p>
 <a href="http://zhengthomastang.github.io/publications/MOANA"><img src="https://zhengthomastang.github.io/images/MOANA_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/MOANA">MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D</a></b><br> 
 <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Access</i>.<br>
