@@ -8,7 +8,7 @@ venue: "IEEE Transactions on Circuits and Systems for Video Technology"
 paperurl: "http://ieeexplore.ieee.org/document/10182291"
 citation: 'Chao Wang and <b>Zheng Tang</b>. "The Staged Knowledge Distillation in Video Classification: Harmonizing Student Progress by a Complementary Weakly Supervised Framework". <i>IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</i>. 2023.'
 ---
-# Online-Learning-Based Human Tracking Across Non-Overlapping Cameras
+# The Staged Knowledge Distillation in Video Classification: Harmonizing Student Progress by a Complementary Weakly Supervised Framework
 
 [<a href="https://ieeexplore.ieee.org/document/10182291">Paper</a>]
 
