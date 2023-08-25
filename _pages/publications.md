@@ -10,7 +10,7 @@ author_profile: true
 ## Journal Articles ##
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/SKD"><img src="https://zhengthomastang.github.io/images/SKD_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="40" align="left"/></a>
+<a href="http://zhengthomastang.github.io/publications/SKD"><img src="https://zhengthomastang.github.io/images/SKD_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/SKD">The Staged Knowledge Distillation in Video Classification: Harmonizing Student Progress by a Complementary Weakly Supervised Framework</a></b><br> 
 Chao Wang and <b>Zheng Tang</b>. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>T-CSVT</b>.<br>
 [<a href="https://ieeexplore.ieee.org/document/10182291">Paper</a>]
