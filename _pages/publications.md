@@ -10,7 +10,7 @@ author_profile: true
 ## Journal Articles ##
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/SKD"><img src="https://zhengthomastang.github.io/images/SKD_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<a href="http://zhengthomastang.github.io/publications/SKD"><img src="https://zhengthomastang.github.io/images/SKD_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="40" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/SKD">The Staged Knowledge Distillation in Video Classification: Harmonizing Student Progress by a Complementary Weakly Supervised Framework</a></b><br> 
 Chao Wang and <b>Zheng Tang</b>. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>. <b>T-CSVT</b>.<br>
 [<a href="https://ieeexplore.ieee.org/document/10182291">Paper</a>]
@@ -44,6 +44,14 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 </p>
 
 ## Conference Papers ##
+
+<p>
+<a href="http://zhengthomastang.github.io/publications/ARC"><img src="https://zhengthomastang.github.io/images/ARC_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/ARC">TrainingwithProductDigitalTwinsforAutoRetailCheckout</a></b><br> 
+Yue Yao, Xinyu Tian, <b>Zheng Tang</b>, Sujit Biswas, Huan Lei, Tom Gedeon and Liang Zheng. <i>2024 AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2024</b>.<br>
+[<a href="https://arxiv.org/abs/2308.09708">Paper</a>]
+<br clear="left">
+</p>
 
 <p>
 <a href="http://zhengthomastang.github.io/publications/AICity23"><img src="https://zhengthomastang.github.io/images/AICity23_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
