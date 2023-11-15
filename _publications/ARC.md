@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ARC
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2023-08-18
-venue: "2024 AAAI Conference on Artificial Intelligence"
+venue: "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition"
 paperurl: "https://arxiv.org/abs/2308.09708"
 citation: 'Yue Yao, Xinyu Tian, <b>Zheng Tang</b>, Sujit Biswas, Huan Lei, Tom Gedeon and Liang Zheng. "Training with Product Digital Twins for AutoRetail Checkout". <i>arXiv:2308.09708</i>. 2023.'
 ---
@@ -21,6 +21,6 @@ Automating the checkout process is important in smart retail, where users effort
 @misc{Yao23ARC,  
 author = {Yue Yao and Xinyu Tian and Zheng Tang and Sujit Biswas and Huan Lei and Tom Gedeon and Liang Zheng},  
 title = {Training with product digital twins for {A}uto{R}etail {C}heckout},  
-note = {arXiv:2308.09708 (submitted to AAAI 2024)},  
+note = {arXiv:2308.09708 (submitted to CVPR 2024)},  
 year = {2023}  
 }
