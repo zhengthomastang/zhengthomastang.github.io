@@ -21,6 +21,6 @@ Automating the checkout process is important in smart retail, where users effort
 @misc{Yao23ARC,  
 author = {Yue Yao and Xinyu Tian and Zheng Tang and Sujit Biswas and Huan Lei and Tom Gedeon and Liang Zheng},  
 title = {Training with product digital twins for {A}uto{R}etail {C}heckout},  
-note = {arXiv:2308.09708 (submitted to CVPR 2024)},  
+note = {arXiv:2308.09708 (submitted to ECCV 2024)},  
 year = {2023}  
 }
