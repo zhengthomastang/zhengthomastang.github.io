@@ -20,7 +20,7 @@ The team he led achieved rank #1 in Track 1 (Traffic Flow Analysis) and Track 3 
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Mar. 2024]</b> <a href="[https://developer.nvidia.com/metropolis-microservices](https://blogs.nvidia.com/blog/ai-digital-twins-industrial-automation-demo/)">Fusing Real-Time AI With Digital Twins</a> highlighted at the keynote of NVIDIA GTC 2024</li>
+  <li> <b>[Mar. 2024]</b> <a href="https://blogs.nvidia.com/blog/ai-digital-twins-industrial-automation-demo/">Fusing Real-Time AI With Digital Twins</a> highlighted at the keynote of NVIDIA GTC 2024</li>
   
   <li> <b>[Mar. 2023]</b> <a href="https://developer.nvidia.com/metropolis-microservices">NVIDIA Metropolis Microservices 1.0</a> released, where I developed the Multi-Camera Tracking app and trained with synthetic data from Omniverse</li>
   
