@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ARC
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2023-08-18
-venue: "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2308.09708"
 citation: 'Yue Yao, Xinyu Tian, <b>Zheng Tang</b>, Sujit Biswas, Huan Lei, Tom Gedeon and Liang Zheng. "Training with Product Digital Twins for AutoRetail Checkout". <i>arXiv:2308.09708</i>. 2023.'
 ---
