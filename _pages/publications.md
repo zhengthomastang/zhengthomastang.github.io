@@ -48,7 +48,7 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 <p>
 <a href="http://zhengthomastang.github.io/publications/ARC"><img src="https://zhengthomastang.github.io/images/ARC_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/ARC">Training with Product Digital Twins for AutoRetail Checkout</a></b><br> 
-Yue Yao, Xinyu Tian, <b>Zheng Tang</b>, Sujit Biswas, Huan Lei, Tom Gedeon and Liang Zheng. <i>2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2024</b>.<br>
+Yue Yao, Xinyu Tian, <b>Zheng Tang</b>, Sujit Biswas, Huan Lei, Tom Gedeon and Liang Zheng. <b>arXiv</b>.<br>
 [<a href="https://arxiv.org/abs/2308.09708">Paper</a>]
 <br clear="left">
 </p>
