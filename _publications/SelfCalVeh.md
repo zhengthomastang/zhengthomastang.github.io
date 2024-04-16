@@ -18,11 +18,11 @@ This paper proposes an effective and practical method for self-calibration of tr
 
 
 ## Citation
-@inproceedings{Wang18SelfCalVeh,  
-author = {Na Wang and Haiqing Du and Yong Liu and Zheng Tang and Jenq-Neng Hwang},  
-title = {Self-calibration of traffic surveillance cameras based on moving vehicle appearance and 3-D vehicle modeling},  
-booktitle = {Proc. ICIP},  
-pages = {3064--3068},   
-address = {Athens, Greece},  
-year = {2018}  
+@inproceedings{Wang18SelfCalVeh,
+author = {Na Wang and Haiqing Du and Yong Liu and Zheng Tang and Jenq-Neng Hwang},
+title = {Self-calibration of traffic surveillance cameras based on moving vehicle appearance and 3-D vehicle modeling},
+booktitle = {Proc. ICIP},
+pages = {3064--3068},
+address = {Athens, Greece},
+year = {2018}
 }
