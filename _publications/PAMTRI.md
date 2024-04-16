@@ -20,11 +20,11 @@ In comparison with person re-identification (ReID), which has been widely studie
 
 
 ## Citation
-@inproceedings{Tang19PAMTRI,  
-author = {Zheng Tang and Milind Naphade and Stan Birchfield and Jonathan Tremblay and William Hodge and Ratnesh Kumar and Shuo Wang and Xiaodong Yang},  
-title = { {PAMTRI}: {P}ose-aware multi-task learning for vehicle re-identification using highly randomized synthetic data},  
-booktitle = {Proc. ICCV},  
-pages = {211--220},  
-address = {Seoul, Korea},  
-year = {2019}  
+@inproceedings{Tang19PAMTRI,
+author = {Zheng Tang and Milind Naphade and Stan Birchfield and Jonathan Tremblay and William Hodge and Ratnesh Kumar and Shuo Wang and Xiaodong Yang},
+title = { {PAMTRI}: {P}ose-aware multi-task learning for vehicle re-identification using highly randomized synthetic data},
+booktitle = {Proc. ICCV},
+pages = {211--220},
+address = {Seoul, Korea},
+year = {2019}
 }
