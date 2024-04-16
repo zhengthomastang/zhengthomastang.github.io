@@ -20,11 +20,11 @@ The AI City Challenge's seventh edition emphasizes two domains at the intersecti
 
 
 ## Citation
-@inproceedings{Naphade23AICity23,
-author = {Milind Naphade and Shuo Wang and David C. Anastasiu and Zheng Tang and Ming-Ching Chang and Yue Yao and Liang Zheng and Mohammed Shaiqur Rahman and Meenakshi S. Arya and Anuj Sharma and Qi Feng and Vitaly Ablavsky and Stan Sclaroff and Pranamesh Chakraborty and Sanjita Prajapati and Alice Li and Shangru Li and Krishna Kunadharaju and Shenxin Jiang and Rama Chellappa},
-title = {The 7th {AI} {C}ity {C}hallenge},
-booktitle = {Proc. CVPR Workshops},
-pages = {5537--5547},
-address = {Vancouver, BC, Canada},
-year = {2023}
+@inproceedings{Naphade23AICity23,  
+author = {Milind Naphade and Shuo Wang and David C. Anastasiu and Zheng Tang and Ming-Ching Chang and Yue Yao and Liang Zheng and Mohammed Shaiqur Rahman and Meenakshi S. Arya and Anuj Sharma and Qi Feng and Vitaly Ablavsky and Stan Sclaroff and Pranamesh Chakraborty and Sanjita Prajapati and Alice Li and Shangru Li and Krishna Kunadharaju and Shenxin Jiang and Rama Chellappa},  
+title = {The 7th {AI} {C}ity {C}hallenge},  
+booktitle = {Proc. CVPR Workshops},  
+pages = {5537--5547},  
+address = {Vancouver, BC, Canada},  
+year = {2023}  
 }

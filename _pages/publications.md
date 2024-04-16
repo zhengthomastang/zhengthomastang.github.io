@@ -54,7 +54,7 @@ Yue Yao, Xinyu Tian, <b>Zheng Tang</b>, Sujit Biswas, Huan Lei, Tom Gedeon and L
 </p>
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/AICity24"><img src="https://zhengthomastang.github.io/images/AICity24_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<a href="http://zhengthomastang.github.io/publications/AICity24"><img src="https://zhengthomastang.github.io/images/AICity24_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/AICity24">The 8th AI City Challenge</a></b><br>
 Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Yue Yao, Liang Zheng, Mohammed Shaiqur Rahman, Meenakshi S. Arya, Anuj Sharma, Pranamesh Chakraborty, Sanjita Prajapati, Quan Kong, Norimasa Kobori, Munkhjargal Gochoo, Munkh-Erdene Otgonbold, Ganzorig Batnasan, Fady Alnajjar, Ping-Yang Chen, Jun-Wei Hsieh, Xunlei Wu, Sameer Satish Pusegaonkar, Yizhou Wang, Sujit Biswas and Rama Chellappa. <i>2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 8th AI City Challenge Workshop</i>. <b>CVPRW 2024</b>.<br>
 [<a href="https://arxiv.org/abs/2304.07500">Paper</a>]

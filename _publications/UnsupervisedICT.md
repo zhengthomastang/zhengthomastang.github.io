@@ -19,11 +19,11 @@ In this paper, we present a novel fully automatic approach to track the same hum
 
 
 ## Citation
-@inproceedings{Lee17UnsupervisedICT,
-author = {Young-Gun Lee and Zheng Tang and Jenq-Neng Hwang and Zhijun Fang},
-title = {Inter-camera tracking based on fully unsupervised online learning},
-booktitle = {Proc. ICIP},
-pages = {2607--2611},
-address = {Beijing, China},
-year = {2017}
+@inproceedings{Lee17UnsupervisedICT,  
+author = {Young-Gun Lee and Zheng Tang and Jenq-Neng Hwang and Zhijun Fang},  
+title = {Inter-camera tracking based on fully unsupervised online learning},  
+booktitle = {Proc. ICIP},  
+pages = {2607--2611},  
+address = {Beijing, China},  
+year = {2017}  
 }

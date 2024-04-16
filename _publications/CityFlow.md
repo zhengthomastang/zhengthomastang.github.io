@@ -22,11 +22,11 @@ Urban traffic optimization using traffic cameras as sensors is driving the need 
 
 
 ## Citation
-@inproceedings{Tang19CityFlow,
-author = {Zheng Tang and Milind Naphade and Ming-Yu Liu and Xiaodong Yang and Stan Birchfield and Shuo Wang and Ratnesh Kumar and David Anastasiu and Jenq-Neng Hwang},
-title = {City{F}low: {A} city-scale benchmark for multi-target multi-camera vehicle tracking and re-identification},
-booktitle = {Proc. CVPR},
-pages = {8797--8806},
-address = {Long Beach, CA, USA},
-year = {2019}
+@inproceedings{Tang19CityFlow,  
+author = {Zheng Tang and Milind Naphade and Ming-Yu Liu and Xiaodong Yang and Stan Birchfield and Shuo Wang and Ratnesh Kumar and David Anastasiu and Jenq-Neng Hwang},  
+title = {City{F}low: {A} city-scale benchmark for multi-target multi-camera vehicle tracking and re-identification},  
+booktitle = {Proc. CVPR},  
+pages = {8797--8806},  
+address = {Long Beach, CA, USA},  
+year = {2019}  
 }

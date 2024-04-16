@@ -31,11 +31,11 @@ Tracking of vehicles across multiple cameras with non-overlapping views has been
 
 
 ## Citation
-@inproceedings{Tang18AICity18ICT,
-author = {Zheng Tang and Gaoang Wang and Hao Xiao and Aotian Zheng and Jenq-Neng Hwang},
-title = {Single-camera and inter-camera vehicle tracking and {3D} speed estimation based on fusion of visual and semantic features},
-booktitle = {Proc. CVPR Workshops},
-pages = {108--115},
-address = {Salt Lake City, UT, USA},
-year = {2018}
+@inproceedings{Tang18AICity18ICT,  
+author = {Zheng Tang and Gaoang Wang and Hao Xiao and Aotian Zheng and Jenq-Neng Hwang},  
+title = {Single-camera and inter-camera vehicle tracking and {3D} speed estimation based on fusion of visual and semantic features},  
+booktitle = {Proc. CVPR Workshops},  
+pages = {108--115},  
+address = {Salt Lake City, UT, USA},  
+year = {2018}  
 }

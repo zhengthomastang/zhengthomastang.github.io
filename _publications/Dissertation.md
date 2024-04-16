@@ -27,9 +27,9 @@ The final goal of our work is to fully understand and reconstruct the 3D scene, 
 
 
 ## Citation
-@phdthesis{Tang19Dissertation,
-author = {Zheng Tang},
-title = {Robust video object tracking via camera self-calibration},
-school = {University of Washington, Seattle, WA},
-year = {2019}
+@phdthesis{Tang19Dissertation,  
+author = {Zheng Tang},  
+title = {Robust video object tracking via camera self-calibration},  
+school = {University of Washington, Seattle, WA},  
+year = {2019}  
 }

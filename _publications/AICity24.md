@@ -20,10 +20,10 @@ The eighth AI City Challenge highlighted the convergence of computer vision and 
 
 
 ## Citation
-@InProceedings{Shuo24AICity24,
-author = {Shuo Wang and David C. Anastasiu and Zheng Tang and Ming-Ching Chang and Yue Yao and Liang Zheng and Mohammed Shaiqur Rahman and Meenakshi S. Arya and Anuj Sharma and Pranamesh Chakraborty and Sanjita Prajapati and Quan Kong and Norimasa Kobori and Munkhjargal Gochoo and Munkh-Erdene Otgonbold and Ganzorig Batnasan and Fady Alnajjar and Ping-Yang Chen and Jun-Wei Hsieh and Xunlei Wu and Sameer Satish Pusegaonkar and Yizhou Wang and Sujit Biswas and Rama Chellappa},
-title = {The 8th {AI} {C}ity {C}hallenge},
-booktitle = {Proc. CVPR Workshops},
-address = {Seattle, WA, USA},
-year = {2024}
+@InProceedings{Shuo24AICity24,  
+author = {Shuo Wang and David C. Anastasiu and Zheng Tang and Ming-Ching Chang and Yue Yao and Liang Zheng and Mohammed Shaiqur Rahman and Meenakshi S. Arya and Anuj Sharma and Pranamesh Chakraborty and Sanjita Prajapati and Quan Kong and Norimasa Kobori and Munkhjargal Gochoo and Munkh-Erdene Otgonbold and Ganzorig Batnasan and Fady Alnajjar and Ping-Yang Chen and Jun-Wei Hsieh and Xunlei Wu and Sameer Satish Pusegaonkar and Yizhou Wang and Sujit Biswas and Rama Chellappa},  
+title = {The 8th {AI} {C}ity {C}hallenge},  
+booktitle = {Proc. CVPR Workshops},  
+address = {Seattle, WA, USA},  
+year = {2024}  
 }

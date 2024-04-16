@@ -19,11 +19,11 @@ The AI City Challenge has been created to accelerate intelligent video analysis 
 
 
 ## Citation
-@inproceedings{Naphade19AICity19,
-author = {Milind Naphade and Zheng Tang and Ming-Ching Chang and David C. Anastasiu and Anuj Sharma and Rama Chellappa and Shuo Wang and Pranamesh Chakraborty and Tingting Huang and Jenq-Neng Hwang and Siwei Lyu},
-title = {The 2019 {AI} {C}ity {C}hallenge},
-booktitle = {Proc. CVPR Workshops},
-pages = {452--460},
-address = {Long Beach, CA, USA},
-year = {2019}
+@inproceedings{Naphade19AICity19,  
+author = {Milind Naphade and Zheng Tang and Ming-Ching Chang and David C. Anastasiu and Anuj Sharma and Rama Chellappa and Shuo Wang and Pranamesh Chakraborty and Tingting Huang and Jenq-Neng Hwang and Siwei Lyu},  
+title = {The 2019 {AI} {C}ity {C}hallenge},  
+booktitle = {Proc. CVPR Workshops},  
+pages = {452--460},  
+address = {Long Beach, CA, USA},  
+year = {2019}  
 }

@@ -18,12 +18,12 @@ Camera calibration and radial distortion correction are the crucial prerequisite
 
 
 ## Citation
-@article{Tang19ESTHER,
-author = {Zheng Tang and Yen-Shuo Lin and Kuan-Hui Lee and Jenq-Neng Hwang},
-title = { {ESTHER}: {J}oint camera self-calibration and automatic radial distortion correction from tracking of walking humans},
-journal = {IEEE Access},
-volume = {7},
-number = {1},
-pages = {10754--10766},
-year = {2019}
+@article{Tang19ESTHER,  
+author = {Zheng Tang and Yen-Shuo Lin and Kuan-Hui Lee and Jenq-Neng Hwang},  
+title = { {ESTHER}: {J}oint camera self-calibration and automatic radial distortion correction from tracking of walking humans},  
+journal = {IEEE Access},  
+volume = {7},  
+number = {1},  
+pages = {10754--10766},  
+year = {2019}  
 }
