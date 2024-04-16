@@ -18,9 +18,9 @@ In the context of label-efficient learning on video data, the distillation metho
 
 
 ## Citation
-@article{Wang23SKD,  
-author={Chao Wang and Zheng Tang},  
-title = {The staged knowledge distillation in video classification: {H}armonizing student progress by a complementary weakly supervised framework}, 
+@article{Wang23SKD,
+author={Chao Wang and Zheng Tang},
+title = {The staged knowledge distillation in video classification: {H}armonizing student progress by a complementary weakly supervised framework},
 journal = {T-CSVT},
-year = {2023}  
+year = {2023}
 }
