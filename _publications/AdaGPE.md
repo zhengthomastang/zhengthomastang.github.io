@@ -18,11 +18,10 @@ Visual simultaneous localization and mapping (V-SLAM) based tracking method for 
 
 
 ## Citation
-@inproceedings{Liu17AdaGPE,  
-author = {Tao Liu and Yong Liu and Zheng Tang and Jenq-Neng Hwang},  
-title = {Adaptive ground plane estimation for moving camera-based {3D} object tracking},  
-booktitle = {Proc. MMSP},  
-pages = {1--6},  
-address = {London-Luton, UK},  
-year = {2017}  
-}  
+@inproceedings{Liu17AdaGPE,
+author = {Tao Liu and Yong Liu and Zheng Tang and Jenq-Neng Hwang},
+title = {Adaptive ground plane estimation for moving camera-based {3D} object tracking},
+booktitle = {Proc. MMSP},
+address = {London-Luton, UK},
+year = {2017}
+}
