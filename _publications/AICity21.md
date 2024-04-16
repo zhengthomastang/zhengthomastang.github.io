@@ -21,7 +21,7 @@ The AI City Challenge was created with two goals in mind: (1) pushing the bounda
 ## Citation
 @inproceedings{Naphade21AICity21,  
 author = {Milind Naphade and Shuo Wang and David C. Anastasiu and Zheng Tang and Ming-Ching Chang and Xiaodong Yang and Yue Yao and Liang Zheng and Pranamesh Chakraborty and Christian E. Lopez and Anuj Sharma and Qi Feng and Vitaly Ablavsky and Stan Sclaroff},  
-title = {The 5th {AI} {C}ity {C}hallenge},  
+title = {The 5th {AI} {C}ity {C}hallenge},
 booktitle = {Proc. CVPR Workshops}, 
 pages = {4263--4273},  
 address = {Virtual},  
