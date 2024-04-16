@@ -49,7 +49,16 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 <a href="http://zhengthomastang.github.io/publications/ARC"><img src="https://zhengthomastang.github.io/images/ARC_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/ARC">Training with Product Digital Twins for AutoRetail Checkout</a></b><br> 
 Yue Yao, Xinyu Tian, <b>Zheng Tang</b>, Sujit Biswas, Huan Lei, Tom Gedeon and Liang Zheng. <b>arXiv</b>.<br>
-[<a href="https://arxiv.org/abs/2308.09708">Paper</a>]
+[<a href="http://arxiv.org/abs/2404.09432">Paper</a>]
+<br clear="left">
+</p>
+
+<p>
+<a href="http://zhengthomastang.github.io/publications/AICity24"><img src="https://zhengthomastang.github.io/images/AICity24_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AICity24">The 8th AI City Challenge</a></b><br>
+Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Yue Yao, Liang Zheng, Mohammed Shaiqur Rahman, Meenakshi S. Arya, Anuj Sharma, Pranamesh Chakraborty, Sanjita Prajapati, Quan Kong, Norimasa Kobori, Munkhjargal Gochoo, Munkh-Erdene Otgonbold, Ganzorig Batnasan, Fady Alnajjar, Ping-Yang Chen, Jun-Wei Hsieh, Xunlei Wu, Sameer Satish Pusegaonkar, Yizhou Wang, Sujit Biswas and Rama Chellappa. <i>2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 8th AI City Challenge Workshop</i>. <b>CVPRW 2024</b>.<br>
+[<a href="https://arxiv.org/abs/2304.07500">Paper</a>]
+[<a href="https://www.aicitychallenge.org/">Website</a>]
 <br clear="left">
 </p>
 
@@ -58,7 +67,7 @@ Yue Yao, Xinyu Tian, <b>Zheng Tang</b>, Sujit Biswas, Huan Lei, Tom Gedeon and L
 <b><a href="http://zhengthomastang.github.io/publications/AICity23">The 7th AI City Challenge</a></b><br>
 Milind Naphade, Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Yue Yao, Liang Zheng, Mohammed Shaiqur Rahman, Meenakshi S. Arya, Anuj Sharma, Qi Feng, Vitaly Ablavsky, Stan Sclaroff, Pranamesh Chakraborty, Sanjita Prajapati, Alice Li, Shangru Li, Krishna Kunadharaju, Shenxin Jiang and Rama Chellappa. <i>2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition - 7th AI City Challenge Workshop</i>. <b>CVPRW 2023</b>.<br>
 [<a href="https://arxiv.org/abs/2304.07500">Paper</a>]
-[<a href="https://www.aicitychallenge.org/">Website</a>]
+[<a href="https://www.aicitychallenge.org/2023-ai-city/">Website</a>]
 <br clear="left">
 </p>
 
