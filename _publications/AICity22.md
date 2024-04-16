@@ -19,11 +19,11 @@ The 6th edition of the AI City Challenge specifically focuses on problems in two
 
 
 ## Citation
-@inproceedings{Naphade22AICity22,  
-author = {Milind Naphade and Shuo Wang and David C. Anastasiu and Zheng Tang and Ming-Ching Chang and Yue Yao and Liang Zheng and Mohammed Rahman and Archana Venkatachalapathy and Anuj Sharma and Qi Feng and Vitaly Ablavsky and Stan Sclaroff and Pranamesh Chakraborty and Alice Li and Shangru Li and Rama Chellappa},  
+@inproceedings{Naphade22AICity22,
+author = {Milind Naphade and Shuo Wang and David C. Anastasiu and Zheng Tang and Ming-Ching Chang and Yue Yao and Liang Zheng and Mohammed Rahman and Archana Venkatachalapathy and Anuj Sharma and Qi Feng and Vitaly Ablavsky and Stan Sclaroff and Pranamesh Chakraborty and Alice Li and Shangru Li and Rama Chellappa},
 title = {The 6th {AI} {C}ity {C}hallenge},
 booktitle = {Proc. CVPR Workshops},
 pages = {3347--3356},
-address = {New Orleans, LA, USA}, 
-year = {2022}  
+address = {New Orleans, LA, USA},
+year = {2022}
 }
