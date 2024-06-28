@@ -20,9 +20,9 @@ The team he led achieved rank #1 in Track 1 (Traffic Flow Analysis) and Track 3 
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Jun. 2024]</b> The creation of the largest indoor synthetic dataset to enable the 8th AI City Challenge at CVPR 2024 celebrated in an <a href="https://blogs.nvidia.com/blog/ai-city-challenge-omniverse-cvpr/">NVIDIA blog</a></li>
+  <li> <b>[Jun. 2024]</b> The creation of the largest indoor synthetic dataset to enable the 8th AI City Challenge at CVPR 2024 featured in an official <a href="https://blogs.nvidia.com/blog/ai-city-challenge-omniverse-cvpr/">NVIDIA blog</a></li>
 
-  <li> <b>[Mar. 2024]</b> <a href="https://blogs.nvidia.com/blog/ai-digital-twins-industrial-automation-demo/">Fusing Real-Time AI With Digital Twins</a> featured in the NVIDIA GTC 2024 Keynote by NVIDIA founder and CEO Jensen Huang</li>
+  <li> <b>[Mar. 2024]</b> <a href="https://blogs.nvidia.com/blog/ai-digital-twins-industrial-automation-demo/">Fusing Real-Time AI With Digital Twins</a> highlighted in the NVIDIA GTC 2024 Keynote by NVIDIA founder and CEO Jensen Huang</li>
   
   <li> <b>[Mar. 2023]</b> <a href="https://developer.nvidia.com/metropolis-microservices">NVIDIA Metropolis Microservices 1.0</a> released, where I developed the Multi-Camera Tracking app and trained with synthetic data from Omniverse</li>
   
