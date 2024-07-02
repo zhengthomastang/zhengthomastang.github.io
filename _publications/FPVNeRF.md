@@ -15,9 +15,9 @@ First-Person-View (FPV) holds immense potential for revolutionizing the trajecto
 
 ## BibTeX
 @inproceedings{Yan24FPVNeRF,
-  author = {Liqi Yan and Qifan Wang and Junhan Zhao and Qiang Guan and Zheng Tang and Jianhui Zhang and Dongfang Liu},
-  title = { {UAV} first-person viewers are radiance field learners},
-  booktitle = {Proc. ECCV (accepted)},
-  address = {Milan, Italy},
-  year = {2024}
+author = {Liqi Yan and Qifan Wang and Junhan Zhao and Qiang Guan and Zheng Tang and Jianhui Zhang and Dongfang Liu},
+title = { {UAV} first-person viewers are radiance field learners},
+booktitle = {Proc. ECCV (accepted)},
+address = {Milan, Italy},
+year = {2024}
 }
