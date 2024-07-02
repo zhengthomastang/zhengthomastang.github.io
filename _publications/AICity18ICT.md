@@ -8,8 +8,6 @@ paperurl: "http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Tang
 citation: '<b>Zheng Tang</b>, Gaoang Wang, Hao Xiao, Aotian Zheng and Jenq-Neng Hwang. "Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features". <i>Proceedings of 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2018)</i>. pp. 108-115. 2018.'
 ---
 
-# Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features
-
 [<a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.html">Paper</a>]
 [<a href="https://github.com/zhengthomastang/2018AICity_TeamUW">Code</a>]
 [<a href="http://zhengthomastang.github.io/files/AICity18ICT_slides.pdf">Slides</a>]
