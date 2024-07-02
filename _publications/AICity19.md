@@ -8,8 +8,6 @@ paperurl: "http://openaccess.thecvf.com/content_CVPRW_2019/html/AI_City/Naphade_
 citation: 'Milind Naphade, <b>Zheng Tang</b>, Ming-Ching Chang, David C Anastasiu, Anuj Sharma, Rama Chellappa, Shuo Wang, Pranamesh Chakraborty, Tingting Huang, Jenq-Neng Hwang and Siwei Lyu. "The 2019 AI City Challenge". <i>Proceedings of 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2019)</i>. pp. 452-460. 2019.'
 ---
 
-# The 2019 AI City Challenge
-
 [<a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/AI_City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.html">Paper</a>]
 [<a href="https://www.aicitychallenge.org/2019-challenge/">Website</a>]
 
