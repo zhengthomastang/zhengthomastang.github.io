@@ -17,7 +17,6 @@ citation: '<b>Zheng Tang</b>, Gaoang Wang, Tao Liu, Young-Gun Lee, Adwin Jahn, X
 ## Abstract
 Tracking of multiple objects is an important application in AI City geared towards solving salient problems related to safety and congestion in an urban environment. Frequent occlusion in traffic surveillance has been a major problem in this research field. In this challenge, we propose a model-based vehicle localization method, which builds a kernel at each patch of the 3D deformable vehicle model and associates them with constraints in 3D space. The proposed method utilizes shape fitness evaluation besides color information to track vehicle objects robustly and efficiently. To build 3D car models in a fully unsupervised manner, we also implement evolutionary camera self-calibration from tracking of walking humans to automatically compute camera parameters. Additionally, the segmented foreground masks which are crucial to 3D modeling and camera self-calibration are adaptively refined by multiple-kernel feedback from tracking. For object detection/classification, the state-of-the-art single shot multibox detector (SSD) is adopted to train and test on the NVIDIA AI City Dataset. To improve the accuracy on categories with only few objects, like bus, bicycle and motorcycle, we also employ the pretrained model from YOLO9000 with multi-scale testing. We combine the results from SSD and YOLO9000 based on ensemble learning. Experiments show that our proposed tracking system outperforms both state-of-the-art of tracking by segmentation and tracking by detection.
 
-
 ## Honor
 * Winner of Track 2 (AI City Applications) at the 1st AI City Challenge Workshop in SmartWorld 2017
 <p align="center">
@@ -26,7 +25,6 @@ Tracking of multiple objects is an important application in AI City geared towar
 <p align="center">
   <img src="http://zhengthomastang.github.io/images/AICity17MultiKernelTrack_photo.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
-
 
 ## Citation
 ```latex
