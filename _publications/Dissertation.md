@@ -1,14 +1,12 @@
 ---
 title: "Robust Video Object Tracking via Camera Self-Calibration"
 collection: publications
-permalink: /publication/Dissertation
+permalink: /publications/Dissertation
 date: 2019-06-14
 venue: "Ph.D. dissertation. Department of Electrical & Computer Engineering, University of Washington, Seattle, WA"
 paperurl: "http://hdl.handle.net/1773/43951"
 citation: '<b>Zheng Tang</b>. "Robust Video Object Tracking via Camera Self-Calibration". Ph.D. dissertation. University of Washington, Seattle, WA. 2019.'
 ---
-
-# Robust Video Object Tracking via Camera Self-Calibration
 
 [<a href="http://hdl.handle.net/1773/43951">Paper</a>]
 [<a href="http://zhengthomastang.github.io/files/Dissertation_slides.pdf">Slides</a>]
@@ -25,10 +23,9 @@ For more comprehensive 3D scene reconstruction, we develop a monocular 3D human 
 The final goal of our work is to fully understand and reconstruct the 3D scene, i.e., to recover the trajectory and action of each object. The above methods can be extended to a system with camera array of overlapping views. We propose a novel video scene reconstruction framework to collaboratively track multiple human objects and estimate their 3D poses across multiple camera views. First, tracklets are extracted from each single view following the tracking-by-detection paradigm. We propose an effective integration of visual and semantic object attributes, including appearance models, geometry information and poses/actions, to associate tracklets across different views. Based on the optimum viewing perspectives derived from tracking, we generate the 3D skeleton of each object. The estimated body joint points are fed back to the tracking stage to enhance tracklet association. Experiments on a benchmark of multi-view tracking validate our effectiveness.
 
 ## Citation
-```latex
 @phdthesis{Tang19Dissertation,  
-  author = {Zheng Tang},  
-  title = {Robust video object tracking via camera self-calibration},  
-  school = {University of Washington, Seattle, WA},  
-  year = {2019}  
+author = {Zheng Tang},  
+title = {Robust video object tracking via camera self-calibration},  
+school = {University of Washington, Seattle, WA},  
+year = {2019}  
 }
