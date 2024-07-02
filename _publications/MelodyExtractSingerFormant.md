@@ -1,14 +1,12 @@
 ---
 title: "Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer’s Formant"
 collection: publications
-permalink: /publication/MelodyExtractSingerFormant
+permalink: /publications/MelodyExtractSingerFormant
 date: 2014-10-27
 venue: "2014 International Society for Music Information Retrieval Conference"
 paperurl: "http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf"
 citation: '<b>Zheng Tang</b> and Dawn AA Black. "Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer’s Formant". <i>2014 International Society for Music Information Retrieval Conference (ISMIR 2014)</i>. pp. 161-166. 2014.'
 ---
-
-# Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer's Formant
 
 [<a href="http://www.terasoft.com.tw/conf/ismir2014/proceedings/T029_329_Paper.pdf">Paper</a>]
 [<a href="http://zhengthomastang.github.io/files/MelodyExtractSingerFormant_craze.pdf">Craze</a>]
@@ -20,13 +18,12 @@ Current melody extraction approaches perform poorly on the genre of opera. The s
 ## Honor
 * ISMIR 2014 Student Travel Grant
 
-## Citation
-```latex
+## BibTeX
 @inproceedings{Tang14MelodyExtractSingerFormant,  
-  author = {Zheng Tang and Dawn A. A. Black},  
-  title = {Melody extraction from polyphonic audio of western opera: {A} method based on detection of the singer's formant},  
-  booktitle = {Proc. ISMIR},  
-  pages = {161--166},  
-  address = {Taipei, Taiwan},  
-  year = {2014}  
+author = {Zheng Tang and Dawn A. A. Black},  
+title = {Melody extraction from polyphonic audio of western opera: {A} method based on detection of the singer's formant},  
+booktitle = {Proc. ISMIR},  
+pages = {161--166},  
+address = {Taipei, Taiwan},  
+year = {2014}  
 }

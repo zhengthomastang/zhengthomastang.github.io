@@ -25,7 +25,7 @@ Tracking of vehicles across multiple cameras with non-overlapping views has been
   <img src="http://zhengthomastang.github.io/images/AICity18ICT_photo.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-## Citation
+## BibTeX
 @inproceedings{Tang18AICity18ICT,  
 author = {Zheng Tang and Gaoang Wang and Hao Xiao and Aotian Zheng and Jenq-Neng Hwang},  
 title = {Single-camera and inter-camera vehicle tracking and {3D} speed estimation based on fusion of visual and semantic features},  

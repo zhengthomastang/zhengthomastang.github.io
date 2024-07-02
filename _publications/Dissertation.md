@@ -22,7 +22,7 @@ For more comprehensive 3D scene reconstruction, we develop a monocular 3D human 
 
 The final goal of our work is to fully understand and reconstruct the 3D scene, i.e., to recover the trajectory and action of each object. The above methods can be extended to a system with camera array of overlapping views. We propose a novel video scene reconstruction framework to collaboratively track multiple human objects and estimate their 3D poses across multiple camera views. First, tracklets are extracted from each single view following the tracking-by-detection paradigm. We propose an effective integration of visual and semantic object attributes, including appearance models, geometry information and poses/actions, to associate tracklets across different views. Based on the optimum viewing perspectives derived from tracking, we generate the 3D skeleton of each object. The estimated body joint points are fed back to the tracking stage to enhance tracklet association. Experiments on a benchmark of multi-view tracking validate our effectiveness.
 
-## Citation
+## BibTeX
 @phdthesis{Tang19Dissertation,  
 author = {Zheng Tang},  
 title = {Robust video object tracking via camera self-calibration},  

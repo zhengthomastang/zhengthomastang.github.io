@@ -1,14 +1,12 @@
 ---
 title: "Camera Self-Calibration from Tracking of Moving Persons"
 collection: publications
-permalink: /publication/SelfCalHum
+permalink: /publications/SelfCalHum
 date: 2016-12-04
 venue: "2016 International Conference on Pattern Recognition"
 paperurl: "https://ieeexplore.ieee.org/document/7899644"
 citation: '<b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang, Jen-Hui Chuang and Zhijun Fang. "Camera Self-Calibration from Tracking of Moving Persons". <i>Proceedings of 2016 International Conference on Pattern Recognition (ICPR 2016)</i>. pp. 260-265. 2016.'
 ---
-
-# Camera Self-Calibration from Tracking of Moving Persons
 
 [<a href="https://ieeexplore.ieee.org/document/7899644">Paper</a>]
 [<a href="http://zhengthomastang.github.io/files/SelfCalHum_slides.pdf">Slides</a>]
@@ -27,13 +25,12 @@ In a video surveillance system with a single static camera, tracking results of 
   <img src="http://zhengthomastang.github.io/images/SelfCalHum_award2.jpg?raw=true" alt="Award_Intel" style="width: 450px;"/> 
 </p>
 
-## Citation
-```latex
+## BibTeX
 @inproceedings{Tang16SelfCalHum,  
-  author = {Zheng Tang and Yen-Shuo Lin and Kuan-Hui Lee and Jenq-Neng Hwang and Jen-Hui Chuang and Zhijun Fang},  
-  title = {Camera self-calibration from tracking of moving persons},  
-  booktitle = {Proc. ICPR},  
-  pages = {260--265},  
-  address = {Canc\'{u}n, M\'{e}xico},  
-  year = {2016}  
+author = {Zheng Tang and Yen-Shuo Lin and Kuan-Hui Lee and Jenq-Neng Hwang and Jen-Hui Chuang and Zhijun Fang},  
+title = {Camera self-calibration from tracking of moving persons},  
+booktitle = {Proc. ICPR},  
+pages = {260--265},  
+address = {Canc\'{u}n, M\'{e}xico},  
+year = {2016}  
 }

@@ -24,7 +24,7 @@ Tracking of multiple objects is an important application in AI City geared towar
   <img src="http://zhengthomastang.github.io/images/AICity17MultiKernelTrack_photo.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-## Citation
+## BibTeX
 @misc{Tang17AICity17MultiKernelTrack,  
 author = {Zheng Tang and Gaoang Wang and Tao Liu and Young-Gun Lee and Adwin Jahn and Xu Liu and Xiaodong He and Jenq-Neng Hwang},  
 title = {Multiple-kernel based vehicle tracking using {3D} deformable model and camera self-calibration},  

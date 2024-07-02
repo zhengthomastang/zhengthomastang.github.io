@@ -13,7 +13,7 @@ citation: 'Tao Liu, Yong Liu, <b>Zheng Tang</b> and Jenq-Neng Hwang. "Adaptive G
 ## Abstract
 Visual simultaneous localization and mapping (V-SLAM) based tracking method for moving cameras has drawn increasing attention. The unpredictability of road conditions and noise from the camera calibration, however, make conventional ground plane estimation unreliable and adversely affecting the tracking result. In this paper, we propose an adaptive ground plane estimation algorithm in a moving monocular camera. In our algorithm, we use structure from motion (SfM) to estimate the pose of moving camera, then the estimated camera yaw angle is used as a feedback to improve the accuracy of the ground plane estimation. Combining the efficient constrained-multiple-kernel (CMK) tracking of video objects in 3D space and the reliable ground plane estimation, the proposed system not only achieves high effectiveness but also well handles occlusion in the tracking. The proposed system is evaluated on several challenging datasets and the experimental results show the favorable performance.
 
-## Citation
+## BibTeX
 @inproceedings{Liu17AdaGPE,  
 author = {Tao Liu and Yong Liu and Zheng Tang and Jenq-Neng Hwang},  
 title = {Adaptive ground plane estimation for moving camera-based {3D} object tracking},  
