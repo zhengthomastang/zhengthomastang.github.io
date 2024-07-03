@@ -10,6 +10,13 @@ author_profile: true
 ## Journal Articles ##
 
 <p>
+<a href="http://zhengthomastang.github.io/publications/WSSGCN"><img src="https://zhengthomastang.github.io/images/WSSGCN_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/WSSGCN">WSSGCN: Wide Sub-stage Graph Convolutional Networks</a></b><br> 
+Chao Wang, <b>Zheng Tang</b> and Hailu Xu. <i>Neurocomputing</i>.<br>
+<br clear="left">
+</p>
+
+<p>
 <a href="http://zhengthomastang.github.io/publications/ARC"><img src="https://zhengthomastang.github.io/images/ARC_figure.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/ARC">Training with Product Digital Twins for AutoRetail Checkout</a></b><br> 
 Yue Yao, Xinyu Tian, <b>Zheng Tang</b>, Sujit Biswas, Huan Lei, Tom Gedeon and Liang Zheng. <b>arXiv</b>.<br>
