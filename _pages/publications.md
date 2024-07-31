@@ -13,6 +13,7 @@ author_profile: true
 <a href="http://zhengthomastang.github.io/publications/WSSGCN"><img src="https://zhengthomastang.github.io/images/WSSGCN_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/WSSGCN">WSSGCN: Wide Sub-stage Graph Convolutional Networks</a></b><br> 
 Chao Wang, <b>Zheng Tang</b> and Hailu Xu. <i>Neurocomputing</i>.<br>
+[<a href="https://www.sciencedirect.com/science/article/pii/S0925231224010440">Paper</a>]
 <br clear="left">
 </p>
 

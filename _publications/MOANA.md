@@ -5,7 +5,7 @@ permalink: /publications/MOANA
 date: 2019-03-05
 venue: "IEEE Access"
 paperurl: "https://ieeexplore.ieee.org/document/8660675"
-citation: '<b>Zheng Tang</b> and Jenq-Neng Hwang. "MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D". <i>IEEE Access</i>. vol. 7, no. 1, pp. 31934-31945. 2019.'
+citation: '<b>Zheng Tang</b> and Jenq-Neng Hwang. "MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D". <i>IEEE Access</i>. vol. 7, pp. 31934-31945. 2019.'
 ---
 
 [<a href="https://ieeexplore.ieee.org/document/8660675">Paper</a>]
@@ -21,7 +21,6 @@ author = {Zheng Tang and Jenq-Neng Hwang},
 title = { {MOANA}: {A}n online learned adaptive appearance model for robust multiple object tracking in {3D}},  
 journal = {IEEE Access},  
 volume = {7},  
-number = {1},  
 pages = {31934--31945},  
 year = {2019}  
 }

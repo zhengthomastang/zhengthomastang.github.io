@@ -5,7 +5,7 @@ permalink: /publications/ESTHER
 date: 2019-01-08
 venue: "IEEE Access"
 paperurl: "https://ieeexplore.ieee.org/document/8605504"
-citation: '<b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang and Jen-Hui Chuang. "ESTHER: Joint Camera Self-Calibration and Automatic Radial Distortion Correction from Tracking of Walking Humans". <i>IEEE Access</i>. vol. 7, no. 1, pp. 10754-10766. 2019.'
+citation: '<b>Zheng Tang</b>, Yen-Shuo Lin, Kuan-Hui Lee, Jenq-Neng Hwang and Jen-Hui Chuang. "ESTHER: Joint Camera Self-Calibration and Automatic Radial Distortion Correction from Tracking of Walking Humans". <i>IEEE Access</i>. vol. 7, pp. 10754-10766. 2019.'
 ---
 
 [<a href="https://ieeexplore.ieee.org/document/8605504">Paper</a>]
@@ -19,7 +19,6 @@ author = {Zheng Tang and Yen-Shuo Lin and Kuan-Hui Lee and Jenq-Neng Hwang},
 title = { {ESTHER}: {J}oint camera self-calibration and automatic radial distortion correction from tracking of walking humans},  
 journal = {IEEE Access},  
 volume = {7},  
-number = {1},  
 pages = {10754--10766},  
 year = {2019}  
 }
