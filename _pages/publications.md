@@ -63,9 +63,12 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 
 <p>
 <a href="http://zhengthomastang.github.io/publication/FPVNeRF"><img src="https://zhengthomastang.github.io/images/FPVNeRF_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-<b><a href="http://zhengthomastang.github.io/publication/FPVNeRF">UAV First-Person Viewers Are Radiance Field Learners</a></b><br> 
-Liqi Yan, Qifan Wang, Junhan Zhao, Qiang Guan, <b>Zheng Tang</b>, Jianhui Zhang and Dongfang Liu. <b>ECCV 2024</b>.<br>
+<b><a href="http://zhengthomastang.github.io/publication/FPVNeRF">Radiance Field Learners As UAV First-Person Viewers</a></b><br> 
+Liqi Yan, Qifan Wang, Junhan Zhao, Qiang Guan, <b>Zheng Tang</b>, Jianhui Zhang and Dongfang Liu. <i>
+2024 European Conference on Computer Vision</i>. <b>ECCV 2024</b>.<br>
+[<a href="https://arxiv.org/abs/2408.05533">Paper</a>]
 [<a href="https://fpv-nerf.github.io/">Website</a>]
+[<a href="https://1drv.ms/f/s!AqSHE4twhUJ5nlDk2MzOk2kLGKiH">Dataset</a>]
 <br clear="left">
 </p>
 
