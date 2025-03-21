@@ -22,7 +22,7 @@ He led the winning team in Track 1 (Traffic Flow Analysis) and Track 3 (Multi-Ca
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Mar. 2025]</b> Metropolis spatial AI agents, integrated into the <a href="https://blogs.nvidia.com/blog/mega-omniverse-blueprint/">Mega Omniverse Blueprint</a>, featured in NVIDIA GTC 2025 Keynote by CEO Jensen Huang</li>
+  <li> <b>[Mar. 2025]</b> Metropolis spatial AI agents, integrated into the <a href="https://blogs.nvidia.com/blog/mega-omniverse-blueprint/">Mega Omniverse Blueprint</a>, featured in CES 2025 & NVIDIA GTC 2025 Keynotes by CEO Jensen Huang</li>
   
   <li> <b>[Mar. 2025]</b> Released MTMC (multi-target multi-camera) tracking datasets for AI City Challenge 2024 & 2025 as part of the <a href="https://blogs.nvidia.com/blog/open-physical-ai-dataset/">Open Physical AI Dataset</a> at NVIDIA GTC 2025</li>
 
