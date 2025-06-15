@@ -9,7 +9,7 @@ citation: 'Shuo Wang, David C. Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang, Y
 ---
 
 [<a href="http://arxiv.org/abs/2404.09432">Paper</a>]
-[<a href="https://www.aicitychallenge.org/">Website</a>]
+[<a href="https://www.aicitychallenge.org/2024-ai-city-challenge/">Website</a>]
 
 ## Abstract
 The eighth AI City Challenge highlighted the convergence of computer vision and artificial intelligence in areas like retail, warehouse settings, and Intelligent Traffic Systems (ITS), presenting significant research opportunities. The 2024 edition featured five tracks, attracting unprecedented interest from 726 teams in 47 countries and regions. Track 1 dealt with multi-target multi-camera (MTMC) people tracking, highlighting significant enhancements in camera count, character number, 3D annotation, and camera matrices, alongside new rules for 3D tracking and online tracking algorithm encouragement. Track 2 introduced dense video captioning for traffic safety, focusing on pedestrian accidents using multi-camera feeds to improve insights for insurance and prevention. Track 3 required teams to classify driver actions in a naturalistic driving analysis. Track 4 explored fish-eye camera analytics using the FishEye8K dataset. Track 5 focused on motorcycle helmet rule violation detection. The challenge utilized two leaderboards to showcase methods, with participants setting new benchmarks, some surpassing existing state-of-the-art achievements.
