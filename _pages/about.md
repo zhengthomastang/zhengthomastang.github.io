@@ -11,7 +11,7 @@ redirect_from:
 
 Dr. Zheng (Thomas) Tang is currently a Senior Deep Learning Engineer on the [Metropolis](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/) team at [NVIDIA](https://www.nvidia.com/en-us/) (2021–present). He was previously an Applied Scientist on the [Amazon One](https://one.amazon.com/) team at [Amazon](https://www.amazon.com/) (2019–2021). He earned his Ph.D. in [Electrical & Computer Engineering (ECE)](https://www.ece.uw.edu/) from the [University of Washington (UW)](http://www.washington.edu/) in 2019.
 
-His research interests span intelligent transportation systems, multi-/single-camera object tracking, re-identification, pose estimation, action recognition, camera calibration, synthetic data generation, biometric identification, and related areas in computer vision and machine learning. He holds 9 filed U.S. patents and has published 25 peer-reviewed papers in top journals and conferences. Dr. Tang is the Tech Lead of the [Metropolis Multi-Camera Tracking AI Workflow](https://www.nvidia.com/en-us/ai-data-science/ai-workflows/multi-camera-tracking/), integrated into the Mega Omniverse Blueprint and showcased during CES’25 and GTC’25 keynotes by NVIDIA CEO Jensen Huang. 
+His research interests span intelligent transportation systems, multi-/single-camera object tracking, re-identification, pose estimation, action recognition, camera calibration, synthetic data generation, biometric identification, and related areas in computer vision and machine learning. He holds 12 filed U.S. patents and has published 25 peer-reviewed papers in top journals and conferences. Dr. Tang is the Tech Lead of the [Metropolis Multi-Camera Tracking AI Workflow](https://www.nvidia.com/en-us/ai-data-science/ai-workflows/multi-camera-tracking/), integrated into the Mega Omniverse Blueprint and showcased during CES’25 and GTC’25 keynotes by NVIDIA CEO Jensen Huang. 
 
 He currently serves as a Senior Area Editor (SAE) (2025–present) for the [*IEEE Transactions on Circuits and Systems for Video Technology* (T-CSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) and as an Organizing Committee Lead (2020–present) for the [AI City Challenges](https://www.aicitychallenge.org/) at CVPR. He is also an Area Chair for [ACM MM 2024](https://2024.acmmm.org/) and [MLSP 2021](https://2021.ieeemlsp.org/). As a reviewer, Dr. Tang regularly serves top-tier journals and conferences including IJCV, T-PAMI, T-IP, T-MM, T-CSVT, T-ITS, NeurIPS, CVPR, ICCV, ICASSP, and ICME. He received the T-CSVT Best Associate Editor Award in 2021.
 
@@ -21,6 +21,8 @@ He led the winning team in Track 1 (Traffic Flow Analysis) and Track 3 (Multi-Ca
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li><b>[Oct. 2025]</b> Vision AI agents for Foxconn factory digital twins showcased in <a href="https://www.nvidia.com/gtc/dc/keynote/">NVIDIA GTC DC 2025 Keynote</a>, and hosted the 9th AI City Challenge Workshop at <a href="https://iccv.thecvf.com/">ICCV 2025</a> in Honolulu with 245 teams worldwide</li>
 
   <li> <b>[Mar. 2025]</b> Metropolis spatial AI agents, integrated into the <a href="https://blogs.nvidia.com/blog/mega-omniverse-blueprint/">Mega Omniverse Blueprint</a>, featured in CES 2025 & NVIDIA GTC 2025 Keynotes by CEO Jensen Huang</li>
   
