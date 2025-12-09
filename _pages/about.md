@@ -22,6 +22,8 @@ He led the winning team in Track 1 (Traffic Flow Analysis) and Track 3 (Multi-Ca
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li><b>[Dec. 2025]</b> Presented NVIDIA Metropolis multi-camera 3D perception and spatial AI research at the <a href="https://urbanai2025.github.io/">UrbanAI Workshop</a> at <a href="https://neurips.cc/">NeurIPS 2025</a>, covering AI City Challenge progress, cloud-native tracking workflows, MCBLT, and Sparse4D</li>
+  
   <li><b>[Oct. 2025]</b> Vision AI agents for Foxconn factory digital twins showcased in <a href="https://www.nvidia.com/gtc/dc/keynote/">NVIDIA GTC DC 2025 Keynote</a>, and hosted the 9th AI City Challenge Workshop at <a href="https://iccv.thecvf.com/">ICCV 2025</a> in Honolulu with 245 teams worldwide</li>
 
   <li> <b>[Mar. 2025]</b> Metropolis spatial AI agents, integrated into the <a href="https://blogs.nvidia.com/blog/mega-omniverse-blueprint/">Mega Omniverse Blueprint</a>, featured in CES 2025 & NVIDIA GTC 2025 Keynotes by CEO Jensen Huang</li>
