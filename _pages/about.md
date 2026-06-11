@@ -22,7 +22,11 @@ He led the winning team in Track 1 (Traffic Flow Analysis) and Track 3 (Multi-Ca
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li><b>[Mar. 2026]</b> Supported the <a href="/posts/2026/03/gtc-2026-vss/">GTC 2026 VSS booth demo</a> for video analytics AI agents, contributing to video embedding search, search-model preparation, demo evaluation data, and VSS 3.1.0 search components</li>
+  <li><b>[Jun. 2026]</b> Supported <a href="/posts/2026/06/blog-post-1/">VANTAGE-Bench and TAR benchmark efforts highlighted with NVIDIA Cosmos 3 at Computex 2026</a>, including VANTAGE-Bench preparation as a NeurIPS 2026 competition effort and TAR launch alignment for AI City Challenge 2026 Track 3 at ECCV 2026</li>
+
+  <li><b>[Apr. 2026]</b> The <a href="/posts/2026/04/blog-post-1/">10th AI City Challenge</a> was accepted as a half-day workshop at <a href="https://eccv.ecva.net/Conferences/2026/Workshops">ECCV 2026</a> in Malmo, advancing Sim2Real transfer, unified reasoning, and smart-city video AI across six tracks</li>
+
+  <li><b>[Mar. 2026]</b> Supported the <a href="/posts/2026/03/blog-post-1/">GTC 2026 VSS booth demo</a> for video analytics AI agents, contributing to video embedding search, search-model preparation, demo evaluation data, and VSS 3.1.0 search components</li>
 
   <li><b>[Dec. 2025]</b> Presented NVIDIA Metropolis multi-camera 3D perception and spatial AI research at the <a href="https://urbanai2025.github.io/">UrbanAI Workshop</a> at <a href="https://neurips.cc/">NeurIPS 2025</a>, covering AI City Challenge progress, cloud-native tracking workflows, MCBLT, and Sparse4D</li>
   
