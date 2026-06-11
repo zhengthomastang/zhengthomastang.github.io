@@ -62,6 +62,15 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 ## Conference Papers ##
 
 <p>
+<a href="http://zhengthomastang.github.io/publications/AICity25"><img src="https://zhengthomastang.github.io/images/AICity25_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<b><a href="http://zhengthomastang.github.io/publications/AICity25">The 9th AI City Challenge</a></b><br>
+<b>Zheng Tang</b>, Shuo Wang, David C. Anastasiu, Ming-Ching Chang, Anuj Sharma, Quan Kong, Norimasa Kobori, Munkhjargal Gochoo, Ganzorig Batnasan, Munkh-Erdene Otgonbold, Fady Alnajjar, Jun-Wei Hsieh, Tomasz Kornuta, Xiaolong Li, Yilin Zhao, Han Zhang, Subhashree Radhakrishnan, Arihant Jain, Ratnesh Kumar, Vidya N. Murali, Yuxing Wang, Sameer Satish Pusegaonkar, Yizhou Wang, Sujit Biswas, Xunlei Wu, Zhedong Zheng, Pranamesh Chakraborty and Rama Chellappa. <i>2025 IEEE/CVF International Conference on Computer Vision - 9th AI City Challenge Workshop</i>. <b>ICCVW 2025</b>.<br>
+[<a href="https://arxiv.org/abs/2508.13564">Paper</a>]
+[<a href="https://www.aicitychallenge.org/2025-ai-city-challenge/">Website</a>]
+<br clear="left">
+</p>
+
+<p>
 <a href="http://zhengthomastang.github.io/publication/FPVNeRF"><img src="https://zhengthomastang.github.io/images/FPVNeRF_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publication/FPVNeRF">Radiance Field Learners As UAV First-Person Viewers</a></b><br> 
 Liqi Yan, Qifan Wang, Junhan Zhao, Qiang Guan, <b>Zheng Tang</b>, Jianhui Zhang and Dongfang Liu. <i>
@@ -120,7 +129,7 @@ Milind Naphade, Shuo Wang, David Anastasiu, <b>Zheng Tang</b>, Ming-Ching Chang,
 <p>
 <a href="http://zhengthomastang.github.io/publications/PAMTRI"><img src="https://zhengthomastang.github.io/images/PAMTRI_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://zhengthomastang.github.io/publications/PAMTRI">PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data</a></b><br> 
-<b>Zheng Tang</b>, Milind Naphade, Stan Birchfield, Jonathan Tremblay, William Hodge, Ratnesh Kumar, Shuo Wang and Xiaodong Yang. <i>2019 IEEE/CVF International Conference on Computer Vision</i>. <b>ICCV 2019</b>.<br>
+<b>Zheng Tang</b>, Milind Naphade, Stan Birchfield, Jonathan Tremblay, William Hodge, Ratnesh Kumar, Shuo Wang and Xiaodong Yang. <i>2019 International Conference on Computer Vision</i>. <b>ICCV 2019</b>.<br>
 [<a href="http://arxiv.org/abs/2005.00673">Paper</a>]
 [<a href="https://github.com/NVlabs/PAMTRI">Code</a>]
 [<a href="https://zhengthomastang.github.io/files/PAMTRI_poster.png">Poster</a>]
