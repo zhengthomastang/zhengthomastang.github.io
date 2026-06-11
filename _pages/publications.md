@@ -62,11 +62,13 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 ## Conference Papers ##
 
 <p>
-<a href="http://zhengthomastang.github.io/publications/AICity25"><img src="https://zhengthomastang.github.io/images/AICity25_figure.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
-<b><a href="http://zhengthomastang.github.io/publications/AICity25">The 9th AI City Challenge</a></b><br>
-<b>Zheng Tang</b>, Shuo Wang, David C. Anastasiu, Ming-Ching Chang, Anuj Sharma, Quan Kong, Norimasa Kobori, Munkhjargal Gochoo, Ganzorig Batnasan, Munkh-Erdene Otgonbold, Fady Alnajjar, Jun-Wei Hsieh, Tomasz Kornuta, Xiaolong Li, Yilin Zhao, Han Zhang, Subhashree Radhakrishnan, Arihant Jain, Ratnesh Kumar, Vidya N. Murali, Yuxing Wang, Sameer Satish Pusegaonkar, Yizhou Wang, Sujit Biswas, Xunlei Wu, Zhedong Zheng, Pranamesh Chakraborty and Rama Chellappa. <i>2025 IEEE/CVF International Conference on Computer Vision - 9th AI City Challenge Workshop</i>. <b>ICCVW 2025</b>.<br>
+<span style="float: left; width: 200px; margin: 0 20px 0 20px;">
+<a href="http://zhengthomastang.github.io/publications/AICity25"><img src="https://zhengthomastang.github.io/images/AICity25_figure.png?raw=true" alt="Figure" style="width: 200px; display: block;"/></a>
 [<a href="https://arxiv.org/abs/2508.13564">Paper</a>]
 [<a href="https://www.aicitychallenge.org/2025-ai-city-challenge/">Website</a>]
+</span>
+<b><a href="http://zhengthomastang.github.io/publications/AICity25">The 9th AI City Challenge</a></b><br>
+<b>Zheng Tang</b>, Shuo Wang, David C. Anastasiu, Ming-Ching Chang, Anuj Sharma, Quan Kong, Norimasa Kobori, Munkhjargal Gochoo, Ganzorig Batnasan, Munkh-Erdene Otgonbold, Fady Alnajjar, Jun-Wei Hsieh, Tomasz Kornuta, Xiaolong Li, Yilin Zhao, Han Zhang, Subhashree Radhakrishnan, Arihant Jain, Ratnesh Kumar, Vidya N. Murali, Yuxing Wang, Sameer Satish Pusegaonkar, Yizhou Wang, Sujit Biswas, Xunlei Wu, Zhedong Zheng, Pranamesh Chakraborty and Rama Chellappa. <i>2025 IEEE/CVF International Conference on Computer Vision - 9th AI City Challenge Workshop</i>. <b>ICCVW 2025</b>.<br>
 <br clear="left">
 </p>
 
