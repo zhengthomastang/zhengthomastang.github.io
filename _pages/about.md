@@ -30,6 +30,8 @@ He led the winning team in Track 1 (Traffic Flow Analysis) and Track 3 (Multi-Ca
   
   <li> <b>[Mar. 2025]</b> Released MTMC (multi-target multi-camera) tracking datasets for AI City Challenge 2024 & 2025 as part of the <a href="https://blogs.nvidia.com/blog/open-physical-ai-dataset/">Open Physical AI Dataset</a> at NVIDIA GTC 2025</li>
 
+  <li> <b>[Jan. 2025]</b> Won Best Presentation and Best Poster Awards in the Imaging and Computer Vision Track at <a href="/posts/2025/01/ntech-2024-awards/">NTECH 2024</a> for BEV-SUSHI and MTMC-to-RTLS work</li>
+
   <li> <b>[Jan. 2025]</b> Promoted to Senior Area Editor (SAE) of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE T-CSVT</a></li>
 
   <li> <b>[Oct. 2024]</b> Served as Area Chair for <a href="https://2024.acmmm.org/">ACM Multimedia 2024</a></li> 
