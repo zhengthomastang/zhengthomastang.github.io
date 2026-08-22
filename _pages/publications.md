@@ -103,6 +103,18 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 
 <p class="pub-row">
 <span class="pub-fig">
+<a href="http://zhengthomastang.github.io/publications/AICity26"><img src="https://zhengthomastang.github.io/images/AICity26_figure.jpg?raw=true" alt="Figure"/></a>
+</span>
+<span class="pub-info">
+<b><a href="http://zhengthomastang.github.io/publications/AICity26">The 10th AI City Challenge</a></b><br>
+<b>Zheng Tang</b>, Shuo Wang, David C. Anastasiu, Ming-Ching Chang, Anuj Sharma, Quan Kong, Munkhjargal Gochoo, Jun-Wei Hsieh, Tomasz Kornuta, Zhedong Zheng, Renran Tian, Judah Goldfeder, Fulgencio Navarro, Yuxing Wang, Yizhou Wang, Sameer Satish Pusegaonkar, Anqi Li, Nalin Dadhich, Ridham Kachhadiya, Dhanishtha Patil, Haoquan Liang, Jiajun Li, Han Zhang, Yilin Zhao, Zaid Pervaiz Bhat, Shuyu Yang, Ashutosh Kumar, Rong Wang, Rafael Martin Nieto, Peter Christiansen, Ahmed Abduljawad, Mohanrasu Shanmugam, Nadeem Shaik, Sujit Biswas, Xunlei Wu, Vidya Murali and Rama Chellappa. <i>2026 European Conference on Computer Vision - 10th AI City Challenge Workshop</i>. <b>ECCVW 2026</b>.<br>
+[<a href="https://arxiv.org/abs/2608.17044v1">Paper</a>]
+[<a href="https://www.aicitychallenge.org/">Website</a>]
+</span>
+</p>
+
+<p class="pub-row">
+<span class="pub-fig">
 <a href="http://zhengthomastang.github.io/publications/AICity25"><img src="https://zhengthomastang.github.io/images/AICity25_figure.png?raw=true" alt="Figure"/></a>
 </span>
 <span class="pub-info">
