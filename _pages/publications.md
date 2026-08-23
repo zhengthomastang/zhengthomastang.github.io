@@ -115,6 +115,28 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 
 <p class="pub-row">
 <span class="pub-fig">
+<a href="http://zhengthomastang.github.io/publications/PSIVQA"><img src="https://zhengthomastang.github.io/images/PSIVQA_figure.png?raw=true" alt="Figure"/></a>
+</span>
+<span class="pub-info">
+<b><a href="http://zhengthomastang.github.io/publications/PSIVQA">PSI-VQA: Evaluating Multimodal LLM Social Reasoning under Ambiguous Pedestrian Intent in Automated Driving</a></b><br>
+Shaozhi Wang, Yin-Chun Lu, <b>Zheng Tang</b>, Han Zhang, David C. Anastasiu and Renran Tian. <i>2026 European Conference on Computer Vision - 10th AI City Challenge Workshop</i>. <b>ECCVW 2026</b>.<br>
+[<a href="https://openreview.net/forum?id=icgcFuZ88R">Paper</a>]
+</span>
+</p>
+
+<p class="pub-row">
+<span class="pub-fig">
+<a href="http://zhengthomastang.github.io/publications/SynWTS"><img src="https://zhengthomastang.github.io/images/SynWTS_figure.jpeg?raw=true" alt="Figure"/></a>
+</span>
+<span class="pub-info">
+<b><a href="http://zhengthomastang.github.io/publications/SynWTS">SynWTS: Multi-View Digital-Twin Dataset for Synthetic-to-Real Traffic Safety Understanding</a></b><br>
+Dhanishtha Patil, Ridham Kachhadiya, Andrew Vattuone, Haoquan Liang, Jiajun Li, Yuxing Wang, <b>Zheng Tang</b>, Ashutosh Kumar, Quan Kong and David C. Anastasiu. <i>2026 European Conference on Computer Vision - 10th AI City Challenge Workshop</i>. <b>ECCVW 2026</b>.<br>
+[<a href="https://openreview.net/forum?id=BbaZpvqrel">Paper</a>]
+</span>
+</p>
+
+<p class="pub-row">
+<span class="pub-fig">
 <a href="http://zhengthomastang.github.io/publications/AICity25"><img src="https://zhengthomastang.github.io/images/AICity25_figure.png?raw=true" alt="Figure"/></a>
 </span>
 <span class="pub-info">
