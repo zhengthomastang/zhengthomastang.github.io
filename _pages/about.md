@@ -21,7 +21,7 @@ Dr. Tang delivered an invited keynote at the [UrbanAI Workshop](https://urbanai2
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li><b>[Sep. 2026]</b> Successfully concluded the <a href="/posts/2026/09/blog-post-1/">10th AI City Challenge at ECCV 2026</a>, with 2.5K teams across 48 countries and regions engaged over the decade-long challenge and the 2026 results featured by <a href="https://x.com/NVIDIAAI/status/2097409504728269183">NVIDIA AI on X</a></li>
+  <li><b>[Sep. 2026]</b> Successfully concluded the <a href="/posts/2026/09/blog-post-1/">10th AI City Challenge at ECCV 2026</a>, with 2.5K teams across 48 countries and regions engaged over the decade-long challenge, the 2026 results featured by <a href="https://x.com/NVIDIAAI/status/2097409504728269183">NVIDIA AI on X</a>, and an <a href="https://www.linkedin.com/feed/update/urn:li:activity:7501277492108775424/">iMerit interview</a> on perception-to-reasoning, sim-to-real, and edge-case evaluation</li>
 
   <li><b>[Jun. 2026]</b> Supported <a href="/posts/2026/06/blog-post-1/">VANTAGE-Bench and TAR benchmark efforts highlighted with NVIDIA Cosmos 3 at Computex 2026</a>, including the VANTAGE-Bench evaluation system release and TAR launch alignment for AI City Challenge 2026 Track 3 at ECCV 2026</li>
 
