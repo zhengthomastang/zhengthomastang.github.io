@@ -141,7 +141,7 @@ Dhanishtha Patil, Ridham Kachhadiya, Andrew Vattuone, Haoquan Liang, Jiajun Li, 
 </span>
 <span class="pub-info">
 <b><a href="http://zhengthomastang.github.io/publications/AICity25">The 9th AI City Challenge</a></b><br>
-<b>Zheng Tang</b>, Shuo Wang, David C. Anastasiu, Ming-Ching Chang, Anuj Sharma, Quan Kong, Norimasa Kobori, Munkhjargal Gochoo, Ganzorig Batnasan, Munkh-Erdene Otgonbold, Fady Alnajjar, Jun-Wei Hsieh, Tomasz Kornuta, Xiaolong Li, Yilin Zhao, Han Zhang, Subhashree Radhakrishnan, Arihant Jain, Ratnesh Kumar, Vidya N. Murali, Yuxing Wang, Sameer Satish Pusegaonkar, Yizhou Wang, Sujit Biswas, Xunlei Wu, Zhedong Zheng, Pranamesh Chakraborty and Rama Chellappa. <i>2025 IEEE/CVF International Conference on Computer Vision - 9th AI City Challenge Workshop</i>. <b>ICCVW 2025</b>.<br>
+<b>Zheng Tang</b>, Shuo Wang, David C. Anastasiu, Ming-Ching Chang, Anuj Sharma, Quan Kong, Norimasa Kobori, Munkhjargal Gochoo, Ganzorig Batnasan, Munkh-Erdene Otgonbold, Fady Alnajjar, Jun-Wei Hsieh, Tomasz Kornuta, Xiaolong Li, Yilin Zhao, Han Zhang, Subhashree Radhakrishnan, Arihant Jain, Ratnesh Kumar, Vidya N. Murali, Yuxing Wang, Sameer Satish Pusegaonkar, Yizhou Wang, Sujit Biswas, Xunlei Wu, Zhedong Zheng, Pranamesh Chakraborty and Rama Chellappa. <i>2025 IEEE/CVF International Conference on Computer Vision - 9th AI City Challenge Workshop</i>. pp. 5526-5535. <b>ICCVW 2025</b>.<br>
 [<a href="https://arxiv.org/abs/2508.13564">Paper</a>]
 [<a href="https://www.aicitychallenge.org/2025-ai-city-challenge/">Website</a>]
 </span>
