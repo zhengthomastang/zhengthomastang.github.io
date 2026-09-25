@@ -103,6 +103,29 @@ Young-Gun Lee, <b>Zheng Tang</b> and Jenq-Neng Hwang. <i>IEEE Transactions on Ci
 
 <p class="pub-row">
 <span class="pub-fig">
+<a href="http://zhengthomastang.github.io/publications/PAISS"><img src="https://zhengthomastang.github.io/images/PAISS_figure.png?raw=true" alt="Figure"/></a>
+</span>
+<span class="pub-info">
+<b><a href="http://zhengthomastang.github.io/publications/PAISS">Physical AI Smart Spaces: A Large-Scale Benchmark for Multi-Camera 3D Perception in Smart Spaces</a></b><br>
+Yuxing Wang, Yizhou Wang, Anqi Li, Shuo Wang, Sameer Satish Pusegaonkar, Haoquan Liang, Jiajun Li, Shenxin Jiang, Jianhe Yuan, Shangru Li, Tongwei Dai, Zihao Chen, David C. Anastasiu, Sujit Biswas, Xunlei Wu and <b>Zheng Tang</b>. <i>2026 Conference on Neural Information Processing Systems - Evaluations and Datasets Track</i>. <b>NeurIPS 2026</b>.<br>
+[<a href="https://huggingface.co/datasets/nvidia/PhysicalAI-SmartSpaces">Dataset</a>]
+</span>
+</p>
+
+<p class="pub-row">
+<span class="pub-fig">
+<a href="http://zhengthomastang.github.io/publications/TAR"><img src="https://zhengthomastang.github.io/images/TAR_figure.png?raw=true" alt="Figure"/></a>
+</span>
+<span class="pub-info">
+<b><a href="http://zhengthomastang.github.io/publications/TAR">From Detection to Understanding -- A Multi-Task Dataset for Traffic Anomaly Reasoning</a></b><br>
+Han Zhang, Yilin Zhao, Zaid Pervaiz Bhat, <b>Zheng Tang</b>, Varun Praveen, Vidya Nariyambut Murali, David C. Anastasiu and Tomasz Kornuta. <i>2026 Conference on Neural Information Processing Systems - Evaluations and Datasets Track</i>. <b>NeurIPS 2026</b>.<br>
+[<a href="https://arxiv.org/abs/2608.10317">Paper</a>]
+[<a href="https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning">Dataset</a>]
+</span>
+</p>
+
+<p class="pub-row">
+<span class="pub-fig">
 <a href="http://zhengthomastang.github.io/publications/AICity26"><img src="https://zhengthomastang.github.io/images/AICity26_figure.jpg?raw=true" alt="Figure"/></a>
 </span>
 <span class="pub-info">
