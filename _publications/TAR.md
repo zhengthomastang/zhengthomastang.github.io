@@ -3,7 +3,7 @@ title: "From Detection to Understanding -- A Multi-Task Dataset for Traffic Anom
 collection: publications
 permalink: /publications/TAR
 date: 2026-12-09
-venue: "2026 Conference on Neural Information Processing Systems - Evaluations and Datasets Track"
+venue: "2026 Conference on Neural Information Processing Systems"
 paperurl: "https://arxiv.org/abs/2608.10317"
 citation: 'Han Zhang, Yilin Zhao, Zaid Pervaiz Bhat, <b>Zheng Tang</b>, Varun Praveen, Vidya Nariyambut Murali, David C. Anastasiu and Tomasz Kornuta. "From Detection to Understanding -- A Multi-Task Dataset for Traffic Anomaly Reasoning". <i>Proceedings of Conference on Neural Information Processing Systems (NeurIPS 2026)</i>. 2026.'
 ---
