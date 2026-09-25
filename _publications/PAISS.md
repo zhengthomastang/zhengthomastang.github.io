@@ -3,7 +3,7 @@ title: "Physical AI Smart Spaces: A Large-Scale Benchmark for Multi-Camera 3D Pe
 collection: publications
 permalink: /publications/PAISS
 date: 2026-12-09
-venue: "2026 Conference on Neural Information Processing Systems - Evaluations and Datasets Track"
+venue: "2026 Conference on Neural Information Processing Systems"
 citation: 'Yuxing Wang, Yizhou Wang, Anqi Li, Shuo Wang, Sameer Satish Pusegaonkar, Haoquan Liang, Jiajun Li, Shenxin Jiang, Jianhe Yuan, Shangru Li, Tongwei Dai, Zihao Chen, David C. Anastasiu, Sujit Biswas, Xunlei Wu and <b>Zheng Tang</b>. "Physical AI Smart Spaces: A Large-Scale Benchmark for Multi-Camera 3D Perception in Smart Spaces". <i>Proceedings of Conference on Neural Information Processing Systems (NeurIPS 2026)</i>. 2026.'
 ---
 
