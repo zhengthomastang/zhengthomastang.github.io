@@ -17,7 +17,7 @@ Dr. Tang contributed evaluation infrastructure for [VANTAGE-Bench](https://huggi
 
 Since 2020, he has led the [AI City Challenge](https://www.aicitychallenge.org/) organizing committee at CVPR, ICCV, and ECCV, helping grow the decade-long program to approximately 2.5K team registrations across 48 countries and regions. Its 2026 results received coverage from [NVIDIA AI](https://x.com/NVIDIAAI/status/2097409504728269183) and [ECCV Daily News](https://www.rsipvision.com/ECCV2026-Thursday/12/). He serves as a Senior Area Editor for [*IEEE Transactions on Circuits and Systems for Video Technology* (T-CSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) and an Area Chair for ACM Multimedia, and delivered an invited keynote at the [UrbanAI Workshop](https://urbanai2025.github.io/) at NeurIPS’25.
 
-His honors include Best Presentation and Best Poster awards at NTECH’24, NVIDIA’s annual technical conference, and the T-CSVT Best Associate Editor Award in 2021. He led winning teams in two tracks of the [2018 AI City Challenge](https://www.aicitychallenge.org/2018-ai-city-challenge/) at CVPR and was a finalist for the Best Scientific Paper and Best Student Paper awards at [ICPR 2016](https://iapr.org/archives/icpr2016/site.1.html).
+His honors include Best Presentation and Best Poster awards at NTECH’24, NVIDIA’s annual technical conference, and the T-CSVT Best Associate Editor Award in 2021. He led winning teams in two tracks of the [2018 AI City Challenge](https://www.aicitychallenge.org/2018-ai-city-challenge/) at CVPR and was a finalist for the Best Scientific Paper and Best Student Paper awards at [ICPR’16](https://iapr.org/archives/icpr2016/site.1.html).
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
