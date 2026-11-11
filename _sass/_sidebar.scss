@@ -115,10 +115,10 @@
     border: 0;
     border-radius: 0;
     object-fit: cover;
-    // Center the portrait on the upper chest, leaving space above the head.
+    // Place the face center about two-thirds down the circular portrait.
     object-position: 94% 50%;
     transform: scale(1.8);
-    transform-origin: 50% 80%;
+    transform-origin: 50% 35.8%;
   }
 }
 
