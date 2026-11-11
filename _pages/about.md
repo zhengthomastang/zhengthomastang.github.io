@@ -7,27 +7,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# <i class="fa fa-cog fa-spin fa-fw"></i> Bio #
+# About
 
-Dr. Zheng (Thomas) Tang is a Senior Deep Learning Engineer on the Cosmos Engineering team at [NVIDIA](https://www.nvidia.com/en-us/) (2021–present). Previously, he was an Applied Scientist on the [Amazon One](https://one.amazon.com/) team at Amazon (2019–2021). He earned his Ph.D. in [Electrical & Computer Engineering](https://www.ece.uw.edu/) from the [University of Washington](https://www.washington.edu/) in 2019.
+I'm **Zheng (Thomas) Tang**, a Senior Deep Learning Engineer in [NVIDIA](https://www.nvidia.com/en-us/)'s Cosmos Engineering team. I work on multimodal models, vision-language post-training, and evaluation, spanning data selection, training, benchmarking, and deployment.
 
-His research spans multimodal foundation models, VLM/LLM post-training and evaluation, agentic AI, embedding-based retrieval, active learning, 2D/3D/BEV perception, synthetic data generation, and intelligent transportation. He is an inventor on 19 U.S. patent applications and has published 28 peer-reviewed papers in leading journals and conferences. At NVIDIA, he developed multimodal fusion search for the [VSS Blueprint](https://docs.nvidia.com/vss/latest/index.html), featured in a GTC’26 live demonstration, and a Cosmos3 VLM reranker post-training framework using language/vision LoRA and hard-negative mining. He also co-led VLM evaluation-harness improvements and developed DEFT, an active-learning pipeline that exceeded full-data fine-tuning with 37.5% of the training data and 64% less training time. His proposed reinforcement-learning framework extends this work to hard-query retrieval and ranking.
+My recent work includes:
 
-Dr. Tang contributed evaluation infrastructure for [VANTAGE-Bench](https://huggingface.co/datasets/nvidia/PhysicalAI-VANTAGE-Bench) and [Traffic Anomaly Reasoning (TAR)](https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning), supporting physical AI VLM/LLM benchmarking highlighted in the Cosmos3 release at Computex’26. He led the release and evaluation of [PhysicalAI-SmartSpaces (PAISS)](https://huggingface.co/datasets/nvidia/PhysicalAI-SmartSpaces), which has received over 900K Hugging Face downloads. Both PAISS and TAR benchmark papers were accepted to NeurIPS’26. He also leads Cosmos physics and geometry benchmarking, including a 96-question video QA pilot across 17 clips and four models, with reference qualification, controlled evaluation, and systematic error analysis.
+- **Video search and data-efficient learning.** Developed multimodal search for the [VSS Blueprint](https://docs.nvidia.com/vss), Cosmos3 VLM post-training workflows, and DEFT. The DEFT pipeline exceeded full-data retrieval quality with 37.5% of the training data and 64% less training time.
+- **Physical AI evaluation.** Lead Cosmos physics and geometry benchmarking and drive VLM counting evaluation. Led [PhysicalAI-SmartSpaces (PAISS)](https://huggingface.co/datasets/nvidia/PhysicalAI-SmartSpaces) release and evaluation (900K+ Hugging Face downloads) and contributed evaluation infrastructure for [VANTAGE-Bench](https://huggingface.co/datasets/nvidia/PhysicalAI-VANTAGE-Bench) and [Traffic Anomaly Reasoning (TAR)](https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning).
+- **Multi-camera 3D perception.** Tech-led perception development for the [Mega Omniverse Blueprint](https://blogs.nvidia.com/blog/mega-omniverse-blueprint/), demonstrated at CES and GTC 2025.
 
-Since 2020, he has led the [AI City Challenge](https://www.aicitychallenge.org/) organizing committee at CVPR, ICCV, and ECCV, helping grow the decade-long program to approximately 2.5K team registrations across 48 countries and regions. Its 2026 results received coverage from [NVIDIA AI](https://x.com/NVIDIAAI/status/2097409504728269183) and [ECCV Daily News](https://www.rsipvision.com/ECCV2026-Thursday/12/). He serves as a Senior Area Editor for [*IEEE Transactions on Circuits and Systems for Video Technology* (T-CSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) and an Area Chair for ACM Multimedia, and delivered an invited keynote at the [UrbanAI Workshop](https://urbanai2025.github.io/) at NeurIPS’25.
+Previously, I was an Applied Scientist on [Amazon One](https://one.amazon.com/) (2019–2021), developing biometric recognition methods. I earned my Ph.D. in [Electrical & Computer Engineering](https://www.ece.uw.edu/) from the [University of Washington](https://www.washington.edu/) in 2019.
 
-His honors include Best Presentation and Best Poster awards at NTECH’24, NVIDIA’s annual technical conference, and the T-CSVT Best Associate Editor Award in 2021. He led winning teams in two tracks of the [2018 AI City Challenge](https://www.aicitychallenge.org/2018-ai-city-challenge/) at CVPR and was a finalist for the Best Scientific Paper and Best Student Paper awards at [ICPR’16](https://iapr.org/archives/icpr2016/site.1.html).
+I have led the [AI City Challenge](https://www.aicitychallenge.org/) organizing committee at CVPR, ICCV, and ECCV since 2020. Across ten editions, the challenge has attracted approximately 2,500 team registrations from 48 countries and regions. I also serve as a Senior Area Editor for [*IEEE Transactions on Circuits and Systems for Video Technology* (T-CSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76).
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li><b>[Sep. 2026]</b> Two papers on <a href="/posts/2026/09/blog-post-2/">Traffic Anomaly Reasoning (TAR) and Physical AI Smart Spaces (PAISS)</a> were accepted to NeurIPS 2026</li>
+  <li><b>[Sep. 2026]</b> The <a href="https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning">Traffic Anomaly Reasoning (TAR)</a> and <a href="https://huggingface.co/datasets/nvidia/PhysicalAI-SmartSpaces">PhysicalAI-SmartSpaces (PAISS)</a> benchmark papers were accepted to NeurIPS 2026</li>
 
   <li><b>[Sep. 2026]</b> Successfully concluded the <a href="/posts/2026/09/blog-post-1/">10th AI City Challenge at ECCV 2026</a>, with 2.5K teams across 48 countries and regions engaged over the decade-long challenge, the 2026 results featured by <a href="https://x.com/NVIDIAAI/status/2097409504728269183">NVIDIA AI</a>, <a href="https://www.rsipvision.com/ECCV2026-Thursday/12/">ECCV Daily News</a>, and an <a href="https://www.linkedin.com/feed/update/urn:li:activity:7501277492108775424/">iMerit interview</a></li>
 
-  <li><b>[Jun. 2026]</b> Supported <a href="/posts/2026/06/blog-post-1/">VANTAGE-Bench and TAR benchmark efforts highlighted with NVIDIA Cosmos3 at Computex 2026</a>, including the VANTAGE-Bench evaluation system release and TAR launch alignment for AI City Challenge 2026 Track 3 at ECCV 2026</li>
+  <li><b>[Jun. 2026]</b> Supported <a href="/posts/2026/06/blog-post-1/">VANTAGE-Bench and TAR benchmark efforts highlighted with NVIDIA Cosmos 3 at Computex 2026</a>, including the VANTAGE-Bench evaluation system release and TAR launch alignment for AI City Challenge 2026 Track 3 at ECCV 2026</li>
 
   <li><b>[Apr. 2026]</b> The <a href="/posts/2026/04/blog-post-1/">10th AI City Challenge</a> was accepted as a half-day workshop at <a href="https://eccv.ecva.net/Conferences/2026/Workshops">ECCV 2026</a> in Malmo, advancing Sim2Real transfer, unified reasoning, and smart-city video AI across six tracks</li>
 
@@ -67,7 +69,7 @@ His honors include Best Presentation and Best Poster awards at NTECH’24, NVIDI
   
   <li> <b>[Oct. 2021]</b> Served as Area Chair for <a href="https://2021.ieeemlsp.org/">MLSP 2021</a></li> 
   
-  <li> <b>[May 2021]</b> Joined <a href="https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/">NVIDIA Metropolis</a> team as a Senior Deep Learning Engineer</li> 
+  <li> <b>[May 2021]</b> Joined the <a href="https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/">NVIDIA Metropolis</a> team as a Senior Data Science Engineer</li>
   
   <li> <b>[Jan. 2021]</b> Released the 5th AI City Challenge Workshop in conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></li>
   
