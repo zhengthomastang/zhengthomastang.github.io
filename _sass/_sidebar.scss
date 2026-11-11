@@ -115,10 +115,10 @@
     border: 0;
     border-radius: 0;
     object-fit: cover;
-    // Frame the original landscape photo around the face and upper body.
+    // Center the portrait at the neck, with the head and shoulders visible.
     object-position: 94% 50%;
     transform: scale(1.8);
-    transform-origin: 50% 83%;
+    transform-origin: 50% 70%;
   }
 }
 
