@@ -93,6 +93,35 @@
   }
 }
 
+.author__avatar .author__avatar-crop {
+  width: 36px;
+  max-width: 100%;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 50%;
+  box-sizing: border-box;
+
+  @include breakpoint($large) {
+    width: 175px;
+    border: 1px solid $border-color;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    object-fit: cover;
+    // Frame the original landscape photo around the face and upper body.
+    object-position: 94% 50%;
+    transform: scale(1.8);
+    transform-origin: 50% 83%;
+  }
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;
