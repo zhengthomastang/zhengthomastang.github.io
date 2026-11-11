@@ -1,0 +1,11 @@
+{% assign publication_links = include.publication %}
+{% if publication_links.resources and publication_links.resources.size > 0 %}
+  <ul class="publication-links" aria-label="Publication resources">
+    {% for resource in publication_links.resources %}
+      {% assign resource_url = resource.url %}
+      {% assign first_character = resource_url | slice: 0 %}
+      {% if first_character == "/" %}{% assign resource_url = resource_url | relative_url %}{% endif %}
+      <li><a href="{{ resource_url | escape }}" aria-label="{{ resource.label | escape }} for {{ publication_links.title | escape }}">{{ resource.label | escape }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}

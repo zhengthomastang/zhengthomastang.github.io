@@ -1,0 +1,11 @@
+{% assign publication_meta = include.publication %}
+{% if publication_meta.authors %}
+  <p class="publication-authors">{{ publication_meta.authors | escape | replace: "Zheng Tang", "<strong>Zheng Tang</strong>" }}</p>
+{% endif %}
+<p class="publication-venue">
+  <strong>{{ publication_meta.venue_short | default: publication_meta.venue | escape }}</strong>
+  <span aria-hidden="true"> &middot; </span>
+  <time datetime="{{ publication_meta.date | date: '%Y-%m-%d' }}">{{ publication_meta.date | date: "%B %Y" }}</time>
+  {% if publication_meta.presentation %}<span class="publication-presentation">{{ publication_meta.presentation | escape }}</span>{% endif %}
+</p>
+{% if publication_meta.date_note %}<p class="publication-date-note">{{ publication_meta.date_note | escape }}</p>{% endif %}
