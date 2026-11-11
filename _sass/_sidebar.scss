@@ -115,10 +115,10 @@
     border: 0;
     border-radius: 0;
     object-fit: cover;
-    // Center the portrait between the neck and chest.
+    // Center the portrait on the upper chest, leaving space above the head.
     object-position: 94% 50%;
     transform: scale(1.8);
-    transform-origin: 50% 76.5%;
+    transform-origin: 50% 80%;
   }
 }
 
