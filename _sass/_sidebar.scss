@@ -115,10 +115,10 @@
     border: 0;
     border-radius: 0;
     object-fit: cover;
-    // Place the face center about two-thirds down the circular portrait.
+    // Place the face center one-third from the top (two-thirds from the bottom).
     object-position: 94% 50%;
     transform: scale(1.8);
-    transform-origin: 50% 35.8%;
+    transform-origin: 50% 77.5%;
   }
 }
 
