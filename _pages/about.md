@@ -25,7 +25,7 @@ I have led the [AI City Challenge](https://www.aicitychallenge.org/) organizing 
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li><b>[Nov. 2026]</b> Our paper, <a href="/publications/PAISS">Physical AI Smart Spaces (PAISS)</a>, received the Best Paper Award in the Robotics, Vision and Autonomous Vehicles category at NTECH 2026, NVIDIA's annual internal conference</li>
+  <li><b>[Nov. 2026]</b> Our internal paper based on the <a href="https://huggingface.co/datasets/nvidia/PhysicalAI-SmartSpaces">PhysicalAI-SmartSpaces (PAISS) dataset</a> received the Best Paper Award in the Robotics, Vision and Autonomous Vehicles category at NTECH 2026, NVIDIA's annual internal conference. A separate <a href="/publications/PAISS">NeurIPS 2026 paper</a> uses the same dataset</li>
 
   <li><b>[Sep. 2026]</b> The <a href="https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning">Traffic Anomaly Reasoning (TAR)</a> and <a href="https://huggingface.co/datasets/nvidia/PhysicalAI-SmartSpaces">PhysicalAI-SmartSpaces (PAISS)</a> benchmark papers were accepted to NeurIPS 2026</li>
 
