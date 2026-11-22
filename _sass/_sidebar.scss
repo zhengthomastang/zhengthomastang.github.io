@@ -94,7 +94,10 @@
 }
 
 .author__avatar .author__avatar-crop {
+  position: relative;
   width: 36px;
+  // A definite height keeps landscape images sized to the mobile table cell.
+  height: 36px;
   max-width: 100%;
   aspect-ratio: 1;
   overflow: hidden;
@@ -103,10 +106,13 @@
 
   @include breakpoint($large) {
     width: 175px;
+    height: auto;
     border: 1px solid $border-color;
   }
 
   img {
+    position: absolute;
+    inset: 0;
     display: block;
     width: 100%;
     height: 100%;
